@@ -16,9 +16,9 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
 #### Figure 3 (Quantitative dynamics of driver mutations in the decades before AML diagnosis):
 - Github folder: _Acquisition age and fitness of driver mutations_
 - **Figures 3a-c**:
-    - Github folder: _Acquisition age and fitness of driver mutations
+    - Github folder: _Acquisition age and fitness of driver mutations_
 - **Figures 3d-g**:
-    - Github folder: _Acquisition age and fitness of driver mutations
+    - Github folder: _Acquisition age and fitness of driver mutations_
     
 #### Figure 4 (Fitness and occurrence time estimates of pre-leukaemic driver events):
 - Github folder: _Acquisition age and fitness of driver mutations_
