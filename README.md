@@ -13,7 +13,7 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
 #### Figure 2 (Reconstruction of clonal evolutionary histories in AML):
 - Github folder: _Muller plots_
     
-#### Figure 3 (Quantitatuve dynamics of driver mutations in the decades before AML diagnosis):
+#### Figure 3 (Quantitative dynamics of driver mutations in the decades before AML diagnosis):
 - Github folder: _Acquisition age and fitness of driver mutations_
     
 #### Figure 4 (Fitness and occurrence time estimates of pre-leukaemic driver events):
