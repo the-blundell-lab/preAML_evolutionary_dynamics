@@ -14,7 +14,6 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
 - Github folder: _Muller plots_
     
 #### Figure 3 (Quantitative dynamics of driver mutations in the decades before AML diagnosis):
-- Github folder: _Acquisition age and fitness of driver mutations_
 - **Figures 3a-c**:
     - Github folder: _Acquisition age and fitness of driver mutations_
 - **Figures 3d-g**:
