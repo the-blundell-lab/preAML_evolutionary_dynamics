@@ -39,7 +39,7 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
 - Github folder: _UKCTOCS samples/UKCTOCS samples_
  
 #### Extended Data Figure 2 (Classes of mutations detected in pre-AML and control samples):
-- Github folder: _Classes of mutations detected_
+- Github folder: _Classes of mutations detected/Extended Data - Scrabble plots.ipynb_
 
 #### Extended Data Figures 3-9 (Quantitative dynamics of driver mutations in the decades before AML diagnosis):
 - Github folder: _Acquisition age and fitness of driver mutations/Code_for_inferring_acquisition_age_and_fitness_v14.py_
