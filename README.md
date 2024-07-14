@@ -35,7 +35,7 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
 
  
 ### Code & data for generation of Extended Data figures:
-#### Extended Data Figures 1 (Longitudinal blood samples pre-AML diagnosis):
+#### Extended Data Figure 1a (Longitudinal blood samples pre-AML diagnosis):
 - Github folder: _UKCTOCS samples/UKCTOCS samples_
  
 #### Extended Data Figure 2 (Classes of mutations detected in pre-AML and control samples):
