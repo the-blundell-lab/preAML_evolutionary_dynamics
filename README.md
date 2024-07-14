@@ -11,20 +11,21 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
 - _Figure 1 - All trajectories and burden of mutations.ipynb_
 
 #### Figure 2 (Reconstruction of clonal evolutionary histories in AML):
-- Github folder: _Phylogeny and Muller plots_
+- Github folder: _Acquisition age and fitness of driver mutations/Muller_plots.ipynb_ 
     
 #### Figure 3 (Quantitative dynamics of driver mutations in the decades before AML diagnosis):
 - **Figures 3a-c**:
-    - Github folder: _Acquisition age and fitness of driver mutations_
+    - Github folder: _Acquisition age and fitness of driver mutations/Figure 3 - Schematic for clonal behaviour.ipynb_
 - **Figures 3d-g**:
-    - Github folder: _Acquisition age and fitness of driver mutations_
-    - Github folder: _Phylogeny and Muller plots_
+    - Github folder: _Acquisition age and fitness of driver mutations/Code_for_inferring_acquisition_age_and_fitness_v14.py_
+    - Github folder: _Acquisition age and fitness of driver mutations/Figure 3 - Extended Data - Supplement - Plotting cell fraction trajectories from s and t inferences.ipynb_
+    - Github folder: _Acquisition age and fitness of driver mutations/Phylogeny_plots.ipynb_ 
     
 #### Figure 4 (Fitness and occurrence time estimates of pre-leukaemic driver events):
-- Github folder: _Acquisition age and fitness of driver mutations_
+- Github folder: _Acquisition age and fitness of driver mutations/Figures 4 and 5 - Acquisition_age_fitness_summary_plot.ipynb_
   
 #### Figure 5 (Fitness effects of driver mutations in pre-AML cases):
-- Github folder: _Acquisition age and fitness of driver mutations_
+- Github folder: _Acquisition age and fitness of driver mutations/Figures 4 and 5 - Acquisition_age_fitness_summary_plot.ipynb_
   
 #### Figure 6 (A unifying framework for pre-leukaemic clonal dynamics):
 - **Figure 2b-e**:
@@ -41,8 +42,9 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
 - Github folder: _Classes of mutations detected_
 
 #### Extended Data Figures 3-9 (Quantitative dynamics of driver mutations in the decades before AML diagnosis):
-- Github folder: _Acquisition age and fitness of driver mutations_
-- Github folder: _Phylogeny and Muller plots_
+- Github folder: _Acquisition age and fitness of driver mutations/Code_for_inferring_acquisition_age_and_fitness_v14.py_
+- Github folder: _Acquisition age and fitness of driver mutations/Figure 3 - Extended Data - Supplement - Plotting cell fraction trajectories from s and t inferences.ipynb_
+- Github folder: _Acquisition age and fitness of driver mutations/Phylogeny_plots.ipynb_ 
  
 #### Extended Data Figure 10 (Simulated pre-AML cases and controls):
 - Github folder: _Clonal dynamic simulations_
@@ -83,11 +85,12 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
 - Github folder: _TETRIS-seq performance_
 
 - #### Supplementary Figures 15-21 (Reconstruction of clonal evolutionary histories):
-- Github folder: _Muller plots_
+- Github folder: _Acquisition age and fitness of driver mutations/Muller_plots.ipynb_ 
 
 #### Supplementary Figures 22-30 (Quantitative dynamics of driver mutations in the decades before AML diagnosis):
-- Github folder: _Acquisition age and fitness of driver mutations_
-- Github folder: _Phylogeny and Muller plots_
+- Github folder: _Acquisition age and fitness of driver mutations/Code_for_inferring_acquisition_age_and_fitness_v14.py_
+- Github folder: _Acquisition age and fitness of driver mutations/Figure 3 - Extended Data - Supplement - Plotting cell fraction trajectories from s and t inferences.ipynb_
+- Github folder: _Acquisition age and fitness of driver mutations/Phylogeny_plots.ipynb_ 
   
 ## LICENSE
 [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
