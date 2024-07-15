@@ -77,16 +77,16 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
 #### Supplementary Figure 11 (Distribution of final position-specific error rates, grouped by base change):
 - Github folder: _TETRIS-seq performance_
 
-- #### Supplementary Figure 12 (LRR and BAF deviations for mCA detection (schematic):
+#### Supplementary Figure 12 (LRR and BAF deviations for mCA detection (schematic):
 - Github folder: _TETRIS-seq performance/Supplement - mCA simulations.ipynb_
 
-- #### Supplementary Figure 13 (Phasing SNPs for detection of low cell fraction mCAs (schematic):
+#### Supplementary Figure 13 (Phasing SNPs for detection of low cell fraction mCAs (schematic):
 - Github folder: _TETRIS-seq performance/Supplement - mCA simulations.ipynb_
 
-- #### Supplementary Figure 14 (Schematic showing the effect of KMT2A-PTD on exon 3: exon 27 read depth ratios (schematic):
+#### Supplementary Figure 14 (Schematic showing the effect of KMT2A-PTD on exon 3: exon 27 read depth ratios (schematic):
 - Github folder: _TETRIS-seq performance/Supplement - KMT2A PTD simulation.ipynb_
 
-- #### Supplementary Figures 15-21 (Reconstruction of clonal evolutionary histories):
+#### Supplementary Figures 15-21 (Reconstruction of clonal evolutionary histories):
 - Github file: _Figure 2 - Supplement - Muller_plots.ipynb_ 
 
 #### Supplementary Figures 22-30 (Quantitative dynamics of driver mutations in the decades before AML diagnosis):
