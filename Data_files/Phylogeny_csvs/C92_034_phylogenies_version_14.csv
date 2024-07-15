@@ -1,0 +1,12 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['SRSF2_p.P95L', 'chrX_gain', 'DNMT3A_p.R882H', 'TET2_p.Q1389X', 'TET2_p.C1298Y', 'SRSF2_p.P95R', 'EZH2_p.P558Q', 'JAK2_p.V617F', 'TET2_p.Q659X', 'SRSF2_p.P95H']",0,0,#cccccc
+SRSF2_p.P95L,stem cells,['chrX_gain'],[],2,1,#2171b5
+chrX_gain,stem cells,['SRSF2_p.P95L'],"['DNMT3A_p.R882H', 'TET2_p.Q1389X', 'TET2_p.C1298Y', 'SRSF2_p.P95R', 'EZH2_p.P558Q', 'JAK2_p.V617F', 'TET2_p.Q659X', 'SRSF2_p.P95H']",2,1,#9ecae1
+DNMT3A_p.R882H,chrX_gain,[],"['TET2_p.Q1389X', 'TET2_p.C1298Y', 'SRSF2_p.P95R', 'EZH2_p.P558Q', 'JAK2_p.V617F', 'TET2_p.Q659X', 'SRSF2_p.P95H']",1,2,#41ab5d
+TET2_p.Q1389X,DNMT3A_p.R882H,"['TET2_p.C1298Y', 'SRSF2_p.P95R', 'EZH2_p.P558Q', 'JAK2_p.V617F']",['TET2_p.Q659X'],5,3,#662506
+TET2_p.C1298Y,DNMT3A_p.R882H,"['TET2_p.Q1389X', 'SRSF2_p.P95R', 'EZH2_p.P558Q', 'JAK2_p.V617F']",[],5,3,#fe9929
+SRSF2_p.P95R,DNMT3A_p.R882H,"['TET2_p.Q1389X', 'TET2_p.C1298Y', 'EZH2_p.P558Q', 'JAK2_p.V617F']",[],5,3,#cc4c02
+EZH2_p.P558Q,DNMT3A_p.R882H,"['TET2_p.Q1389X', 'TET2_p.C1298Y', 'SRSF2_p.P95R', 'JAK2_p.V617F']",['SRSF2_p.P95H'],5,3,#fff7bc
+JAK2_p.V617F,DNMT3A_p.R882H,"['TET2_p.Q1389X', 'TET2_p.C1298Y', 'SRSF2_p.P95R', 'EZH2_p.P558Q']",[],5,3,#fed976
+TET2_p.Q659X,TET2_p.Q1389X,[],[],1,4,#bc2221
+SRSF2_p.P95H,EZH2_p.P558Q,[],[],1,4,#f0a1a1

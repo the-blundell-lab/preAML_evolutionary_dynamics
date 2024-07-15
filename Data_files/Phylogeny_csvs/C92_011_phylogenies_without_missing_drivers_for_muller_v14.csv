@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],"['TP53_p.H193R', 'MPL_p.W515L']",0,0,"[98.36, 98.05, 98.27, 96.82, 96.18, 94.56, 92.49, 89.87]",0.0,98.36,#cccccc
+TP53_p.H193R,stem cells,['MPL_p.W515L'],[],2,1,"[0.73, 1.51, 1.05, 2.67, 3.56, 5.16, 7.51, 9.98]",64.94,9.98,#9ecae1
+MPL_p.W515L,stem cells,['TP53_p.H193R'],[],2,1,"[0.91, 0.44, 0.68, 0.51, 0.26, 0.28, 0, 0.15]",64.94,0.91,#2171b5

@@ -1,0 +1,9 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['SRSF2_p.P95H', 'TET2_p.C1273Gfs*25', 'RUNX1_p.N69S', 'Z', 'TET2_p.Q917X', 'TET2_p.N1266S', 'X']",0,0,#cccccc
+SRSF2_p.P95H,stem cells,"['TET2_p.C1273Gfs*25', 'RUNX1_p.N69S', 'Z']","['TET2_p.Q917X', 'TET2_p.N1266S', 'X']",4,1,#2171b5
+TET2_p.C1273Gfs*25,stem cells,"['SRSF2_p.P95H', 'RUNX1_p.N69S', 'Z']",[],4,1,#9ecae1
+RUNX1_p.N69S,stem cells,"['SRSF2_p.P95H', 'TET2_p.C1273Gfs*25', 'Z']",[],4,1,#08306b
+Z,stem cells,"['SRSF2_p.P95H', 'TET2_p.C1273Gfs*25', 'RUNX1_p.N69S']",[],4,1,#deebf7
+TET2_p.Q917X,SRSF2_p.P95H,['TET2_p.N1266S'],[],2,2,#74c476
+TET2_p.N1266S,SRSF2_p.P95H,['TET2_p.Q917X'],['X'],2,2,#006d2c
+X,TET2_p.N1266S,[],[],1,3,#fd8d3c

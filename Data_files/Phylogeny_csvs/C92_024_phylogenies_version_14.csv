@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['DNMT3A_p.K154del', 'WT1_p.P381Rfs*73']",0,0,#cccccc
+DNMT3A_p.K154del,stem cells,[],['WT1_p.P381Rfs*73'],1,1,#6ba3d6
+WT1_p.P381Rfs*73,DNMT3A_p.K154del,[],[],1,2,#41ab5d

@@ -1,0 +1,7 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['BCORL1_p.R1536H', 'TET2_p.Q108X', 'X', 'ASXL1_p.A709T', 'TET2_p.S1292R']",0,0,#cccccc
+BCORL1_p.R1536H,stem cells,[],"['TET2_p.Q108X', 'X', 'ASXL1_p.A709T', 'TET2_p.S1292R']",1,1,#6ba3d6
+TET2_p.Q108X,BCORL1_p.R1536H,"['X', 'ASXL1_p.A709T']",['TET2_p.S1292R'],3,2,#00441b
+X,BCORL1_p.R1536H,"['TET2_p.Q108X', 'ASXL1_p.A709T']",[],3,2,#a1d99b
+ASXL1_p.A709T,BCORL1_p.R1536H,"['TET2_p.Q108X', 'X']",[],3,2,#238b45
+TET2_p.S1292R,TET2_p.Q108X,[],[],1,3,#fd8d3c

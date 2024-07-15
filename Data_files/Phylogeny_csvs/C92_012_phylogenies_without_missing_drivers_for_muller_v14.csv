@@ -1,0 +1,7 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],"['SRSF2_p.P95H', 'TET2_p.C1273Gfs*25', 'RUNX1_p.N69S', 'TET2_p.Q917X', 'TET2_p.N1266S']",0,0,"[55.3, 58.22, 51.12, 39.72, 27.59, 31.42, 45.5, 36.98]",0.0,58.22,#cccccc
+SRSF2_p.P95H,stem cells,"['TET2_p.C1273Gfs*25', 'RUNX1_p.N69S']","['TET2_p.Q917X', 'TET2_p.N1266S']",3,1,"[16.91, 18.49, 10.819999999999997, 6.3199999999999985, 7.879999999999999, 0, 0, 0.39000000000000057]",60.98,18.49,#2171b5
+TET2_p.C1273Gfs*25,stem cells,"['SRSF2_p.P95H', 'RUNX1_p.N69S']",[],3,1,"[11.26, 6.52, 6.7, 3.2, 0.92, 0.92, 0, 0]",60.98,11.26,#9ecae1
+RUNX1_p.N69S,stem cells,"['SRSF2_p.P95H', 'TET2_p.C1273Gfs*25']",[],3,1,"[4.98, 4.42, 1.52, 0.94, 0.8, 0.33, 0, 0]",60.98,4.98,#08306b
+TET2_p.N1266S,SRSF2_p.P95H,['TET2_p.Q917X'],[],2,2,"[11.55, 10.8, 18.24, 12.87, 8.8, 4.56, 5.39, 46.96]",60.98,46.96,#006d2c
+TET2_p.Q917X,SRSF2_p.P95H,['TET2_p.N1266S'],[],2,2,"[0, 1.55, 11.6, 36.95, 54.01, 65.5, 52.0, 15.67]",62.03,65.5,#74c476

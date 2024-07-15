@@ -1,0 +1,5 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['TET2_p.Q538X', 'GATA2_p.A302S', 'DNMT3A_p.R544S']",0,0,#cccccc
+TET2_p.Q538X,stem cells,[],"['GATA2_p.A302S', 'DNMT3A_p.R544S']",1,1,#6ba3d6
+GATA2_p.A302S,TET2_p.Q538X,[],['DNMT3A_p.R544S'],1,2,#41ab5d
+DNMT3A_p.R544S,GATA2_p.A302S,[],[],1,3,#fd8d3c

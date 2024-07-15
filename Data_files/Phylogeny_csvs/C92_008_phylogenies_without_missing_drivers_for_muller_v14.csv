@@ -1,0 +1,3 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],['TET2_p.G1361V'],0,0,"[84.71, 78.25, 67.26, 61.72, 64.32, 46.66, 48.6, 47.25, 47.87, 44.97]",0.0,84.71,#cccccc
+TET2_p.G1361V,stem cells,[],[],1,1,"[15.29, 21.75, 32.74, 38.28, 35.68, 53.34, 51.4, 52.75, 52.13, 55.03]",57.58,55.03,#9ecae1

@@ -1,0 +1,6 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['SRSF2_p.P95L', 'CHEK2_p.Q330X', 'IDH2_p.R140Q', 'IDH1_p.R132H']",0,0,#cccccc
+SRSF2_p.P95L,stem cells,['CHEK2_p.Q330X'],"['IDH2_p.R140Q', 'IDH1_p.R132H']",2,1,#9ecae1
+CHEK2_p.Q330X,stem cells,['SRSF2_p.P95L'],[],2,1,#2171b5
+IDH2_p.R140Q,SRSF2_p.P95L,['IDH1_p.R132H'],[],2,2,#006d2c
+IDH1_p.R132H,SRSF2_p.P95L,['IDH2_p.R140Q'],[],2,2,#74c476

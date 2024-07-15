@@ -1,0 +1,6 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],"['SF3B1_p.K666N', 'NPM1_p.W288Cfs*12', 'WT1_p.E500K', 'WT1_p.R385Gfs*5']",0,0,"[75.88, 100, 63.5, 57.04, 48.79, 37.02, 15.26]",0.0,100.0,#cccccc
+SF3B1_p.K666N,stem cells,[],"['NPM1_p.W288Cfs*12', 'WT1_p.E500K', 'WT1_p.R385Gfs*5']",1,1,"[24.12, 0, 36.5, 42.96, 47.13, 60.519999999999996, 42.62]",66.56,60.519999999999996,#6ba3d6
+NPM1_p.W288Cfs*12,SF3B1_p.K666N,[],"['WT1_p.E500K', 'WT1_p.R385Gfs*5']",1,2,"[0, 0, 0, 0, 4.08, 1.05, 1.3699999999999974]",72.48,4.08,#41ab5d
+WT1_p.E500K,NPM1_p.W288Cfs*12,[],['WT1_p.R385Gfs*5'],1,3,"[0, 0, 0, 0, 0, 1.21, 36.55]",73.63,36.55,#fd8d3c
+WT1_p.R385Gfs*5,WT1_p.E500K,[],[],1,4,"[0, 0, 0, 0, 0, 0.2, 4.2]",73.63,4.2,#da2b2b

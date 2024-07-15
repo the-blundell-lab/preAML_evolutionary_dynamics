@@ -1,0 +1,8 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['DNMT3A_p.Y735C', 'DNMT3A_p.L637P', 'TET2_p.G1913D', 'DNMT3A_p.V649M', 'DNMT3A_p.E371X', 'DNMT3A_p.R688G']",0,0,#cccccc
+DNMT3A_p.Y735C,stem cells,"['DNMT3A_p.L637P', 'TET2_p.G1913D', 'DNMT3A_p.V649M', 'DNMT3A_p.E371X']",[],5,1,#4292c6
+DNMT3A_p.L637P,stem cells,"['DNMT3A_p.Y735C', 'TET2_p.G1913D', 'DNMT3A_p.V649M', 'DNMT3A_p.E371X']",['DNMT3A_p.R688G'],5,1,#deebf7
+TET2_p.G1913D,stem cells,"['DNMT3A_p.Y735C', 'DNMT3A_p.L637P', 'DNMT3A_p.V649M', 'DNMT3A_p.E371X']",[],5,1,#08519c
+DNMT3A_p.V649M,stem cells,"['DNMT3A_p.Y735C', 'DNMT3A_p.L637P', 'TET2_p.G1913D', 'DNMT3A_p.E371X']",[],5,1,#9ecae1
+DNMT3A_p.E371X,stem cells,"['DNMT3A_p.Y735C', 'DNMT3A_p.L637P', 'TET2_p.G1913D', 'DNMT3A_p.V649M']",[],5,1,#08306b
+DNMT3A_p.R688G,DNMT3A_p.L637P,[],[],1,2,#41ab5d

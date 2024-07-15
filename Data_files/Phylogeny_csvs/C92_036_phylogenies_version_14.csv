@@ -1,0 +1,5 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['DNMT3A_p.R720L', 'DNMT3A_p.R729W', 'X']",0,0,#cccccc
+DNMT3A_p.R720L,stem cells,"['DNMT3A_p.R729W', 'X']",[],3,1,#08306b
+DNMT3A_p.R729W,stem cells,"['DNMT3A_p.R720L', 'X']",[],3,1,#9ecae1
+X,stem cells,"['DNMT3A_p.R720L', 'DNMT3A_p.R729W']",[],3,1,#2171b5

@@ -1,0 +1,9 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['DNMT3A_p.R736H', 'RAD21_p.Q435X', 'DNMT3A_p.W860R', 'RUNX1_p.G190E', 'DNMT3A_p.P777R', 'chr7q_CNLOH', 'X']",0,0,#cccccc
+DNMT3A_p.R736H,stem cells,"['RAD21_p.Q435X', 'DNMT3A_p.W860R', 'RUNX1_p.G190E']","['DNMT3A_p.P777R', 'chr7q_CNLOH', 'X']",4,1,#08306b
+RAD21_p.Q435X,stem cells,"['DNMT3A_p.R736H', 'DNMT3A_p.W860R', 'RUNX1_p.G190E']",[],4,1,#deebf7
+DNMT3A_p.W860R,stem cells,"['DNMT3A_p.R736H', 'RAD21_p.Q435X', 'RUNX1_p.G190E']",[],4,1,#9ecae1
+RUNX1_p.G190E,stem cells,"['DNMT3A_p.R736H', 'RAD21_p.Q435X', 'DNMT3A_p.W860R']",[],4,1,#2171b5
+DNMT3A_p.P777R,DNMT3A_p.R736H,[],"['chr7q_CNLOH', 'X']",1,2,#41ab5d
+chr7q_CNLOH,DNMT3A_p.P777R,[],['X'],1,3,#fd8d3c
+X,chr7q_CNLOH,[],[],1,4,#da2b2b

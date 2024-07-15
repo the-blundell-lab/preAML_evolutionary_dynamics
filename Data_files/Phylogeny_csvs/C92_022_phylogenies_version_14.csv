@@ -1,0 +1,12 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['TET2_p.S1593Afs*3', 'CBL_p.R420Q', 'TET2_p.H1380D', 'SRSF2_p.P95H', 'MPL_p.W515L', 'JAK2_p.V617F', 'chr19p_CNLOH', 'KRAS_p.G60D', 'chr9p_CNLOH', 'X']",0,0,#cccccc
+TET2_p.S1593Afs*3,stem cells,['CBL_p.R420Q'],"['TET2_p.H1380D', 'SRSF2_p.P95H', 'MPL_p.W515L', 'JAK2_p.V617F', 'chr19p_CNLOH', 'KRAS_p.G60D', 'chr9p_CNLOH', 'X']",2,1,#9ecae1
+CBL_p.R420Q,stem cells,['TET2_p.S1593Afs*3'],[],2,1,#2171b5
+TET2_p.H1380D,TET2_p.S1593Afs*3,[],"['SRSF2_p.P95H', 'MPL_p.W515L', 'JAK2_p.V617F', 'chr19p_CNLOH', 'KRAS_p.G60D', 'chr9p_CNLOH', 'X']",1,2,#41ab5d
+SRSF2_p.P95H,TET2_p.H1380D,[],"['MPL_p.W515L', 'JAK2_p.V617F', 'chr19p_CNLOH', 'KRAS_p.G60D', 'chr9p_CNLOH', 'X']",1,3,#fd8d3c
+MPL_p.W515L,SRSF2_p.P95H,"['JAK2_p.V617F', 'chr19p_CNLOH', 'KRAS_p.G60D']",[],4,4,#f0a1a1
+JAK2_p.V617F,SRSF2_p.P95H,"['MPL_p.W515L', 'chr19p_CNLOH', 'KRAS_p.G60D']","['chr9p_CNLOH', 'X']",4,4,#da2b2b
+chr19p_CNLOH,SRSF2_p.P95H,"['MPL_p.W515L', 'JAK2_p.V617F', 'KRAS_p.G60D']",[],4,4,#fad4d4
+KRAS_p.G60D,SRSF2_p.P95H,"['MPL_p.W515L', 'JAK2_p.V617F', 'chr19p_CNLOH']",[],4,4,#9b191c
+chr9p_CNLOH,JAK2_p.V617F,[],['X'],1,5,#834594
+X,chr9p_CNLOH,[],[],1,6,#4e4d4d
