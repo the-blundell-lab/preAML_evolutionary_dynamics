@@ -10,7 +10,7 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
 #### Figure 1c (Deep sequencing of serial blood samples in the decades preceding AML):
 - Github file: _Figure 1 - All trajectories and burden of mutations.ipynb_
 
-#### Figure 2 (Reconstruction of clonal evolutionary histories in AML):
+#### Figure 2 (Reconstruction of clonal evolutionary histories pre-AML):
 - Github file: _Figure 2 - Supplement - Muller_plots.ipynb_ 
     
 #### Figure 3 (Quantitative dynamics of driver mutations in the decades before AML diagnosis):
