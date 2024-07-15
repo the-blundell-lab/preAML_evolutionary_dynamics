@@ -52,10 +52,10 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
 
 ### Code & data for generation of figures/ analyses in supplement:
 #### Supplementary Figures 1-4 (Gene regions targeted by TETRIS-seq SNV/ indel panel):
-- Github folder: _TETRIS-seq targeted regions_
+- Github folder: _TETRIS-seq targeted regions/Gene regions targeted by TETRIS-seq SNV_indel panel.ipynb_
     
 #### Supplementary Figure 5 (Custom panel coverage of chromosomal rearrangement breakpoint regions):
-- Github folder: _TETRIS-seq targeted regions_
+- Github folder: _TETRIS-seq targeted regions/Chromosomal rearrangement breakpoint regions targeted by TETRIS-seq.ipynb_
       
 #### Supplementary Figure 6 (Error-corrected sequencing metrics (SNV/ indel panel)):
 - Github folder: _TETRIS-seq performance_
