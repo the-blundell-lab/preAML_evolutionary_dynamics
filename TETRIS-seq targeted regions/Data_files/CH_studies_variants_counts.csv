@@ -1,0 +1,1616 @@
+Gene,Variant,AA position,Varianttype, Jaiswal 2014, Genovese 2014, ZinkWGS 2017, Coombs 2017, Desai 2018, Acuna-Hidalgo 2017m, McKerrel 2015, Young 2016, Young 2019 ,,AA position
+ABL1,p.R332Q,332,Missense,0,0,0,0,0,0,0,0,1,,332
+ABL1,p.E355Q,355,Missense,0,0,0,0,0,0,0,0,1,,355
+ABL1,p.C464Y,464,Missense,0,0,0,1,0,0,0,0,0,,464
+ABL1,p.S1120L,1120,Missense,0,0,0,1,0,0,0,0,0,,1120
+ACSS2,p.T264P,264,Missense,0,0,4,0,0,0,0,0,0,,264
+ADNP,p.Y719Y,719,Synonymous,0,0,0,0,0,1,0,0,0,,719
+AKAP17A,p.F121S,121,Missense,0,0,1,0,0,0,0,0,0,,121
+AKAP17A,p.T123P,123,Missense,0,0,3,0,0,0,0,0,0,,123
+APC,p.R2801Q,2801,Missense,0,0,0,1,0,0,0,0,0,,2801
+AR,p.Q66L,66,Missense,0,0,0,1,0,0,0,0,0,,66
+AR,p.I816S,816,Missense,0,0,0,1,0,0,0,0,0,,816
+AR,p.Q825K,825,Missense,0,0,0,1,0,0,0,0,0,,825
+AR,p.56_60del,5660,Deletion,0,0,0,1,0,0,0,0,0,,5660
+AR,p.G452_G453insGGG,452453,Insertion,0,0,0,1,0,0,0,0,0,,452453
+ARID1A,p.P223A,223,Missense,0,0,0,1,0,0,0,0,0,,223
+ARID1A,p.E1763*,1763,Nonsense,0,0,0,1,0,0,0,0,0,,1763
+ARID1A,p.Y222_P223insV,222223,Insertion,0,0,0,1,0,0,0,0,0,,222223
+ARID1B,p.M1016T,1016,Missense,0,0,0,1,0,0,0,0,0,,1016
+ARID1B,p.D1308N,1308,Missense,0,0,0,1,0,0,0,0,0,,1308
+ARID1B,p.F113_Q114insQ,113114,Insertion,0,0,0,1,0,0,0,0,0,,113114
+ARID2,p.A1250fs,1250,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,1250
+ARID2,p.R1792fs,1792,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,1792
+ASXL1,p.Q207del,207,Inframe Deletion,0,0,0,0,1,0,0,0,0,,207
+ASXL1,p.E352fs,352,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,352
+ASXL1,p.Q377*,377,Nonsense,0,0,0,1,0,0,0,0,0,,377
+ASXL1,p.L386*,386,Nonsense,0,1,0,0,0,0,0,0,0,,386
+ASXL1,p.S392*,392,Nonsense,0,0,1,1,0,0,0,0,0,,392
+ASXL1,p.R404*,404,Nonsense,5,0,2,1,0,1,0,0,0,,404
+ASXL1,p.R417*,417,Nonsense,5,0,0,0,0,0,0,0,0,,417
+ASXL1,p.Y425fs,425,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,425
+ASXL1,p.Q428Afs,428,Frameshift Insertion,0,0,1,0,0,0,0,0,0,,428
+ASXL1,p.Q428*,428,Nonsense,1,0,0,0,0,0,0,0,0,,428
+ASXL1,p.Q432*,432,Nonsense,1,1,0,0,0,0,0,0,0,,432
+ASXL1,p.S444*,444,Nonsense,2,0,0,0,0,0,0,0,0,,444
+ASXL1,p.P458Qfs,458,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,458
+ASXL1,p.R489Q,489,Missense,0,0,0,0,1,0,0,0,0,,489
+ASXL1,p.R506Nfs,506,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,506
+ASXL1,p.Q512*,512,Nonsense,1,0,0,0,0,0,0,0,0,,512
+ASXL1,p.E513*,513,Nonsense,1,0,0,0,0,0,0,0,0,,513
+ASXL1,p.T514fs,514,Frameshift Deletion,2,0,0,0,0,0,0,0,0,,514
+ASXL1,p.Q517*,517,Nonsense,1,0,0,0,0,0,0,0,0,,517
+ASXL1,p.E518*,518,Nonsense,1,0,0,0,0,0,0,0,0,,518
+ASXL1,p.E518fs,518,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,518
+ASXL1,p.Q522*,522,Nonsense,0,1,0,0,0,0,0,0,0,,522
+ASXL1,p.Q529*,529,Nonsense,1,0,0,0,0,0,0,0,0,,529
+ASXL1,p.L542fs,542,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,542
+ASXL1,p.Q546*,546,Nonsense,1,0,0,0,0,0,0,0,0,,546
+ASXL1,p.R549fs,549,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,549
+ASXL1,p.Q575*,575,Nonsense,1,0,0,0,0,0,0,0,0,,575
+ASXL1,p.W583*,583,Nonsense,1,0,0,1,0,0,0,0,0,,583
+ASXL1,p.Q588*,588,Nonsense,0,0,1,0,0,1,0,0,0,,588
+ASXL1,p.Y591*,591,Nonsense,1,0,3,1,0,0,0,0,0,,591
+ASXL1,p.Y591fs,591,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,591
+ASXL1,p.Y591fs,591,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,591
+ASXL1,p.Q592*,592,Nonsense,0,0,1,0,1,0,0,0,0,,592
+ASXL1,p.C594*,594,Nonsense,1,0,0,0,0,0,0,0,0,,594
+ASXL1,p.R606fs,606,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,606
+ASXL1,p.D616fs,616,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,616
+ASXL1,p.H630fs,630,Frameshift Deletion,1,0,0,5,0,0,0,0,0,,630
+ASXL1,p.R634fs,634,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,634
+ASXL1,p.G642*,642,Nonsense,0,0,0,1,0,0,0,0,0,,642
+ASXL1,p.G642fs,642,Frameshift Duplication,0,0,0,3,0,0,0,0,0,,642
+ASXL1,p.G642fs,642,Frameshift Insertion,5,0,0,0,0,0,0,0,0,,642
+ASXL1,p.G645Wfs,645,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,645
+ASXL1,p.G652S,652,Missense,0,0,1,0,0,0,0,0,0,,652
+ASXL1,p.Q692*,692,Nonsense,1,0,0,0,0,0,0,0,0,,692
+ASXL1,p.R693*,693,Nonsense,3,2,0,1,0,2,0,0,0,,693
+ASXL1,p.Q695fs,695,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,695
+ASXL1,p.L696Tfs,696,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,696
+ASXL1,p.Q708*,708,Nonsense,0,0,0,3,0,0,0,0,0,,708
+ASXL1,p.G710fs,710,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,710
+ASXL1,p.A716S,716,Missense,0,0,0,1,0,0,0,0,0,,716
+ASXL1,p.L724L,724,Synonymous,0,0,0,0,0,0,0,0,1,,724
+ASXL1,p.R725*,725,Nonsense,0,1,0,0,0,0,0,0,0,,725
+ASXL1,p.S729I,729,Missense,0,0,0,0,0,0,0,0,1,,729
+ASXL1,p.Q748*,748,Nonsense,1,0,0,0,0,0,0,0,0,,748
+ASXL1,p.V751Lfs,751,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,751
+ASXL1,p.Q757*,757,Nonsense,1,0,0,0,0,0,0,0,0,,757
+ASXL1,p.Q760*,760,Nonsense,1,0,0,0,0,0,0,0,0,,760
+ASXL1,p.Q768*,768,Nonsense,2,0,0,0,0,0,0,0,0,,768
+ASXL1,p.L775*,775,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,775
+ASXL1,p.Q780*,780,Nonsense,1,0,0,0,0,0,0,0,0,,780
+ASXL1,p.W796*,796,Nonsense,0,0,0,1,0,0,0,0,0,,796
+ASXL1,p.E797Kfs,797,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,797
+ASXL1,p.Q803*,803,Nonsense,2,1,0,0,0,0,0,0,0,,803
+ASXL1,p.G804fs,804,Frameshift Duplication,0,0,0,1,0,0,0,0,0,,804
+ASXL1,p.P808S,808,Missense,0,0,0,0,1,0,0,0,0,,808
+ASXL1,p.P813Vfs,813,Frameshift Insertion,0,0,1,0,0,0,0,0,0,,813
+ASXL1,p.L823*,823,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,823
+ASXL1,p.L823*,823,Nonsense,1,0,0,0,0,0,0,0,0,,823
+ASXL1,p.L823fs,823,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,823
+ASXL1,p.G826*,826,Nonsense,0,1,0,0,0,0,0,0,0,,826
+ASXL1,p.Q829*,829,Nonsense,0,0,0,1,0,0,0,0,0,,829
+ASXL1,p.K838fs,838,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,838
+ASXL1,p.C856*,856,Nonsense,0,1,1,0,0,0,0,0,0,,856
+ASXL1,p.N859S,859,Missense,0,0,0,0,0,0,0,1,0,,859
+ASXL1,p.D879Lfs,879,Frameshift Deletion,0,0,0,0,1,0,0,0,0,,879
+ASXL1,p.Q882*,882,Nonsense,0,0,1,0,0,0,0,0,0,,882
+ASXL1,p.W898*,898,Nonsense,0,1,0,0,0,0,0,0,0,,898
+ASXL1,p.I919fs,919,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,919
+ASXL1,p.E947*,947,Nonsense,1,0,0,0,0,0,0,0,0,,947
+ASXL1,p.L956fs,956,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,956
+ASXL1,p.R965*,965,Nonsense,0,1,0,0,0,0,0,0,0,,965
+ASXL1,p.G987fs,987,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,987
+ASXL1,p.F1005fs,1005,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,1005
+ASXL1,p.S1013fs,1013,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,1013
+ASXL1,p.S1027P,1027,Missense,0,0,0,0,0,0,0,0,1,,1027
+ASXL1,p.K1031*,1031,Nonsense,0,0,0,0,0,0,0,1,0,,1031
+ASXL1,p.P1035T,1035,Missense,0,0,0,0,0,0,0,0,1,,1035
+ASXL1,p.W1037*,1037,Nonsense,1,0,0,0,0,0,0,0,1,,1037
+ASXL1,p.K1045Qfs,1045,Frameshift Insertion,0,0,0,0,1,0,0,0,0,,1045
+ASXL1,p.Q1063*,1063,Nonsense,1,0,0,0,0,0,0,0,1,,1063
+ASXL1,p.W1065*,1065,Nonsense,0,0,0,1,0,0,0,0,0,,1065
+ASXL1,p.R1068*,1068,Nonsense,0,1,0,0,0,0,0,0,0,,1068
+ASXL1,p.R1171S,1171,Missense,0,0,0,0,0,0,0,0,1,,1171
+ASXL1,p.E1183K,1183,Missense,0,0,0,0,0,0,0,0,1,,1183
+ASXL1,p.R1190S,1190,Missense,0,0,0,0,0,0,0,1,0,,1190
+ASXL1,p.I1220F,1220,Missense,0,0,3,0,0,0,0,0,0,,1220
+ASXL1,c.1719+2T>C,17192,Unknown,0,0,0,1,0,0,0,0,0,,17192
+ASXL1,c.1720-1G>A,17201,Unknown,0,0,0,2,0,0,0,0,0,,17201
+ATM,p.I149fs,149,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,149
+ATM,p.R250Q,250,Missense,0,0,0,1,0,0,0,0,0,,250
+ATM,p.I258fs,258,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,258
+ATM,p.Y332C,332,Missense,0,0,0,1,0,0,0,0,0,,332
+ATM,p.R337C,337,Missense,0,0,0,1,0,0,0,0,0,,337
+ATM,p.H1352R,1352,Missense,0,0,0,1,0,0,0,0,0,,1352
+ATM,p.R2010I,2010,Missense,0,0,0,1,0,0,0,0,0,,2010
+ATM,p.H2872R,2872,Missense,0,0,0,1,0,0,0,0,0,,2872
+ATM,p.I2888T,2888,Missense,0,0,0,1,0,0,0,0,0,,2888
+ATM,p.G2891D,2891,Missense,0,0,0,1,0,0,0,0,0,,2891
+ATM,p.R3008C,3008,Missense,0,0,1,0,0,0,0,0,0,,3008
+ATM,p.R3008H,3008,Missense,0,1,0,1,0,0,0,0,0,,3008
+ATM,c.6198+1G>A,61981,Unknown,0,0,0,1,0,0,0,0,0,,61981
+ATRX,-,0,Intronic,0,0,0,0,0,0,0,2,0,,0
+ATRX,p.G124D,124,Missense,0,0,0,0,1,0,0,0,0,,124
+ATRX,p.K1580I,1580,Missense,0,0,0,0,0,0,0,0,1,,1580
+ATRX,p.G1692V,1692,Missense,0,0,0,0,0,0,0,0,1,,1692
+ATRX,p.I2033V,2033,Missense,0,0,0,0,0,0,0,0,1,,2033
+ATRX,p.F2165Y,2165,Missense,0,0,0,0,0,0,0,1,0,,2165
+AXL,p.R480H,480,Missense,0,0,0,1,0,0,0,0,0,,480
+BCL11B,p.G596S,596,Missense,1,0,0,0,0,0,0,0,0,,596
+BCL2L11,p.G156*,156,Nonsense,0,0,0,1,0,0,0,0,0,,156
+BCL6,p.C579Y,579,Missense,0,0,0,1,0,0,0,0,0,,579
+BCOR,p.N143fs,143,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,143
+BCOR,p.S286fs,286,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,286
+BCOR,p.S310R,310,Missense,0,0,0,0,0,0,0,0,1,,310
+BCOR,p.S317fs,317,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,317
+BCOR,p.A414V,414,Missense,0,0,0,0,0,0,0,1,0,,414
+BCOR,p.V465I,465,Missense,0,0,0,0,0,0,0,0,1,,465
+BCOR,p.A535P,535,Missense,0,0,0,0,0,0,0,0,1,,535
+BCOR,p.R540W,540,Missense,0,0,0,0,1,0,0,0,0,,540
+BCOR,p.T555S,555,Missense,0,0,0,0,0,0,0,0,1,,555
+BCOR,p.S562S,562,Synonymous,0,0,0,0,0,0,0,0,1,,562
+BCOR,p.T612T,612,Synonymous,0,0,0,0,0,0,0,0,1,,612
+BCOR,p.P652P,652,Synonymous,0,0,0,0,0,0,0,1,0,,652
+BCOR,p.D818Tfs,818,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,818
+BCOR,p.Q848*,848,Nonsense,0,0,1,0,0,0,0,0,0,,848
+BCOR,p.S1064fs,1064,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,1064
+BCOR,p.P1115S,1115,Missense,0,0,0,1,0,0,0,0,0,,1115
+BCOR,p.V1132E,1132,Missense,0,0,0,0,0,0,0,0,1,,1132
+BCOR,p.H1367fs,1367,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,1367
+BCOR,p.S1437*,1437,Nonsense,0,0,0,1,0,0,0,0,0,,1437
+BCOR,p.C1454S,1454,Missense,0,0,0,0,0,0,0,0,1,,1454
+BCORL1,p.P260R,260,Missense,0,0,0,0,0,0,0,0,1,,260
+BCORL1,p.S292*,292,Nonsense,1,0,0,0,0,0,0,0,0,,292
+BCORL1,p.L470L,470,Synonymous,0,0,0,0,0,0,0,1,0,,470
+BCORL1,p.T563A,563,Missense,0,0,0,0,0,0,0,0,1,,563
+BCORL1,p.P569S,569,Missense,0,0,0,0,0,0,0,0,1,,569
+BCORL1,p.S574G,574,Missense,0,0,0,0,0,0,0,0,1,,574
+BCORL1,p.G767G,767,Synonymous,0,0,0,0,0,0,0,0,1,,767
+BCORL1,p.R784*,784,Nonsense,0,0,0,0,0,0,0,1,0,,784
+BCORL1,p.S936Y,936,Missense,0,0,0,0,0,0,0,0,1,,936
+BCORL1,p.R1332*,1332,Nonsense,1,0,0,0,0,0,0,0,0,,1332
+BCORL1,p.H1376Q,1376,Missense,0,0,0,0,0,0,0,1,0,,1376
+BCORL1,p.D1394D,1394,Synonymous,0,0,0,0,0,0,0,0,1,,1394
+BCORL1,p.W1468*,1468,Nonsense,0,0,0,0,0,0,0,0,1,,1468
+BCORL1,p.I1471I,1471,Synonymous,0,0,0,0,0,0,0,0,1,,1471
+BCORL1,p.A1486T,1486,Missense,0,0,0,0,0,0,0,0,1,,1486
+BCORL1,p.G1522S,1522,Missense,0,0,0,0,0,0,0,1,0,,1522
+BCORL1,p.M1597I,1597,Missense,0,0,0,0,0,0,0,0,1,,1597
+BIRC3,p.G209fs,209,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,209
+BLM,p.V1171A,1171,Missense,0,0,0,1,0,0,0,0,0,,1171
+BRAF,p.G469E,469,Missense,1,0,0,0,0,0,0,0,0,,469
+BRAF,p.F595L,595,Missense,0,0,0,0,0,1,0,0,0,,595
+BRAF,p.V600E,600,Missense,1,0,0,1,0,0,0,0,0,,600
+BRAF,p.K601N,601,Missense,0,0,0,0,0,1,0,0,0,,601
+BRCA1,p.G559D,559,Missense,0,0,0,1,0,0,0,0,0,,559
+BRCC3,p.R81*,81,Nonsense,2,0,0,0,0,0,0,0,0,,81
+BRCC3,p.D88G,88,Missense,0,0,0,0,0,1,0,0,0,,88
+BRCC3,p.R89*,89,Nonsense,2,0,0,0,0,0,0,0,0,,89
+BRCC3,p.W120*,120,Nonsense,1,0,0,0,0,0,0,0,0,,120
+BRCC3,c.403_splice,403,Splicing,1,0,0,0,0,0,0,0,0,,403
+BRD4,p.A1245G,1245,Missense,0,0,0,1,0,0,0,0,0,,1245
+BRIP1,p.A551T,551,Missense,0,0,0,1,0,0,0,0,0,,551
+BTK,p.Q103H,103,Missense,0,0,0,1,0,0,0,0,0,,103
+CALR,p.T333S,333,Missense,0,0,0,1,0,0,0,0,0,,333
+CALR,p.E364fs,364,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,364
+CALR,p.D384G,384,Missense,0,0,0,0,0,0,0,0,1,,384
+CALR,p.224_228del,224228,Deletion,0,0,0,1,0,0,0,0,0,,224228
+CARD11,p.R423W,423,Missense,1,0,0,0,0,0,0,0,0,,423
+CARD11,p.P554A,554,Missense,0,0,0,1,0,0,0,0,0,,554
+CBL,p.H360D,360,Missense,0,0,0,1,0,0,0,0,0,,360
+CBL,p.Y371H,371,Missense,0,1,0,0,0,0,0,0,1,,371
+CBL,p.S376P,376,Missense,0,0,0,0,0,1,0,0,0,,376
+CBL,p.T377T,377,Synonymous,0,0,0,0,0,0,0,0,1,,377
+CBL,p.T377I,377,Missense,0,0,0,0,0,1,0,0,0,,377
+CBL,p.C381Y,381,Missense,1,0,0,0,0,0,0,1,0,,381
+CBL,p.C381R,381,Missense,1,0,1,0,0,0,0,0,0,,381
+CBL,p.C381S,381,Missense,1,0,0,0,0,0,0,0,0,,381
+CBL,p.K382E,382,Missense,1,0,0,0,0,0,0,0,0,,382
+CBL,p.I383M,383,Missense,1,0,0,0,1,0,0,1,0,,383
+CBL,p.C384G,384,Missense,0,0,0,0,0,0,0,0,1,,384
+CBL,p.C384Y,384,Missense,0,0,1,0,0,1,0,0,0,,384
+CBL,p.P395H,395,Missense,0,0,0,0,0,1,0,0,0,,395
+CBL,p.C396Y,396,Missense,0,0,0,0,0,1,0,0,0,,396
+CBL,p.H398Q,398,Missense,0,0,0,0,0,2,0,0,0,,398
+CBL,p.C401Y,401,Missense,0,0,0,1,0,0,0,0,0,,401
+CBL,p.C404Y,404,Missense,3,0,0,1,0,2,0,0,0,,404
+CBL,p.G415R,415,Missense,0,0,0,0,0,0,0,0,1,,415
+CBL,p.G415V,415,Missense,0,0,0,0,0,1,0,0,0,,415
+CBL,p.G415S,415,Missense,2,0,0,0,0,0,0,0,0,,415
+CBL,p.C416S,416,Missense,0,0,0,0,0,0,0,0,1,,416
+CBL,p.F418L,418,Missense,0,0,0,0,0,1,0,0,0,,418
+CBL,p.F418I,418,Missense,1,0,0,0,0,0,0,0,0,,418
+CBL,p.C419S,419,Missense,0,0,0,0,0,1,0,0,0,,419
+CBL,p.R420Q,420,Missense,1,2,0,1,0,1,0,0,0,,420
+CBL,p.V431A,431,Missense,0,0,0,0,0,0,0,0,1,,431
+CBL,p.R506*,506,Nonsense,0,0,1,0,0,0,0,0,0,,506
+CBL,p.Y455_D456insD,455456,Insertion,0,0,0,1,0,0,0,0,0,,455456
+CCND2,p.P281A,281,Missense,0,0,0,1,0,0,0,0,0,,281
+CCND3,p.K268R,268,Missense,0,0,0,1,0,0,0,0,0,,268
+CCND3,p.P284S,284,Missense,0,0,0,1,0,0,0,0,0,,284
+CD58,p.G210S,210,Missense,1,0,0,0,0,0,0,0,0,,210
+CD79B,p.Y196S,196,Missense,1,0,0,0,0,0,0,0,0,,196
+CDC73,p.G44V,44,Missense,0,0,0,1,0,0,0,0,0,,44
+CDC73,p.D468E,468,Missense,0,0,0,1,0,0,0,0,0,,468
+CDK12,p.S62P,62,Missense,0,0,0,1,0,0,0,0,0,,62
+CDK12,p.I76T,76,Missense,0,0,0,1,0,0,0,0,0,,76
+CDKN2A,p.R70Q,70,Missense,0,0,0,0,0,0,0,0,1,,70
+CEBPA,p.L317V,317,Missense,0,0,0,0,0,0,0,0,1,,317
+CEBPA,p.L324M,324,Missense,0,0,0,0,0,0,0,0,1,,324
+CENPA,p.R80L,80,Missense,0,0,0,1,0,0,0,0,0,,80
+CEP112,p.R443S,443,Missense,0,0,1,0,0,0,0,0,0,,443
+CHEK1,p.Y334D,334,Missense,0,0,0,1,0,0,0,0,0,,334
+CHEK2,p.L467fs,467,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,467
+CHEK2,c.846+2T>G,8462,Unknown,0,0,0,1,0,0,0,0,0,,8462
+CNOT3,p.E20K,20,Missense,1,0,0,0,0,0,0,0,0,,20
+COL4A3BP,p.S260*,260,Nonsense,0,0,0,0,0,1,0,0,0,,260
+CREBBP,p.Q203*,203,Nonsense,0,0,0,0,1,0,0,0,0,,203
+CREBBP,p.A206E,206,Missense,0,0,0,1,0,0,0,0,0,,206
+CREBBP,p.Q286fs,286,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,286
+CREBBP,p.V322M,322,Missense,0,0,0,1,0,0,0,0,0,,322
+CREBBP,p.R386*,386,Nonsense,1,0,0,0,0,0,0,0,0,,386
+CREBBP,p.P464Lfs,464,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,464
+CREBBP,p.Q682fs,682,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,682
+CREBBP,p.A690fs,690,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,690
+CREBBP,p.R1081H,1081,Missense,0,0,0,1,0,0,0,0,0,,1081
+CREBBP,p.I1084fs,1084,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,1084
+CREBBP,p.R1498L,1498,Missense,0,0,0,1,0,0,0,0,0,,1498
+CREBBP,p.E1566fs,1566,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,1566
+CREBBP,p.A2024V,2024,Missense,0,0,0,1,0,0,0,0,0,,2024
+CRLF2,c.647-1G>C,6471,Unknown,0,0,0,1,0,0,0,0,0,,6471
+CSF3R,p.P468fs,468,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,468
+CSF3R,p.C643Y,643,Missense,0,0,0,0,0,0,0,0,1,,643
+CTNNB1,p.R486H,486,Missense,0,0,0,1,0,0,0,0,0,,486
+CUX1,-,0,Intronic,0,0,0,0,0,0,0,1,0,,0
+CUX1,p.Q37*,37,Nonsense,1,0,0,0,0,0,0,0,0,,37
+CUX1,p.Y125N,125,Missense,0,0,0,0,0,0,0,0,1,,125
+CUX1,p.R147*,147,Nonsense,1,0,0,0,0,0,0,0,0,,147
+CUX1,p.L153Q,153,Missense,0,0,0,0,0,0,0,0,1,,153
+CUX1,p.V306V,306,Synonymous,0,0,0,0,0,0,0,0,1,,306
+CUX1,p.P441Lfs,441,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,441
+CUX1,p.R602H,602,Missense,0,0,0,0,0,0,0,1,0,,602
+CUX1,p.G628G,628,Synonymous,0,0,0,0,0,0,0,0,1,,628
+CUX1,p.A727A,727,Synonymous,0,0,0,0,0,0,0,0,1,,727
+CUX1,p.A777G,777,Missense,0,0,0,0,0,0,0,0,1,,777
+CUX1,c.1077_splice,1077,Splicing,1,0,0,0,0,0,0,0,0,,1077
+CUX1,p.S1175C,1175,Missense,0,0,0,0,0,0,0,0,1,,1175
+CUX1,p.G1178V,1178,Missense,0,0,0,0,0,0,0,0,1,,1178
+CUX1,p.E1180D,1180,Missense,0,0,0,0,0,0,0,0,1,,1180
+CUX1,p.E1180E,1180,Synonymous,0,0,0,0,0,0,0,0,1,,1180
+CUX1,p.P1181L,1181,Missense,0,0,0,0,0,0,0,0,1,,1181
+CUX1,p.K1277Afs,1277,Frameshift Insertion,0,0,1,0,0,0,0,0,0,,1277
+CUX1,p.P1331P,1331,Synonymous,0,0,0,0,0,0,0,0,1,,1331
+CUX2,p.L592P,592,Missense,0,0,0,0,0,1,0,0,0,,592
+DDR2,p.A495T,495,Missense,0,0,0,1,0,0,0,0,0,,495
+DDX3X,p.S24fs,24,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,24
+DDX3X,c.1497_splice,1497,Splicing,1,0,0,0,0,0,0,0,0,,1497
+DICER1,p.F968S,968,Missense,0,0,0,1,0,0,0,0,0,,968
+DIS3,p.I678fs,678,Frameshift Duplication,0,0,0,1,0,0,0,0,0,,678
+DNMT1,p.R1473H,1473,Missense,0,0,0,1,0,0,0,0,0,,1473
+DNMT1,p.Q1544E,1544,Missense,0,0,0,1,0,0,0,0,0,,1544
+DNMT3A,-,0,Intronic,0,0,0,0,0,0,0,6,0,,0
+DNMT3A,-,0,Splicing,0,0,0,0,0,0,0,1,0,,0
+DNMT3A,p.E30A,30,Missense,0,0,4,0,0,0,0,0,0,,30
+DNMT3A,p.E37*,37,Nonsense,0,0,0,0,0,0,0,0,1,,37
+DNMT3A,p.T65T,65,Synonymous,0,0,0,0,0,0,0,0,1,,65
+DNMT3A,p.K67E,67,Missense,0,0,0,0,0,0,0,1,0,,67
+DNMT3A,p.S129*,129,Nonsense,0,0,0,0,0,0,0,1,0,,129
+DNMT3A,c.177_splice,177,Splicing,1,0,0,0,0,0,0,0,0,,177
+DNMT3A,p.R187S,187,Missense,0,0,0,0,0,0,0,0,1,,187
+DNMT3A,p.V227fs,227,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,227
+DNMT3A,p.Q231*,231,Nonsense,0,0,0,0,0,0,0,1,0,,231
+DNMT3A,p.Q231fs,231,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,231
+DNMT3A,p.G232fs,232,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,232
+DNMT3A,p.G234Rfs,234,Frameshift Insertion,0,0,1,0,0,0,0,0,0,,234
+DNMT3A,p.E235*,235,Nonsense,0,0,0,0,0,0,0,0,1,,235
+DNMT3A,p.S236fs,236,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,236
+DNMT3A,p.Q237fs,237,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,237
+DNMT3A,p.K238fs,238,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,238
+DNMT3A,p.E241*,241,Nonsense,1,0,0,0,0,0,0,0,0,,241
+DNMT3A,p.E241fs,241,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,241
+DNMT3A,p.A242fs,242,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,242
+DNMT3A,p.P244fs,244,Frameshift Deletion,2,0,0,0,0,0,0,0,0,,244
+DNMT3A,p.Q248*,248,Nonsense,0,0,0,0,0,0,0,0,1,,248
+DNMT3A,p.Q249*,249,Nonsense,2,0,0,0,0,0,0,1,0,,249
+DNMT3A,p.P250fs,250,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,250
+DNMT3A,p.A254Hfs,254,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,254
+DNMT3A,p.A259fs,259,Frameshift Deletion,0,0,0,0,0,0,0,0,1,,259
+DNMT3A,p.T260fs,260,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,260
+DNMT3A,p.P264fs,264,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,264
+DNMT3A,p.A269fs,269,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,269
+DNMT3A,p.E283*,283,Nonsense,0,0,0,0,0,0,0,1,0,,283
+DNMT3A,p.G289fs,289,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,289
+DNMT3A,p.F290S,290,Missense,0,0,0,1,0,0,0,0,0,,290
+DNMT3A,p.I292T,292,Missense,0,2,0,0,0,0,0,0,0,,292
+DNMT3A,p.E294*,294,Nonsense,1,0,0,0,0,0,0,0,0,,294
+DNMT3A,p.E294fs,294,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,294
+DNMT3A,p.L295P,295,Missense,0,0,0,0,0,0,0,0,1,,295
+DNMT3A,p.L295Q,295,Missense,0,0,0,1,0,0,0,0,0,,295
+DNMT3A,p.L295V,295,Missense,0,1,0,0,0,0,0,0,0,,295
+DNMT3A,p.V296M,296,Missense,0,3,0,0,0,0,0,1,0,,296
+DNMT3A,p.W297*,297,Nonsense,1,0,0,0,0,0,0,0,2,,297
+DNMT3A,p.G298R,298,Missense,0,0,0,1,0,0,0,0,1,,298
+DNMT3A,p.G298E,298,Missense,0,0,0,1,0,0,0,0,0,,298
+DNMT3A,p.L300P,300,Missense,0,0,0,0,0,0,0,0,1,,300
+DNMT3A,p.R301W,301,Missense,0,0,0,0,1,0,0,1,0,,301
+DNMT3A,p.G302C,302,Missense,0,0,0,0,0,0,0,1,0,,302
+DNMT3A,p.W305*,305,Nonsense,3,0,1,0,0,0,0,0,1,,305
+DNMT3A,p.W305G,305,Missense,0,0,0,0,1,0,0,0,0,,305
+DNMT3A,p.W306*,306,Nonsense,1,1,0,0,0,0,0,0,0,,306
+DNMT3A,p.P307R,307,Missense,0,2,0,0,0,0,0,0,1,,307
+DNMT3A,p.P307L,307,Missense,0,1,0,1,0,0,0,0,0,,307
+DNMT3A,p.P307S,307,Missense,1,0,0,0,0,0,0,0,0,,307
+DNMT3A,p.R309G,309,Missense,0,0,0,1,0,0,0,0,0,,309
+DNMT3A,p.V311G,311,Missense,0,0,0,0,0,0,0,0,1,,311
+DNMT3A,p.W313*,313,Nonsense,0,0,1,1,0,0,0,0,1,,313
+DNMT3A,p.W314*,314,Nonsense,1,1,0,0,1,0,0,1,0,,314
+DNMT3A,p.R320*,320,Nonsense,9,2,1,5,0,1,0,1,0,,320
+DNMT3A,p.R326C,326,Missense,8,1,0,1,1,6,0,0,3,,326
+DNMT3A,p.R326G,326,Missense,0,0,0,0,0,1,0,0,0,,326
+DNMT3A,p.R326H,326,Missense,4,0,0,0,0,4,0,0,0,,326
+DNMT3A,p.R326S,326,Missense,1,0,0,0,0,1,0,0,0,,326
+DNMT3A,p.R326L,326,Missense,1,0,0,0,0,0,0,0,0,,326
+DNMT3A,p.W327*,327,Nonsense,3,0,0,0,0,0,0,0,0,,327
+DNMT3A,p.V328F,328,Missense,0,0,0,0,0,1,0,0,0,,328
+DNMT3A,p.W330*,330,Nonsense,2,2,0,0,0,1,0,0,0,,330
+DNMT3A,p.G332R,332,Missense,0,1,1,1,0,0,0,0,1,,332
+DNMT3A,p.G332E,332,Missense,0,1,0,0,0,1,0,0,0,,332
+DNMT3A,p.G332*,332,Nonsense,1,0,0,0,0,0,0,0,0,,332
+DNMT3A,p.F336fs,336,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,336
+DNMT3A,p.S337*,337,Nonsense,0,0,0,0,0,0,0,1,0,,337
+DNMT3A,p.L344P,344,Missense,0,1,0,0,0,0,0,0,0,,344
+DNMT3A,p.S352N,352,Missense,0,1,0,0,0,0,0,0,0,,352
+DNMT3A,p.A353fs,353,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,353
+DNMT3A,p.Q356*,356,Nonsense,2,0,1,0,0,0,0,0,0,,356
+DNMT3A,p.Y359*,359,Nonsense,0,0,1,0,0,0,0,0,0,,359
+DNMT3A,p.M364T,364,Missense,0,1,0,0,0,0,0,0,0,,364
+DNMT3A,p.Y365C,365,Missense,0,0,0,1,0,0,0,0,0,,365
+DNMT3A,p.R366C,366,Missense,0,0,0,0,0,0,0,0,1,,366
+DNMT3A,p.R366G,366,Missense,1,0,0,0,0,0,0,0,0,,366
+DNMT3A,p.R366H,366,Missense,1,0,0,0,0,0,0,0,0,,366
+DNMT3A,p.R366H,366,Missense,1,0,0,0,0,0,0,0,0,,366
+DNMT3A,p.A368T,368,Missense,0,0,0,0,1,0,0,0,0,,368
+DNMT3A,p.A368V,368,Missense,0,0,0,0,1,0,0,0,0,,368
+DNMT3A,p.V372A,372,Missense,0,1,0,0,0,0,0,0,0,,372
+DNMT3A,p.V372I,372,Missense,0,1,0,0,0,0,0,0,0,,372
+DNMT3A,p.L373P,373,Missense,0,0,1,0,0,0,0,0,0,,373
+DNMT3A,p.Q374*,374,Nonsense,2,0,0,0,0,0,0,0,0,,374
+DNMT3A,p.S377R,377,Missense,0,0,0,1,0,0,0,0,0,,377
+DNMT3A,p.S378N,378,Missense,0,0,0,1,0,0,0,0,0,,378
+DNMT3A,p.R379H,379,Missense,0,0,0,0,0,0,0,1,0,,379
+DNMT3A,p.R379fs,379,Frameshift Insertion,0,0,0,1,0,0,0,0,0,,379
+DNMT3A,p.R379C,379,Missense,0,1,0,0,0,0,0,0,0,,379
+DNMT3A,p.G381fs,381,Frameshift Deletion,2,0,0,0,0,0,0,0,0,,381
+DNMT3A,p.P385L,385,Missense,0,3,0,0,0,0,0,0,0,,385
+DNMT3A,p.P385fs,385,Frameshift Deletion,2,0,0,0,0,0,0,0,0,,385
+DNMT3A,p.P385fs,385,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,385
+DNMT3A,p.C387fs,387,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,387
+DNMT3A,p.S393Vfs,393,Frameshift Deletion,0,0,0,0,1,0,0,0,0,,393
+DNMT3A,p.V401fs,401,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,401
+DNMT3A,p.Q402*,402,Nonsense,2,0,0,0,0,0,0,0,0,,402
+DNMT3A,p.K404fs,404,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,404
+DNMT3A,p.P405fs,405,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,405
+DNMT3A,p.E408fs,408,Frameshift Deletion,1,0,0,1,0,0,0,0,0,,408
+DNMT3A,p.W409*,409,Nonsense,3,0,0,0,1,0,0,0,1,,409
+DNMT3A,p.W409C,409,Missense,0,0,0,1,0,0,0,0,0,,409
+DNMT3A,p.G413V,413,Missense,0,0,0,1,0,0,0,0,0,,413
+DNMT3A,p.F414C,414,Missense,2,0,0,0,0,0,0,0,0,,414
+DNMT3A,p.F414V,414,Missense,0,0,0,0,1,0,0,0,0,,414
+DNMT3A,p.S417fs,417,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,417
+DNMT3A,p.S417fs,417,Frameshift Insertion,0,0,0,1,0,0,0,0,0,,417
+DNMT3A,p.E423Q,423,Missense,0,1,0,0,0,0,0,0,0,,423
+DNMT3A,p.E426*,426,Nonsense,0,0,0,0,0,0,0,0,1,,426
+DNMT3A,p.E427fs,427,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,427
+DNMT3A,p.N430Rfs,430,Frameshift Insertion,0,0,1,0,0,0,0,0,0,,430
+DNMT3A,p.E434fs,434,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,434
+DNMT3A,p.M439T,439,Missense,0,2,0,0,0,0,0,0,0,,439
+DNMT3A,p.W440*,440,Nonsense,0,1,0,0,0,0,0,0,1,,440
+DNMT3A,p.V441fs,441,Frameshift Deletion,0,0,0,0,0,0,0,0,1,,441
+DNMT3A,p.A445fs,445,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,445
+DNMT3A,p.P453L,453,Missense,0,2,0,0,0,0,0,0,0,,453
+DNMT3A,p.A454fs,454,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,454
+DNMT3A,p.R458Gfs,458,Frameshift Deletion,0,0,0,0,1,0,0,0,0,,458
+DNMT3A,p.K459*,459,Nonsense,1,0,0,0,0,0,0,0,0,,459
+DNMT3A,p.S460G,460,Missense,0,1,0,0,0,0,0,0,0,,460
+DNMT3A,p.P465fs,465,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,465
+DNMT3A,p.E469*,469,Nonsense,0,1,0,0,0,0,0,0,0,,469
+DNMT3A,p.I470fs,470,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,470
+DNMT3A,p.E473*,473,Nonsense,1,0,0,0,0,0,0,0,0,,473
+DNMT3A,p.V480Cfs,480,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,480
+DNMT3A,p.V480fs,480,Frameshift Insertion,0,0,0,1,0,0,0,0,0,,480
+DNMT3A,p.Y481D,481,Missense,0,1,0,0,0,0,0,0,0,,481
+DNMT3A,p.E482*,482,Nonsense,1,0,0,0,0,0,0,1,0,,482
+DNMT3A,p.R484Q,484,Missense,0,1,0,0,0,0,0,0,0,,484
+DNMT3A,p.K486*,486,Nonsense,1,0,0,0,0,0,0,0,0,,486
+DNMT3A,p.C487fs,487,Frameshift Deletion,0,0,0,0,0,0,0,0,1,,487
+DNMT3A,p.R488fs,488,Frameshift Deletion,2,0,0,0,0,0,0,0,0,,488
+DNMT3A,p.I490fs,490,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,490
+DNMT3A,p.I490fs,490,Frameshift Duplication,0,0,0,1,0,0,0,0,0,,490
+DNMT3A,p.C494F,494,Missense,0,0,0,0,0,0,0,1,0,,494
+DNMT3A,p.C497Y,497,Missense,1,1,0,0,0,0,0,0,1,,497
+DNMT3A,p.C497fs,497,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,497
+DNMT3A,p.G498V,498,Missense,0,0,0,0,0,0,0,1,0,,498
+DNMT3A,p.G498fs,498,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,498
+DNMT3A,p.S499fs,499,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,499
+DNMT3A,p.N501S,501,Missense,0,2,0,0,0,0,0,0,0,,501
+DNMT3A,p.V502Dfs,502,Frameshift Deletion,0,0,0,0,1,0,0,0,0,,502
+DNMT3A,p.T503fs,503,Frameshift Duplication,0,0,0,1,0,0,0,0,0,,503
+DNMT3A,p.L504fs,504,Frameshift Deletion,1,0,0,0,0,0,0,0,1,,504
+DNMT3A,p.H506R,506,Missense,0,0,0,0,0,0,0,0,1,,506
+DNMT3A,p.P507R,507,Missense,0,0,0,1,0,0,0,0,1,,507
+DNMT3A,p.L508P,508,Missense,0,0,0,1,0,0,0,1,0,,508
+DNMT3A,p.L508Pfs,508,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,508
+DNMT3A,p.L508fs,508,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,508
+DNMT3A,p.F509fs,509,Frameshift Insertion,0,0,0,1,0,0,0,0,0,,509
+DNMT3A,p.G511E,511,Missense,0,0,0,1,0,0,0,0,0,,511
+DNMT3A,p.G511R,511,Missense,0,0,0,1,0,0,0,0,0,,511
+DNMT3A,p.G511*,511,Nonsense,1,0,0,0,0,0,0,0,0,,511
+DNMT3A,p.Q515*,515,Nonsense,0,0,0,1,0,0,0,0,0,,515
+DNMT3A,p.N516fs,516,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,516
+DNMT3A,p.C520*,520,Nonsense,0,1,0,0,0,0,0,0,0,,520
+DNMT3A,p.C524fs,524,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,524
+DNMT3A,p.Q527*,527,Nonsense,1,0,0,0,0,0,0,0,0,,527
+DNMT3A,p.Q527P,527,Missense,1,0,0,0,0,0,0,0,0,,527
+DNMT3A,p.Y528*,528,Nonsense,1,0,0,0,0,0,0,0,1,,528
+DNMT3A,p.Y528fs,528,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,528
+DNMT3A,p.D529V,529,Missense,0,1,0,0,0,0,0,0,0,,529
+DNMT3A,p.D531N,531,Missense,0,0,0,1,0,0,0,0,0,,531
+DNMT3A,p.G532S,532,Missense,0,0,0,1,0,0,0,0,0,,532
+DNMT3A,p.G532fs,532,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,532
+DNMT3A,p.Y533C,533,Missense,0,0,1,0,1,0,0,0,0,,533
+DNMT3A,p.Q534*,534,Nonsense,1,0,0,0,0,0,0,0,0,,534
+DNMT3A,p.S535fs,535,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,535
+DNMT3A,p.Y536*,536,Nonsense,1,0,0,0,0,0,0,0,1,,536
+DNMT3A,p.C537F,537,Missense,0,0,0,0,0,0,0,1,0,,537
+DNMT3A,p.C537*,537,Nonsense,1,0,0,1,0,0,0,0,0,,537
+DNMT3A,p.C537R,537,Missense,0,0,0,0,1,0,0,0,0,,537
+DNMT3A,p.G543A,543,Missense,1,0,0,1,0,0,0,1,1,,543
+DNMT3A,p.G543S,543,Missense,1,0,0,0,0,0,0,1,0,,543
+DNMT3A,p.G543D,543,Missense,0,0,0,0,0,0,0,0,1,,543
+DNMT3A,p.G543C,543,Missense,1,1,1,1,0,0,0,0,0,,543
+DNMT3A,p.G543fs,543,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,543
+DNMT3A,p.L547F,547,Missense,2,0,0,0,0,0,0,0,0,,547
+DNMT3A,p.L547H,547,Missense,2,0,0,0,0,0,0,0,0,,547
+DNMT3A,p.L547R,547,Missense,1,0,0,0,0,0,0,0,0,,547
+DNMT3A,p.C549W,549,Missense,0,0,0,1,0,0,0,0,0,,549
+DNMT3A,p.G550R,550,Missense,2,1,0,1,2,0,0,0,0,,550
+DNMT3A,p.N552fs,552,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,552
+DNMT3A,p.R556fs,556,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,556
+DNMT3A,p.R556G,556,Missense,0,1,0,0,0,0,0,0,0,,556
+DNMT3A,p.C559W,559,Missense,0,0,0,0,0,0,0,0,1,,559
+DNMT3A,p.C559*,559,Nonsense,0,0,0,1,0,0,0,0,0,,559
+DNMT3A,p.E561*,561,Nonsense,0,0,0,0,1,0,0,0,0,,561
+DNMT3A,p.P569L,569,Missense,0,1,0,0,0,0,0,0,0,,569
+DNMT3A,p.G570fs,570,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,570
+DNMT3A,p.A571P,571,Missense,0,0,0,1,0,0,0,0,0,,571
+DNMT3A,p.A571fs,571,Frameshift Duplication,0,0,0,1,0,0,0,0,0,,571
+DNMT3A,p.A572D,572,Missense,0,0,0,0,0,0,0,1,0,,572
+DNMT3A,p.P580fs,580,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,580
+DNMT3A,p.P580R,580,Missense,0,1,0,0,0,0,0,0,0,,580
+DNMT3A,p.W581G,581,Missense,1,0,1,0,0,0,0,0,0,,581
+DNMT3A,p.W581*,581,Nonsense,1,0,0,2,0,0,0,0,0,,581
+DNMT3A,p.W581L,581,Missense,0,0,0,1,0,0,0,0,0,,581
+DNMT3A,p.C583R,583,Missense,0,0,0,0,0,0,0,0,1,,583
+DNMT3A,p.C583fs,583,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,583
+DNMT3A,p.H588fs,588,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,588
+DNMT3A,p.R597W,597,Missense,0,1,0,0,0,0,0,0,0,,597
+DNMT3A,p.R598*,598,Nonsense,7,1,2,2,0,0,0,0,0,,598
+DNMT3A,p.E599D,599,Missense,0,4,0,0,0,0,0,0,0,,599
+DNMT3A,p.W601*,601,Nonsense,1,0,0,1,1,0,0,0,0,,601
+DNMT3A,p.R604Q,604,Missense,0,1,0,0,0,0,0,0,0,,604
+DNMT3A,p.R604fs,604,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,604
+DNMT3A,p.L605P,605,Missense,0,1,0,0,0,0,0,0,0,,605
+DNMT3A,p.L605Dfs,605,Frameshift Insertion,0,0,0,0,1,0,0,0,0,,605
+DNMT3A,p.F608fs,608,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,608
+DNMT3A,p.H613D,613,Missense,0,1,0,0,0,0,0,0,0,,613
+DNMT3A,p.Q615*,615,Nonsense,1,0,0,0,0,0,0,0,0,,615
+DNMT3A,p.E616*,616,Nonsense,0,1,0,0,0,0,0,0,0,,616
+DNMT3A,p.I634Sfs,634,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,634
+DNMT3A,p.R635Q,635,Missense,0,0,2,0,0,0,0,1,0,,635
+DNMT3A,p.R635W,635,Missense,0,0,2,3,0,0,0,1,1,,635
+DNMT3A,p.R635P,635,Missense,0,0,0,0,0,0,0,0,1,,635
+DNMT3A,p.R635fs,635,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,635
+DNMT3A,p.V636L,636,Missense,0,0,0,0,0,0,0,0,1,,636
+DNMT3A,p.V636M,636,Missense,0,0,0,0,0,0,0,0,2,,636
+DNMT3A,p.V636fs,636,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,636
+DNMT3A,p.L637P,637,Missense,0,0,0,0,0,0,0,1,0,,637
+DNMT3A,p.L639F,639,Missense,0,0,0,0,0,0,0,1,1,,639
+DNMT3A,p.F640fs,640,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,640
+DNMT3A,p.G642E,642,Missense,0,0,0,1,0,0,0,0,0,,642
+DNMT3A,p.L653F,653,Missense,1,0,0,0,0,0,0,0,0,,653
+DNMT3A,p.G654Afs,654,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,654
+DNMT3A,p.I655N,655,Missense,0,1,0,0,0,0,0,0,0,,655
+DNMT3A,p.Q656*,656,Missense,1,0,0,0,0,0,0,0,0,,656
+DNMT3A,p.V657M,657,Missense,3,3,0,0,0,0,0,0,1,,657
+DNMT3A,p.R659H,659,Missense,2,0,0,0,0,0,0,0,0,,659
+DNMT3A,p.Y660C,660,Missense,1,0,0,0,0,0,0,0,0,,660
+DNMT3A,p.A662T,662,Missense,0,1,0,1,0,0,0,0,0,,662
+DNMT3A,p.E664K,664,Missense,0,0,0,0,0,0,0,0,1,,664
+DNMT3A,p.V665L,665,Missense,0,1,0,1,0,0,0,0,0,,665
+DNMT3A,p.C666Wfs,666,Frameshift Deletion,0,0,0,0,1,0,0,0,0,,666
+DNMT3A,p.E667*,667,Nonsense,0,0,0,0,0,0,0,1,0,,667
+DNMT3A,p.S669fs,669,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,669
+DNMT3A,p.I670Hfs,670,Frameshift Insertion,0,0,1,0,0,0,0,0,0,,670
+DNMT3A,p.G673G,673,Synonymous,0,0,0,0,0,0,0,0,1,,673
+DNMT3A,p.G673V,673,Missense,0,0,0,0,0,0,0,0,1,,673
+DNMT3A,p.R676L,676,Missense,0,1,0,0,0,0,0,0,0,,676
+DNMT3A,p.R676Q,676,Missense,1,0,0,0,0,0,0,0,0,,676
+DNMT3A,p.Q678fs,678,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,678
+DNMT3A,p.I681M,681,Missense,0,1,0,0,0,0,0,0,0,,681
+DNMT3A,p.I681N,681,Missense,0,1,0,0,0,0,0,0,0,,681
+DNMT3A,p.M682R,682,Missense,0,0,0,0,0,0,0,0,1,,682
+DNMT3A,p.V684F,684,Missense,0,0,0,1,0,0,0,0,0,,684
+DNMT3A,p.G685R,685,Missense,1,0,0,1,0,0,0,0,0,,685
+DNMT3A,p.G685E,685,Missense,1,1,0,0,0,0,0,0,0,,685
+DNMT3A,p.G685A,685,Missense,1,0,0,0,0,0,0,0,0,,685
+DNMT3A,p.D686V,686,Missense,1,0,0,0,0,0,0,0,0,,686
+DNMT3A,p.D686Y,686,Missense,1,0,0,0,0,0,0,0,0,,686
+DNMT3A,p.V687D,687,Missense,0,0,0,1,0,0,0,0,0,,687
+DNMT3A,p.R688S,688,Missense,0,0,0,0,0,0,0,0,1,,688
+DNMT3A,p.R688fs,688,Frameshift Deletion,0,0,0,0,0,0,0,0,1,,688
+DNMT3A,p.R688H,688,Missense,0,2,0,0,1,0,0,0,0,,688
+DNMT3A,p.V690D,690,Missense,0,0,0,1,0,0,0,0,0,,690
+DNMT3A,p.T691I,691,Missense,0,0,0,0,0,0,0,1,0,,691
+DNMT3A,p.K693fs,693,Frameshift Deletion,0,0,0,0,0,0,0,0,1,,693
+DNMT3A,p.H694Y,694,Missense,0,0,0,1,0,0,0,0,0,,694
+DNMT3A,p.I695L,695,Missense,0,0,0,1,0,0,0,0,0,,695
+DNMT3A,p.Q696*,696,Nonsense,1,0,0,0,0,0,0,0,0,,696
+DNMT3A,p.E697*,697,Nonsense,0,1,0,0,0,0,0,0,0,,697
+DNMT3A,p.W698*,698,Nonsense,0,0,0,1,0,0,0,0,0,,698
+DNMT3A,p.G699D,699,Missense,1,0,2,0,0,0,0,0,0,,699
+DNMT3A,p.G699C,699,Missense,0,0,0,1,0,0,0,0,0,,699
+DNMT3A,p.G699S,699,Missense,3,0,0,1,0,0,0,0,0,,699
+DNMT3A,p.P700R,700,Missense,1,0,0,0,0,0,0,0,0,,700
+DNMT3A,p.P700S,700,Missense,1,0,0,0,0,0,0,0,0,,700
+DNMT3A,p.P700fs,700,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,700
+DNMT3A,p.F701L,701,Missense,0,0,0,0,0,0,0,0,1,,701
+DNMT3A,p.D702N,702,Missense,1,1,0,0,0,0,0,0,0,,702
+DNMT3A,p.D702Y,702,Missense,1,0,0,0,0,0,0,0,0,,702
+DNMT3A,p.L703P,703,Missense,0,0,0,0,0,0,0,0,1,,703
+DNMT3A,p.L703V,703,Missense,0,0,0,1,0,0,0,0,0,,703
+DNMT3A,p.V704G,704,Missense,1,0,0,1,0,0,0,0,0,,704
+DNMT3A,p.I705T,705,Missense,2,0,2,1,0,0,0,1,0,,705
+DNMT3A,p.G706W,706,Missense,0,0,0,1,0,0,0,0,0,,706
+DNMT3A,p.G706E,706,Missense,0,1,0,0,0,0,0,0,0,,706
+DNMT3A,p.G707Afs,707,Frameshift Deletion,0,0,2,0,0,0,0,0,0,,707
+DNMT3A,p.G707S,707,Missense,0,0,0,1,0,0,0,0,0,,707
+DNMT3A,p.S708Kfs,708,Frameshift Insertion,0,0,1,0,0,0,0,0,0,,708
+DNMT3A,p.C710S,710,Missense,2,1,0,0,0,0,0,0,0,,710
+DNMT3A,p.D712E,712,Missense,0,0,0,1,0,0,0,0,0,,712
+DNMT3A,p.S714C,714,Missense,3,3,2,0,0,0,0,1,1,,714
+DNMT3A,p.S714fs,714,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,714
+DNMT3A,p.N717I,717,Missense,1,0,0,0,0,0,0,0,0,,717
+DNMT3A,p.P718fs,718,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,718
+DNMT3A,p.R720H,720,Missense,1,0,0,0,0,0,0,0,0,,720
+DNMT3A,p.E725*,725,Nonsense,0,0,0,0,1,0,0,0,0,,725
+DNMT3A,p.G728fs,728,Frameshift Deletion,0,0,0,0,0,1,0,0,0,,728
+DNMT3A,p.R729G,729,Missense,1,0,0,0,0,2,0,0,1,,729
+DNMT3A,p.R729Q,729,Missense,1,0,0,1,0,1,0,0,0,,729
+DNMT3A,p.R729W,729,Missense,6,2,0,3,0,3,0,0,0,,729
+DNMT3A,p.R729fs,729,Frameshift Deletion,0,0,0,0,0,1,0,0,0,,729
+DNMT3A,p.L730fs,730,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,730
+DNMT3A,p.F731S,731,Missense,0,0,0,0,0,0,0,1,0,,731
+DNMT3A,p.F731V,731,Missense,0,0,1,0,0,0,0,0,0,,731
+DNMT3A,p.F731L,731,Missense,1,0,0,1,0,0,0,0,0,,731
+DNMT3A,p.F732S,732,Missense,2,0,0,0,0,0,0,1,0,,732
+DNMT3A,p.F732C,732,Missense,0,1,0,1,0,0,0,0,1,,732
+DNMT3A,p.F732L,732,Missense,0,0,0,0,0,1,0,0,1,,732
+DNMT3A,p.F732fs,732,Frameshift Duplication,0,0,0,0,0,1,0,0,0,,732
+DNMT3A,p.F732fs,732,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,732
+DNMT3A,p.E733G,733,Missense,0,1,0,0,1,0,0,0,1,,733
+DNMT3A,p.E733_F,733,Nonsense,0,0,0,0,0,0,0,0,1,,733
+DNMT3A,p.E733Sfs,733,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,733
+DNMT3A,p.E733*,733,DuplicationNonsense,0,0,0,0,0,2,0,0,0,,733
+DNMT3A,p.F734L,734,Missense,1,0,0,0,0,1,0,0,0,,734
+DNMT3A,p.F734C,734,Missense,1,0,0,0,0,0,0,0,0,,734
+DNMT3A,p.Y735C,735,Missense,8,4,2,1,1,9,0,0,0,,735
+DNMT3A,p.Y735S,735,Missense,1,0,0,0,0,1,0,0,0,,735
+DNMT3A,p.Y735fs,735,Frameshift Deletion,0,0,0,0,0,1,0,0,0,,735
+DNMT3A,p.Y735*,735,Nonsense,1,0,0,0,0,0,0,0,0,,735
+DNMT3A,p.Y735fs,735,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,735
+DNMT3A,p.R736C,736,Missense,4,1,1,1,0,6,0,0,2,,736
+DNMT3A,p.R736H,736,Missense,4,4,2,3,1,5,0,0,1,,736
+DNMT3A,p.R736P,736,Missense,1,0,0,0,0,0,0,0,0,,736
+DNMT3A,p.R736fs,736,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,736
+DNMT3A,p.L737R,737,Missense,1,0,0,0,0,0,0,0,1,,737
+DNMT3A,p.L737F,737,Missense,0,0,0,0,0,1,0,0,0,,737
+DNMT3A,p.L737H,737,Missense,1,0,0,0,0,0,0,0,0,,737
+DNMT3A,p.L737P,737,Missense,1,0,0,0,0,0,0,0,0,,737
+DNMT3A,p.H739P,739,Missense,0,0,0,0,0,0,0,1,1,,739
+DNMT3A,p.D740E,740,Missense,0,0,0,0,0,0,0,0,1,,740
+DNMT3A,p.A741E,741,Missense,0,0,0,0,0,0,0,1,0,,741
+DNMT3A,p.A741V,741,Missense,0,0,0,0,0,0,0,0,1,,741
+DNMT3A,p.R742fs,742,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,742
+DNMT3A,p.D747A,747,Missense,0,0,0,1,0,0,0,0,0,,747
+DNMT3A,p.D747fs,747,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,747
+DNMT3A,p.R749H,749,Missense,1,0,0,0,0,0,0,1,0,,749
+DNMT3A,p.R749C,749,Missense,0,2,0,3,0,0,0,0,1,,749
+DNMT3A,p.R749fs,749,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,749
+DNMT3A,p.R749L,749,Missense,1,0,0,0,0,0,0,0,0,,749
+DNMT3A,p.R749G,749,Missense,0,0,0,0,1,0,0,0,0,,749
+DNMT3A,p.P750fs,750,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,750
+DNMT3A,p.F751C,751,Missense,0,1,0,0,0,0,0,0,1,,751
+DNMT3A,p.F751S,751,Missense,0,0,0,0,0,0,0,0,1,,751
+DNMT3A,p.F751V,751,Missense,0,0,0,0,0,0,0,0,1,,751
+DNMT3A,p.F751fs,751,Frameshift Duplication,0,0,0,1,0,0,0,0,0,,751
+DNMT3A,p.F751L,751,Missense,1,0,0,0,0,0,0,0,0,,751
+DNMT3A,p.F751fs,751,Frameshift Deletion,2,0,0,0,0,0,0,0,0,,751
+DNMT3A,p.F752L,752,Missense,1,0,0,0,0,0,0,0,2,,752
+DNMT3A,p.F752fs,752,Frameshift Deletion,1,0,0,1,0,0,0,0,0,,752
+DNMT3A,p.F752I,752,Missense,1,0,0,0,0,0,0,0,0,,752
+DNMT3A,p.F752V,752,Missense,2,0,0,0,0,0,0,0,0,,752
+DNMT3A,p.F752del,752,Inframe Deletion,1,0,0,0,0,0,0,0,0,,752
+DNMT3A,p.W753C,753,Missense,0,1,0,1,0,0,0,0,0,,753
+DNMT3A,p.W753L,753,Missense,0,0,0,1,0,0,0,0,0,,753
+DNMT3A,p.W753S,753,Missense,0,0,0,1,0,0,0,0,0,,753
+DNMT3A,p.W753*,753,Nonsense,1,0,0,0,0,0,0,0,0,,753
+DNMT3A,p.L754P,754,Missense,0,0,0,1,0,0,0,0,0,,754
+DNMT3A,p.L754R,754,Missense,0,0,0,1,0,0,0,0,0,,754
+DNMT3A,p.L754H,754,Missense,1,0,0,0,0,0,0,0,0,,754
+DNMT3A,p.L754fs,754,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,754
+DNMT3A,p.F755S,755,Missense,3,2,0,0,0,0,0,0,1,,755
+DNMT3A,p.F755V,755,Missense,0,0,0,1,0,0,0,0,0,,755
+DNMT3A,p.F755I,755,Missense,2,0,0,0,0,0,0,0,0,,755
+DNMT3A,p.F755L,755,Missense,1,0,0,0,0,0,0,0,0,,755
+DNMT3A,p.E756D,756,Missense,0,1,0,1,0,0,0,0,1,,756
+DNMT3A,p.E756Q,756,Missense,0,0,0,0,0,0,0,0,1,,756
+DNMT3A,p.N757fs,757,Frameshift Deletion,0,0,0,0,0,0,0,0,1,,757
+DNMT3A,p.A760fs,760,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,760
+DNMT3A,p.M761V,761,Missense,1,1,0,0,1,2,0,0,1,,761
+DNMT3A,p.M761fs,761,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,761
+DNMT3A,p.G762fs,762,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,762
+DNMT3A,p.V763G,763,Missense,0,0,0,0,0,1,0,0,0,,763
+DNMT3A,p.D765G,765,Missense,0,0,0,0,0,1,0,0,0,,765
+DNMT3A,p.K766N,766,Missense,0,0,0,0,0,1,0,0,0,,766
+DNMT3A,p.K766fs,766,Frameshift Deletion,0,0,0,0,0,5,0,0,0,,766
+DNMT3A,p.K766*,766,Nonsense,1,0,0,0,0,0,0,0,0,,766
+DNMT3A,p.D768E,768,Missense,0,0,0,0,0,2,0,0,0,,768
+DNMT3A,p.D768fs,768,Frameshift Deletion,0,0,0,0,0,1,0,0,0,,768
+DNMT3A,p.I769T,769,Missense,0,1,0,0,0,0,0,0,0,,769
+DNMT3A,p.I769L,769,Missense,0,0,0,0,0,1,0,0,0,,769
+DNMT3A,p.I769M,769,Missense,0,0,0,0,0,1,0,0,0,,769
+DNMT3A,p.I769S,769,Missense,0,0,0,0,0,1,0,0,0,,769
+DNMT3A,p.S770L,770,Missense,0,0,1,2,0,3,0,0,0,,770
+DNMT3A,p.S770W,770,Missense,2,0,0,2,0,0,0,0,0,,770
+DNMT3A,p.S770*,770,Nonsense,0,1,0,0,0,1,0,0,0,,770
+DNMT3A,p.S770P,770,Missense,1,0,0,0,0,0,0,0,0,,770
+DNMT3A,p.R771P,771,Missense,0,0,0,0,0,0,0,0,1,,771
+DNMT3A,p.R771*,771,Nonsense,8,1,1,2,1,7,0,0,0,,771
+DNMT3A,p.R771Q,771,Missense,4,0,0,1,0,1,0,0,0,,771
+DNMT3A,p.R771G,771,Missense,0,0,0,0,0,1,0,0,0,,771
+DNMT3A,p.F772C,772,Missense,0,0,0,0,0,1,0,0,0,,772
+DNMT3A,p.F772V,772,Missense,1,0,0,0,0,0,0,0,0,,772
+DNMT3A,p.L773I,773,Missense,0,0,1,0,0,0,0,0,0,,773
+DNMT3A,p.L773R,773,Missense,1,0,0,0,0,1,0,0,0,,773
+DNMT3A,p.E774*,774,Nonsense,0,0,0,0,0,1,0,0,0,,774
+DNMT3A,p.E774E,774,Missense,0,0,0,0,0,1,0,0,0,,774
+DNMT3A,p.E774K,774,Missense,0,0,0,0,0,1,0,0,0,,774
+DNMT3A,p.E774D,774,Missense,1,0,0,0,0,0,0,0,0,,774
+DNMT3A,p.S775P,775,Missense,0,0,0,0,0,0,0,0,1,,775
+DNMT3A,p.P777S,777,Missense,0,0,0,0,0,0,0,0,1,,777
+DNMT3A,p.P777R,777,Missense,0,1,0,0,0,0,0,0,0,,777
+DNMT3A,p.V778fs,778,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,778
+DNMT3A,p.I780T,780,Missense,0,1,0,0,1,0,0,0,3,,780
+DNMT3A,p.E784fs,784,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,784
+DNMT3A,p.V785fs,785,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,785
+DNMT3A,p.R792Afs,792,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,792
+DNMT3A,p.R792C,792,Missense,0,0,0,1,0,0,0,0,0,,792
+DNMT3A,p.R792H,792,Missense,0,1,0,0,0,0,0,0,0,,792
+DNMT3A,p.W795L,795,Missense,0,0,0,1,0,0,0,0,0,,795
+DNMT3A,p.W795S,795,Missense,0,0,0,2,0,0,0,0,0,,795
+DNMT3A,p.W795R,795,Missense,0,1,0,0,0,0,0,0,0,,795
+DNMT3A,p.W795*,795,Nonsense,1,0,0,0,0,0,0,0,0,,795
+DNMT3A,p.G796D,796,Missense,0,0,0,0,0,0,0,0,1,,796
+DNMT3A,p.G796V,796,Missense,1,1,0,0,0,0,0,0,0,,796
+DNMT3A,p.G796Vfs,796,Frameshift Deletion,0,0,0,0,1,0,0,0,0,,796
+DNMT3A,p.N797K,797,Missense,0,0,0,0,1,0,0,0,0,,797
+DNMT3A,p.N797Tfs,797,Frameshift Deletion,0,0,0,0,1,0,0,0,0,,797
+DNMT3A,p.L798fs,798,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,798
+DNMT3A,p.P799S,799,Missense,0,0,0,0,0,0,0,1,0,,799
+DNMT3A,p.P799R,799,Missense,0,0,1,0,0,0,0,0,0,,799
+DNMT3A,p.P799L,799,Missense,0,0,0,1,0,0,0,0,0,,799
+DNMT3A,p.P799H,799,Missense,1,0,0,0,0,0,0,0,0,,799
+DNMT3A,p.G800S,800,Missense,0,0,0,1,0,0,0,0,0,,800
+DNMT3A,p.M801V,801,Missense,0,0,0,0,0,0,0,0,1,,801
+DNMT3A,p.M801R,801,Missense,0,0,0,1,0,0,0,0,0,,801
+DNMT3A,p.M801T,801,Missense,0,0,0,1,0,0,0,0,0,,801
+DNMT3A,p.R803S,803,Missense,0,0,0,0,0,0,0,0,1,,803
+DNMT3A,p.R803G,803,Missense,0,0,0,1,0,0,0,0,0,,803
+DNMT3A,p.P804L,804,Missense,1,0,0,0,0,0,0,0,0,,804
+DNMT3A,p.Q816fs,816,Frameshift Deletion,0,0,0,0,0,0,0,0,1,,816
+DNMT3A,p.Q816*,816,Nonsense,0,1,0,0,0,0,0,0,0,,816
+DNMT3A,p.Q816Afs,816,Frameshift Insertion,0,0,0,0,1,0,0,0,0,,816
+DNMT3A,p.H821R,821,Missense,0,0,0,0,0,0,0,1,0,,821
+DNMT3A,p.K826R,826,Missense,0,0,1,0,0,0,0,0,0,,826
+DNMT3A,p.F827fs,827,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,827
+DNMT3A,p.T832fs,832,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,832
+DNMT3A,p.T834A,834,Missense,0,0,0,0,0,0,0,1,0,,834
+DNMT3A,p.T835A,835,Missense,0,0,0,0,0,0,0,1,0,,835
+DNMT3A,p.S837fs,837,Frameshift Duplication,0,0,0,1,0,0,0,0,0,,837
+DNMT3A,p.N838D,838,Missense,0,0,0,1,0,0,0,0,1,,838
+DNMT3A,p.S839P,839,Missense,0,0,0,0,0,0,0,1,0,,839
+DNMT3A,p.I840fs,840,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,840
+DNMT3A,p.Q842R,842,Missense,0,0,0,0,0,0,0,0,1,,842
+DNMT3A,p.Q842Afs,842,Frameshift Insertion,0,0,1,0,0,0,0,0,0,,842
+DNMT3A,p.G843S,843,Missense,0,1,0,0,0,0,0,0,0,,843
+DNMT3A,p.D845fs,845,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,845
+DNMT3A,p.Q846*,846,Nonsense,0,0,1,0,0,0,0,0,0,,846
+DNMT3A,p.P849R,849,Missense,0,0,0,0,0,0,0,0,1,,849
+DNMT3A,p.P849S,849,Missense,0,0,0,1,1,0,0,0,1,,849
+DNMT3A,p.P849Lfs,849,Frameshift Deletion,0,0,0,0,1,0,0,0,0,,849
+DNMT3A,p.V850fs,850,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,850
+DNMT3A,p.M852V,852,Missense,0,1,0,0,0,0,0,0,0,,852
+DNMT3A,p.M852fs,852,Frameshift Duplication,0,0,0,0,0,1,0,0,0,,852
+DNMT3A,p.M852Ifs,852,Frameshift Deletion,0,0,0,0,1,0,0,0,0,,852
+DNMT3A,c.855_splice,855,Splicing,2,0,0,0,0,0,0,0,0,,855
+DNMT3A,p.E856fs,856,Frameshift Deletion,0,0,0,0,0,1,0,0,0,,856
+DNMT3A,p.D857A,857,Missense,0,0,0,0,0,1,0,0,0,,857
+DNMT3A,p.D857fs,857,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,857
+DNMT3A,p.L859*,859,Nonsense,0,0,0,0,0,1,0,0,0,,859
+DNMT3A,p.L859Yfs,859,Frameshift Deletion,0,0,0,0,0,1,0,0,0,,859
+DNMT3A,p.L859fs,859,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,859
+DNMT3A,p.L859fs,859,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,859
+DNMT3A,p.W860R,860,Missense,2,5,0,3,1,5,0,1,5,,860
+DNMT3A,p.W860fs,860,Frameshift Duplication,0,0,0,2,0,0,0,0,0,,860
+DNMT3A,p.W860*,860,Nonsense,1,0,0,0,0,1,0,0,0,,860
+DNMT3A,p.W860fs,860,Frameshift Deletion,0,0,0,0,0,1,0,0,0,,860
+DNMT3A,p.W860fs,860,Frameshift Duplication,0,0,0,0,0,1,0,0,0,,860
+DNMT3A,p.C861*,861,Indel Nonsense,0,0,0,0,0,1,0,0,0,,861
+DNMT3A,p.C861*,861,Nonsense,0,0,0,0,0,1,0,0,0,,861
+DNMT3A,p.T862I,862,Missense,0,0,0,0,0,3,0,0,1,,862
+DNMT3A,p.E863G,863,Missense,0,0,0,0,0,1,0,0,0,,863
+DNMT3A,p.M864R,864,Missense,0,0,0,0,0,1,0,0,0,,864
+DNMT3A,p.R866M,866,Missense,0,0,0,0,0,1,0,0,0,,866
+DNMT3A,p.F868L,868,Missense,0,0,0,1,0,0,0,0,0,,868
+DNMT3A,p.F868fs,868,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,868
+DNMT3A,p.G869V,869,Missense,1,0,0,0,0,0,0,0,0,,869
+DNMT3A,p.H873D,873,Missense,0,0,0,1,0,0,0,0,0,,873
+DNMT3A,p.M880V,880,Missense,2,1,0,1,0,1,0,0,1,,880
+DNMT3A,p.M880I,880,Missense,0,0,0,0,0,1,0,0,0,,880
+DNMT3A,p.S881I,881,Missense,1,0,0,0,0,0,0,0,0,,881
+DNMT3A,p.R882H,882,Missense,37,15,7,12,2,9,30,1,1,,882
+DNMT3A,p.R882C,882,Missense,25,6,8,4,2,4,16,0,2,,882
+DNMT3A,p.R882P,882,Missense,5,2,1,0,0,0,0,0,0,,882
+DNMT3A,p.R882S,882,Missense,0,0,1,0,0,0,1,0,0,,882
+DNMT3A,p.R882L,882,Missense,0,0,0,1,0,0,0,0,0,,882
+DNMT3A,p.L883fs,883,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,883
+DNMT3A,p.A884T,884,Missense,0,0,0,0,0,1,0,0,0,,884
+DNMT3A,p.A884V,884,Missense,0,0,0,0,0,1,0,0,0,,884
+DNMT3A,p.R885S,885,Missense,0,0,0,0,0,1,0,0,0,,885
+DNMT3A,p.Q886R,886,Missense,0,0,0,0,0,0,0,0,1,,886
+DNMT3A,p.Q886*,886,Nonsense,0,0,0,0,0,3,0,0,0,,886
+DNMT3A,p.R887*,887,Nonsense,0,0,0,0,0,1,0,0,0,,887
+DNMT3A,p.L888P,888,Missense,0,0,0,0,0,1,0,0,0,,888
+DNMT3A,p.L889V,889,Missense,0,0,0,0,0,1,0,0,0,,889
+DNMT3A,p.G890D,890,Missense,1,1,1,0,0,0,0,0,0,,890
+DNMT3A,p.W893*,893,Nonsense,0,1,1,0,0,0,0,0,0,,893
+DNMT3A,p.W893fs,893,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,893
+DNMT3A,p.V895M,895,Missense,0,1,0,0,0,0,0,0,0,,895
+DNMT3A,p.P896fs,896,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,896
+DNMT3A,p.R899G,899,Missense,0,0,0,0,0,0,0,1,0,,899
+DNMT3A,p.R899C,899,Missense,0,1,0,0,1,0,0,0,1,,899
+DNMT3A,p.R899H,899,Missense,0,0,0,0,0,0,0,0,2,,899
+DNMT3A,p.L901H,901,Missense,1,0,0,0,0,0,0,0,0,,901
+DNMT3A,p.F902Rfs,902,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,902
+DNMT3A,p.F902fs,902,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,902
+DNMT3A,p.A903fs,903,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,903
+DNMT3A,p.P904L,904,Missense,6,4,2,4,0,0,0,1,1,,904
+DNMT3A,p.P904S,904,Missense,0,0,0,0,0,0,0,0,1,,904
+DNMT3A,p.L905P,905,Missense,0,0,0,1,0,0,0,0,0,,905
+DNMT3A,p.L905Q,905,Missense,0,1,0,0,0,0,0,0,0,,905
+DNMT3A,p.L905R,905,Missense,0,1,0,0,0,0,0,0,0,,905
+DNMT3A,p.E907G,907,Missense,0,0,0,1,0,0,0,0,0,,907
+DNMT3A,p.E907K,907,Missense,0,1,0,0,0,0,0,0,0,,907
+DNMT3A,p.Y908C,908,Missense,0,3,0,0,1,0,0,0,0,,908
+DNMT3A,p.F909L,909,Missense,0,0,0,0,0,0,0,0,1,,909
+DNMT3A,p.F909fs,909,Frameshift Deletion,2,0,0,0,0,0,0,0,0,,909
+DNMT3A,p.A910P,910,Missense,0,0,0,0,1,0,0,0,0,,910
+DNMT3A,c.1015_splice,1015,Splicing,1,0,0,0,0,0,0,0,0,,1015
+DNMT3A,c.1122_splice,1122,Splicing,2,0,0,0,0,0,0,0,0,,1122
+DNMT3A,c.1123_splice,1123,Splicing,1,0,0,0,0,0,0,0,0,,1123
+DNMT3A,c.1279_splice,1279,Splicing,1,0,0,0,0,0,0,0,0,,1279
+DNMT3A,c.1430_splice,1430,Splicing,1,0,0,0,0,0,0,0,0,,1430
+DNMT3A,c.1475_splice,1475,Splicing,1,0,0,0,0,0,0,0,0,,1475
+DNMT3A,c.1554_splice,1554,Splicing,2,0,0,0,0,0,0,0,0,,1554
+DNMT3A,c.1555_splice,1555,Splicing,1,0,0,0,0,0,0,0,0,,1555
+DNMT3A,c.1667_splice,1667,Splicing,1,0,0,0,0,0,0,0,0,,1667
+DNMT3A,c.1851_splice,1851,Splicing,1,0,0,0,0,0,0,0,0,,1851
+DNMT3A,c.2082_splice,2082,Splicing,1,0,0,0,0,0,0,0,0,,2082
+DNMT3A,c.2083_splice,2083,Splicing,2,0,0,0,0,0,0,0,0,,2083
+DNMT3A,c.2174_splice,2174,Splicing,8,0,0,0,0,0,0,0,0,,2174
+DNMT3A,c.2322_splice,2322,Splicing,1,0,0,0,0,0,0,0,0,,2322
+DNMT3A,c.2478_splice,2478,Splicing,2,0,0,0,0,0,0,0,0,,2478
+DNMT3A,c.2479_splice,2479,Splicing,4,0,0,0,0,0,0,0,0,,2479
+DNMT3A,c.1015-1G>C,10151,Unknown,0,0,0,1,0,0,0,0,0,,10151
+DNMT3A,c.1123-2A>T,11232,Splicing,0,0,0,0,1,0,0,0,0,,11232
+DNMT3A,c.1474+1G>A,14741,Unknown,0,0,0,1,0,0,0,0,0,,14741
+DNMT3A,c.1554+1G>A,15541,Unknown,0,0,0,1,0,0,0,0,0,,15541
+DNMT3A,c.1554+1G>A,15541,Splicing,0,0,0,0,1,0,0,0,0,,15541
+DNMT3A,c.1555-2A>G,15552,Unknown,0,0,0,1,0,0,0,0,0,,15552
+DNMT3A,c.1667+1G>A,16671,Splicing,0,0,0,0,1,0,0,0,0,,16671
+DNMT3A,c.1668-1G>A,16681,Unknown,0,0,0,1,0,0,0,0,0,,16681
+DNMT3A,c.1668-2A>C,16682,Unknown,0,0,0,1,0,0,0,0,0,,16682
+DNMT3A,c.1851+1G>T,18511,Splicing,0,0,0,0,1,0,0,0,0,,18511
+DNMT3A,c.2082+1G>A,20821,Unknown,0,0,0,1,0,0,0,0,0,,20821
+DNMT3A,c.2082+2dupT,20822,Splicing,0,0,0,0,1,0,0,0,0,,20822
+DNMT3A,c.2083-1G>A,20831,Unknown,0,0,0,1,0,0,0,0,0,,20831
+DNMT3A,c.2083-2A>T,20832,Unknown,0,0,0,1,0,0,0,0,0,,20832
+DNMT3A,c.2173+1G>T,21731,Unknown,0,0,0,1,0,0,0,0,0,,21731
+DNMT3A,c.2173+2T>C,21732,Unknown,0,0,0,1,0,0,0,0,0,,21732
+DNMT3A,c.2323-1G>A,23231,Unknown,0,0,0,1,0,0,0,0,0,,23231
+DNMT3A,c.2408+1G>C,24081,Unknown,0,0,0,1,0,0,0,0,0,,24081
+DNMT3A,c.2408+2T>A,24082,Unknown,0,0,0,1,0,0,0,0,0,,24082
+DNMT3A,c.2408+2T>G,24082,Unknown,0,0,0,1,0,0,0,0,0,,24082
+DNMT3A,c.2479-1G>A,24791,Unknown,0,0,0,1,0,0,0,0,0,,24791
+DNMT3A,c.2479-2A>T,24792,Unknown,0,0,0,1,0,0,0,0,0,,24792
+DNMT3A,c.2597+1G>A,25971,Unknown,0,0,0,1,0,0,0,0,0,,25971
+DNMT3A,c.2598-1G>T,25981,Unknown,0,0,0,1,0,0,0,0,0,,25981
+DNMT3A,c.2598-2A>C,25982,Unknown,0,0,0,1,0,0,0,0,0,,25982
+DNMT3A,p.414_421del,414421,Deletion,0,0,0,1,0,0,0,0,0,,414421
+DNMT3A,p.Y584_M585delins*,584585,Indel Nonsense,0,0,0,1,0,0,0,0,0,,584585
+DNMT3A,p.669_669del,669669,Deletion,0,0,0,1,0,0,0,0,0,,669669
+DNMT3A,p.731_732del,731732,Deletion,0,0,0,2,0,0,0,0,0,,731732
+DNMT3A,p.E733_F734delins*,733734,Indel Nonsense,0,0,0,1,0,0,0,0,0,,733734
+DNMT3A,p.E756_N757delins*,756757,Indel Nonsense,0,0,0,1,0,0,0,0,0,,756757
+DNMT3A,p.775_775del,775775,Deletion,0,0,0,1,0,0,0,0,0,,775775
+DNMT3A,c.2174-37_2174delCAGCCCCAGCTGATGGCTTTCTCTTCCGACCTCTCAGA,2174372174,Splicing,0,0,0,0,1,0,0,0,0,,2174372174
+DOT1L,p.P1111L,1111,Missense,0,0,0,1,0,0,0,0,0,,1111
+DOT1L,p.F1296S,1296,Missense,0,0,0,1,0,0,0,0,0,,1296
+EGFR,p.A289V,289,Missense,0,0,0,2,0,0,0,0,0,,289
+EGFR,p.V742I,742,Missense,0,0,0,1,0,0,0,0,0,,742
+EP300,p.R353fs,353,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,353
+EP300,p.R915H,915,Missense,0,0,0,1,0,0,0,0,0,,915
+EPCAM,p.K202N,202,Missense,0,0,0,1,0,0,0,0,0,,202
+EPHA5,p.V69L,69,Missense,0,0,0,1,0,0,0,0,0,,69
+EPHB1,p.V322I,322,Missense,0,0,0,1,0,0,0,0,0,,322
+EPHB1,p.A547V,547,Missense,0,0,0,1,0,0,0,0,0,,547
+ERCC4,p.Y98C,98,Missense,0,0,0,1,0,0,0,0,0,,98
+ERCC4,p.A878P,878,Missense,0,0,0,1,0,0,0,0,0,,878
+ERCC5,p.R992L,992,Missense,0,0,0,1,0,0,0,0,0,,992
+ETV6,-,0,Intronic,0,0,0,0,0,0,0,1,0,,0
+ETV6,p.S203fs,203,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,203
+ETV6,p.M315T,315,Missense,0,0,0,0,0,0,0,0,1,,315
+ETV6,p.V320V,320,Synonymous,0,0,0,0,0,0,0,1,0,,320
+ETV6,p.V371L,371,Missense,0,0,0,0,0,0,0,0,1,,371
+EZH2,-,0,Intronic,0,0,0,0,0,0,0,1,0,,0
+EZH2,p.A255P,255,Missense,0,0,0,0,0,0,0,0,1,,255
+EZH2,p.R347W,347,Missense,0,0,0,1,0,0,0,0,0,,347
+EZH2,p.S366fs,366,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,366
+EZH2,p.S380T,380,Missense,0,0,0,0,0,0,0,0,1,,380
+EZH2,p.K405*,405,Nonsense,0,0,0,1,0,0,0,0,0,,405
+EZH2,p.C508F,508,Missense,0,0,0,0,0,0,0,0,1,,508
+EZH2,p.S519S,519,Synonymous,0,0,0,0,0,0,0,0,1,,519
+EZH2,p.R566H,566,Missense,0,0,0,1,0,0,0,0,0,,566
+EZH2,p.G660V,660,Missense,0,0,0,1,0,0,0,0,0,,660
+EZH2,p.R679H,679,Missense,1,0,0,0,0,0,0,0,0,,679
+EZH2,p.R684P,684,Missense,0,0,0,0,0,0,0,0,1,,684
+EZH2,p.R684H,684,Missense,0,0,0,1,0,0,0,0,0,,684
+EZH2,p.I689T,689,Missense,0,0,0,0,0,0,0,0,1,,689
+EZH2,p.T723A,723,Missense,0,0,0,0,0,0,0,0,1,,723
+FAM46C,p.L93fs,93,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,93
+FAT1,p.Q1738K,1738,Missense,0,0,0,1,0,0,0,0,0,,1738
+FAT1,p.V2067M,2067,Missense,0,0,0,1,0,0,0,0,0,,2067
+FAT1,p.H2126Q,2126,Missense,0,0,0,1,0,0,0,0,0,,2126
+FBXW7,-,0,Intronic,0,0,0,0,0,0,0,1,0,,0
+FBXW7,p.Y519C,519,Missense,0,0,0,0,0,0,0,0,1,,519
+FBXW7,p.F521Y,521,Missense,0,0,0,0,0,0,0,0,1,,521
+FBXW7,c.585_splice,585,Splicing,1,0,0,0,0,0,0,0,0,,585
+FGFR1,p.R640*,640,Nonsense,0,0,0,2,0,0,0,0,0,,640
+FGFR1,p.D166_S167insD,166167,Insertion,0,0,0,1,0,0,0,0,0,,166167
+FGFR2,p.P781A,781,Missense,0,0,0,1,0,0,0,0,0,,781
+FLT1,p.K371*,371,Nonsense,0,0,0,0,1,0,0,0,0,,371
+FLT1,p.G988S,988,Missense,0,0,0,1,0,0,0,0,0,,988
+FLT3,p.H564N,564,Missense,0,0,0,1,0,0,0,0,0,,564
+FLT3,p.V592I,592,Missense,0,0,0,0,0,0,0,0,1,,592
+FLT3,p.V592A,592,Missense,1,0,0,0,0,0,0,0,0,,592
+FLT3,p.N897K,897,Missense,0,0,0,1,0,0,0,0,0,,897
+FLT3,p.R973*,973,Nonsense,0,0,0,1,0,0,0,0,0,,973
+FLT4,p.E561K,561,Missense,0,0,0,1,0,0,0,0,0,,561
+FOXP1,p.K484fs,484,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,484
+GATA2,p.N32S,32,Missense,0,0,0,0,0,0,0,0,1,,32
+GATA2,p.A300A,300,Synonymous,0,0,0,0,0,0,0,0,1,,300
+GATA2,p.T301I,301,Missense,0,0,0,0,0,0,0,0,1,,301
+GATA2,p.W306*,306,Nonsense,0,0,0,0,0,0,0,0,1,,306
+GATA2,p.G320D,320,Missense,0,0,0,0,0,0,0,0,1,,320
+GLI1,p.R940H,940,Missense,0,0,0,1,0,0,0,0,0,,0
+GNAQ,p.T96S,96,Missense,0,0,0,1,0,0,0,0,0,,96
+GNAS,p.R201H,201,Missense,0,0,1,0,0,0,0,0,1,,201
+GNAS,p.R374H,374,Missense,0,0,0,1,0,0,0,0,0,,374
+GNAS,p.D381Y,381,Missense,0,0,0,1,0,0,0,0,0,,381
+GNAS,p.C843R,843,Missense,0,0,0,0,0,1,0,0,0,,843
+GNAS,p.R844C,844,Missense,1,0,0,0,0,2,0,0,0,,844
+GNAS,p.R844H,844,Missense,5,0,0,0,0,5,0,0,0,,844
+GNAS,p.R844S,844,Missense,1,0,0,0,0,1,0,0,0,,844
+GNAS,p.R844G,844,Missense,1,0,0,0,0,0,0,0,0,,844
+GNAS,p.L846P,846,Missense,0,0,0,0,0,1,0,0,0,,846
+GNB1,p.K57E,57,Missense,17,0,1,0,0,4,0,0,0,,57
+GNB1,p.K57M,57,Missense,3,0,0,0,0,0,0,0,0,,57
+GNB1,p.K57N,57,Missense,2,0,0,0,0,0,0,0,0,,57
+GOLGA8B,p.V568I,568,Missense,0,0,29,0,0,0,0,0,0,,568
+GRIN2A,p.D369G,369,Missense,0,0,0,1,0,0,0,0,0,,369
+GRIN2A,p.A764S,764,Missense,0,0,0,1,0,0,0,0,0,,764
+H3F3A,p.Y55*,55,Nonsense,0,0,0,1,0,0,0,0,0,,55
+HECTD1,p.S2223P,2223,Missense,0,0,0,0,0,1,0,0,0,,2223
+HIST1H1C,p.P9H,9,Missense,0,0,0,1,0,0,0,0,0,,9
+HIST1H1C,p.K109*,109,Nonsense,1,0,0,0,0,0,0,0,0,,109
+HNF1A,p.G288fs,288,Frameshift Insertion,0,0,0,1,0,0,0,0,0,,288
+HRAS,p.L133R,133,Missense,0,0,0,0,1,0,0,0,0,,133
+HRC,p.L152P,152,Missense,0,0,6,0,0,0,0,0,0,,152
+IDH1,p.R132C,132,Missense,0,0,0,0,0,0,1,0,0,,132
+IDH1,p.R132H,132,Missense,0,0,0,0,0,0,1,0,0,,132
+IDH1,p.V152I,152,Missense,0,0,0,1,0,0,0,0,0,,152
+IDH2,p.R140Q,140,Missense,3,0,2,2,0,2,1,0,0,,140
+IDH2,p.R140W,140,Missense,0,1,0,0,0,0,0,0,0,,140
+IKZF1,-,0,Intronic,0,0,0,0,0,0,0,1,0,,0
+IKZF1,p.S21S,21,Synonymous,0,0,0,0,0,0,0,1,0,,21
+IKZF1,p.K48K,48,Synonymous,0,0,0,0,0,0,0,0,1,,48
+IKZF1,p.S88S,88,Synonymous,0,0,0,0,0,0,0,0,1,,88
+IKZF1,p.G231C,231,Missense,0,0,0,0,0,0,0,0,1,,231
+IKZF1,p.Y477*,477,Nonsense,1,0,0,0,0,0,0,0,0,,477
+IKZF1,p.T478A,478,Missense,0,0,0,0,0,0,0,0,1,,478
+INPP4B,p.L456F,456,Missense,0,0,0,1,0,0,0,0,0,,456
+IRS1,p.T176K,176,Missense,0,0,0,1,0,0,0,0,0,,176
+IRS1,p.T539S,539,Missense,0,0,0,1,0,0,0,0,0,,539
+JAK1,p.K696I,696,Missense,0,0,0,0,1,0,0,0,0,,696
+JAK1,p.G1097V,1097,Missense,0,0,0,0,1,0,0,0,0,,1097
+JAK2,p.Y373*,373,Nonsense,0,0,1,0,0,0,0,0,0,,373
+JAK2,p.Q419K,419,Missense,0,0,0,1,0,0,0,0,0,,419
+JAK2,p.V617F,617,Missense,31,24,7,4,1,7,25,0,1,,617
+JAK2,p.E814G,814,Missense,0,0,0,0,1,0,0,0,0,,814
+JAK3,p.N108S,108,Missense,0,0,0,1,0,0,0,0,0,,108
+JAK3,p.M511I,511,Missense,1,0,0,0,0,0,0,0,0,,511
+JARID2,p.L694fs,694,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,694
+KCNQ3,p.S228N,228,Missense,0,0,0,0,0,1,0,0,0,,228
+KDM5C,p.L75Q,75,Missense,0,0,0,1,0,0,0,0,0,,75
+KDM5C,p.E555K,555,Missense,0,0,0,1,0,0,0,0,0,,555
+KDM5C,p.R936C,936,Missense,0,0,0,1,0,0,0,0,0,,936
+KDM6A,-,0,Intronic,0,0,0,0,0,0,0,3,0,,0
+KDM6A,p.A30V,30,Missense,0,0,0,0,0,0,0,0,1,,30
+KDM6A,p.G32G,32,Synonymous,0,0,0,0,0,0,0,0,1,,32
+KDM6A,p.E35G,35,Missense,0,0,0,0,0,0,0,0,1,,35
+KDM6A,p.V139I,139,Missense,0,0,0,0,1,0,0,0,0,,139
+KDM6A,p.R172*,172,Nonsense,1,0,0,0,0,0,0,0,0,,172
+KDM6A,p.A239V,239,Missense,0,0,0,0,0,0,0,1,0,,239
+KDM6A,p.E657*,657,Nonsense,0,0,0,0,1,0,0,0,0,,657
+KDM6A,p.Q835P,835,Missense,0,0,0,0,0,0,0,0,1,,835
+KDM6A,p.T842N,842,Missense,0,0,0,0,0,0,0,0,1,,842
+KDM6A,p.P1107fs,1107,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,1107
+KDM6A,p.V1113L,1113,Missense,0,0,0,0,0,0,0,0,1,,1113
+KDM6A,p.Q1248R,1248,Missense,0,0,0,1,0,0,0,0,0,,1248
+KDR,p.T1276S,1276,Missense,0,0,0,1,0,0,0,0,0,,1276
+KIT,p.R49S,49,Missense,0,0,0,0,0,0,0,0,1,,49
+KIT,p.E53K,53,Missense,0,0,0,0,0,0,0,0,1,,53
+KIT,p.S395Y,395,Missense,0,0,0,1,0,0,0,0,0,,395
+KIT,p.V530I,530,Missense,0,0,0,0,0,0,0,0,1,,530
+KIT,p.Q575H,575,Missense,0,0,0,0,0,0,0,0,1,,575
+KIT,p.R634W,634,Missense,1,0,0,0,0,0,0,0,0,,634
+KIT,p.D816V,816,Missense,0,0,1,0,0,0,0,0,0,,816
+KIT,p.S821F,821,Missense,0,0,0,0,1,0,0,0,0,,821
+KLF4,p.P245Q,245,Missense,0,0,0,1,0,0,0,0,0,,245
+KLHL6,p.R98W,98,Missense,1,0,0,0,0,0,0,0,0,,98
+KMT2A,p.Y434Y,434,Synonymous,0,0,0,0,0,0,0,0,1,,434
+KMT2A,p.R2516R,2516,Synonymous,0,0,0,0,0,0,0,0,1,,2516
+KMT2D,p.A542Vfs,542,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,542
+KMT2D,p.T698Sfs,698,Frameshift Insertion,0,0,1,0,0,0,0,0,0,,698
+KMT2D,p.A707Vfs,707,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,707
+KMT2D,p.E730Dfs,730,Frameshift Insertion,0,0,1,0,0,0,0,0,0,,730
+KMT2D,p.Q3265*,3265,Nonsense,0,0,1,0,0,0,0,0,0,,3265
+KRAS,-,0,Intronic,0,0,0,0,0,0,0,1,0,,0
+KRAS,p.G12D,12,Missense,0,0,0,0,0,0,0,1,1,,12
+KRAS,p.G12R,12,Missense,0,0,0,0,0,0,1,0,0,,12
+KRAS,p.G12S,12,Missense,0,0,0,0,0,0,1,0,0,,12
+KRAS,p.G12C,12,Missense,1,0,0,0,0,0,0,0,0,,12
+KRAS,p.G13D,13,Missense,0,0,0,0,0,3,0,0,0,,13
+KRAS,p.V14V,14,Synonymous,0,0,0,0,0,0,0,0,1,,14
+KRAS,p.L19F,19,Missense,0,0,0,1,0,0,0,0,0,,19
+KRAS,p.S65S,65,Synonymous,0,0,0,0,0,0,0,1,0,,65
+KRAS,p.A66A,66,Synonymous,0,0,0,0,0,0,0,1,0,,66
+KRAS,p.K117N,117,Missense,1,0,0,1,0,0,0,0,0,,117
+KRAS,p.A146V,146,Missense,1,0,0,0,0,0,0,0,0,,146
+LUC7L2,p.D64fs,64,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,64
+LUC7L2,p.Q91*,91,Nonsense,1,0,0,0,0,0,0,0,0,,91
+LUC7L2,p.R262*,262,Nonsense,1,0,0,0,0,0,0,0,0,,262
+MAP2K4,p.D324Y,324,Missense,0,0,0,1,0,0,0,0,0,,324
+MDC1,p.L1916M,1916,Missense,0,0,0,1,0,0,0,0,0,,1916
+MET,p.Y745H,745,Missense,0,0,0,1,0,0,0,0,0,,745
+MET,p.V840A,840,Missense,0,0,0,1,0,0,0,0,0,,840
+MITF,p.S176I,176,Missense,0,0,0,1,0,0,0,0,0,,176
+MLL2,p.R845fs,845,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,845
+MLL2,p.R924fs,924,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,924
+MLL2,p.Q2418*,2418,Nonsense,1,0,0,0,0,0,0,0,0,,2418
+MLL2,p.K3551fs,3551,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,3551
+MLL2,p.R4468Q,4468,Missense,0,0,0,1,0,0,0,0,0,,4468
+MLL2,p.L5329fs,5329,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,5329
+MLL2,p.576_724del,576724,Deletion,0,0,0,1,0,0,0,0,0,,576724
+MLL3,p.P309S,309,Missense,0,0,0,1,0,0,0,0,0,,309
+MLL3,p.L804V,804,Missense,0,0,0,2,0,0,0,0,0,,804
+MLL3,p.E2583*,2583,Nonsense,0,0,0,1,0,0,0,0,0,,2583
+MLL3,p.R3177C,3177,Missense,0,0,0,1,0,0,0,0,0,,3177
+MPL,p.R321W,321,Missense,0,0,0,1,0,0,0,0,0,,321
+MPL,p.L513del,513,Inframe Deletion,1,0,0,0,0,0,0,0,0,,513
+MPL,p.W515L,515,Missense,1,0,1,0,0,0,0,0,0,,515
+MPL,p.P603S,603,Missense,0,0,0,1,0,0,0,0,0,,603
+MSH6,p.T327fs,327,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,327
+MTOR,p.T1533I,1533,Missense,0,0,0,1,0,0,0,0,0,,1533
+MYD88,-,0,Intronic,0,0,0,0,0,0,0,1,0,,0
+MYD88,p.*160Rext*,160,Missense,0,0,2,0,0,0,0,0,0,,160
+MYD88,p.I192I,192,Synonymous,0,0,0,0,0,0,0,1,0,,192
+MYD88,p.V206L,206,Missense,0,0,0,0,0,0,0,0,1,,206
+MYD88,p.L265P,265,Missense,0,1,0,0,0,0,0,0,0,,265
+MYD88,p.L273P,273,Missense,2,0,0,0,0,2,0,0,0,,273
+MYOD1,p.V53E,53,Missense,0,0,0,1,0,0,0,0,0,,53
+NBN,p.R624C,624,Missense,0,0,0,1,0,0,0,0,0,,624
+NCOA3,p.A1223T,1223,Missense,0,0,0,1,0,0,0,0,0,,1223
+NF1,p.L1773R,1773,Missense,0,0,0,1,0,0,0,0,0,,1773
+NFE2L2,p.M299fs,299,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,299
+NFE2L2,p.V417M,417,Missense,0,0,0,1,0,0,0,0,0,,417
+NFKBIA,p.T146S,146,Missense,0,0,0,1,0,0,0,0,0,,146
+NKX3-1,p.V226M,226,Missense,0,0,0,1,0,0,0,0,0,,226
+NOTCH1,p.N268fs,268,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,268
+NOTCH1,p.I1440L,1440,Missense,0,0,0,1,0,0,0,0,0,,1440
+NOTCH1,p.E1450*,1450,Nonsense,1,0,0,0,0,0,0,0,0,,1450
+NOTCH1,p.V1577V,1577,Synonymous,0,0,0,0,0,0,0,0,1,,1577
+NOTCH1,p.D1642E,1642,Missense,0,0,0,0,0,0,0,0,1,,1642
+NOTCH1,p.L1644L,1644,Synonymous,0,0,0,0,0,0,0,0,1,,1644
+NOTCH1,p.P2334L,2334,Missense,0,0,0,0,0,0,0,0,1,,2334
+NOTCH1,p.Q2338*,2338,Nonsense,0,0,0,0,0,0,0,1,0,,2338
+NOTCH1,p.P2525L,2525,Missense,0,0,0,0,1,0,0,0,0,,2525
+NOTCH1,p.S2538R,2538,Missense,0,0,0,0,0,0,0,0,1,,2538
+NOTCH2,p.W10*,10,Nonsense,1,0,0,0,0,0,0,0,0,,10
+NOTCH2,p.R1365H,1365,Missense,0,0,0,1,0,0,0,0,0,,1365
+NOTCH2,p.E1488*,1488,Nonsense,1,0,0,0,0,0,0,0,0,,1488
+NOTCH3,p.V1183L,1183,Missense,0,0,0,1,0,0,0,0,0,,1183
+NOTCH3,p.V1659F,1659,Missense,0,0,0,1,0,0,0,0,0,,1659
+NRAS,p.G12D,12,Missense,0,0,1,1,0,0,1,0,0,,12
+NRAS,p.G12S,12,Missense,0,0,1,0,0,0,1,0,0,,12
+NRAS,p.G13D,13,Missense,1,0,0,0,0,0,0,0,0,,13
+NRAS,p.G13R,13,Missense,1,0,0,0,0,0,0,0,0,,13
+NRAS,p.G60R,60,Missense,0,0,0,1,0,0,0,0,0,,60
+NRAS,p.G60E,60,Missense,1,0,0,0,0,0,0,0,0,,60
+NRAS,p.Q61K,61,Missense,1,0,0,0,0,1,0,0,0,,61
+NRAS,p.Q61L,61,Missense,0,0,0,0,0,1,0,0,0,,61
+NRAS,p.Q61H,61,Missense,1,0,0,0,0,0,0,0,0,,61
+NRAS,p.Q61R,61,Missense,1,0,0,0,0,0,0,0,0,,61
+NRAS,p.E62*,62,Nonsense,0,0,0,0,0,2,0,0,0,,62
+NRAS,p.D69E,69,Missense,0,0,0,1,0,0,0,0,0,,69
+NTRK1,p.R574G,574,Missense,0,0,0,1,0,0,0,0,0,,574
+NTRK3,p.S195P,195,Missense,0,0,0,1,0,0,0,0,0,,195
+NTRK3,p.S561R,561,Missense,0,0,0,1,0,0,0,0,0,,561
+PAX5,p.R221W,221,Missense,0,0,0,1,0,0,0,0,0,,221
+PDGFRA,p.V488M,488,Missense,0,0,0,1,0,0,0,0,0,,488
+PDGFRA,p.R914Q,914,Missense,0,0,0,1,0,0,0,0,0,,914
+PDGFRB,c.2698+2T>A,26982,Unknown,0,0,0,1,0,0,0,0,0,,26982
+PDSS2,p.N129fs,129,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,129
+PHF6,p.T255del,255,Inframe Deletion,0,0,0,0,1,0,0,0,0,,255
+PHF6,p.G306*,306,Nonsense,1,0,0,0,0,0,0,0,0,,306
+PIK3CA,p.R38H,38,Missense,1,0,0,0,0,0,0,0,0,,38
+PIK3CA,p.E39*,39,Nonsense,0,0,0,0,0,1,0,0,0,,39
+PMS1,p.T112M,112,Missense,0,0,0,1,0,0,0,0,0,,112
+POLE,p.S1723fs,1723,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,1723
+POLE,p.G2046R,2046,Missense,0,0,0,1,0,0,0,0,0,,2046
+PPM1D,p.D206Y,206,Missense,0,0,0,1,0,0,0,0,0,,206
+PPM1D,p.D331Pfs,331,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,331
+PPM1D,p.R353L,353,Missense,0,0,0,1,0,0,0,0,0,,353
+PPM1D,p.C407*,407,Nonsense,0,1,0,0,0,0,0,0,0,,407
+PPM1D,p.W427*,427,Nonsense,0,0,0,1,0,0,0,0,0,,427
+PPM1D,p.V430*,430,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,430
+PPM1D,p.L450*,450,Frameshift Deletion,0,0,2,0,0,0,0,0,0,,450
+PPM1D,p.R458*,458,Nonsense,0,2,0,0,0,0,0,0,0,,458
+PPM1D,p.V464Sfs,464,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,464
+PPM1D,p.E472Rfs,472,Frameshift Insertion,0,0,1,0,0,0,0,0,0,,472
+PPM1D,p.C478*,478,Nonsense,0,0,1,0,0,0,0,0,0,,478
+PPM1D,p.A481fs,481,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,481
+PPM1D,p.A481fs,481,Frameshift Insertion,0,0,0,1,0,0,0,0,0,,481
+PPM1D,p.L484Ffs,484,Frameshift Insertion,0,0,1,0,0,0,0,0,0,,484
+PPM1D,p.L490*,490,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,490
+PPM1D,p.Q510*,510,Nonsense,0,0,1,0,0,0,0,0,0,,510
+PPM1D,p.Q510fs,510,Frameshift Duplication,0,0,0,1,0,0,0,0,0,,510
+PPM1D,p.L513*,513,Nonsense,0,0,0,1,0,0,0,0,0,,513
+PPM1D,p.S516*,516,Nonsense,0,0,1,1,0,0,0,0,0,,516
+PPM1D,p.A523Pfs,523,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,523
+PPM1D,p.E525*,525,Nonsense,0,1,0,0,0,0,0,0,0,,525
+PPM1D,p.N533Tfs,533,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,533
+PPM1D,p.E540Gfs,540,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,540
+PPM1D,p.E540*,540,Nonsense,0,1,0,0,0,0,0,0,0,,540
+PPM1D,p.S543Lfs,543,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,543
+PPM1D,p.L546fs,546,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,546
+PPM1D,p.R552*,552,Nonsense,0,0,0,1,0,0,0,0,0,,552
+PPM1D,p.Q571*,571,Nonsense,0,0,1,0,0,0,0,0,0,,571
+PPM1D,p.R572*,572,Nonsense,0,1,0,1,0,0,0,0,0,,572
+PPM1D,p.N574Efs,574,Frameshift Insertion,0,0,1,0,0,0,0,0,0,,574
+PPM1D,p.T579fs,579,Frameshift Insertion,0,0,0,1,0,0,0,0,0,,579
+PPM1D,p.R581*,581,Nonsense,0,0,0,1,0,0,0,0,0,,581
+PPM1D,p.L594*,594,Nonsense,0,0,0,1,0,0,0,0,0,,594
+PPP6C,p.F304V,304,Missense,0,0,0,1,0,0,0,0,0,,304
+PRDM1,p.L415fs,415,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,415
+PRDM1,p.A501fs,501,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,501
+PRDM1,p.T521fs,521,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,521
+PRKAR1A,p.Q304*,304,Nonsense,0,0,0,1,0,0,0,0,0,,304
+PRPF40B,p.Q241*,241,Nonsense,1,0,0,0,0,0,0,0,0,,241
+PTCH1,p.R543C,543,Missense,0,0,0,1,0,0,0,0,0,,543
+PTCH1,p.V687M,687,Missense,0,0,0,1,0,0,0,0,0,,687
+PTPN11,p.I11V,11,Missense,0,0,0,1,0,0,0,0,0,,11
+PTPN11,p.Y63C,63,Missense,2,0,0,0,0,0,0,0,0,,63
+PTPN11,p.L65L,65,Synonymous,0,0,0,0,0,1,0,0,0,,65
+PTPN11,p.E69A,69,Missense,0,0,0,0,0,1,0,0,0,,69
+PTPN11,p.E69Q,69,Missense,1,0,0,0,0,0,0,0,0,,69
+PTPN11,p.T73A,73,Missense,0,0,0,0,0,1,0,0,0,,73
+PTPN11,p.A75P,75,Missense,0,0,0,0,0,0,0,0,1,,75
+PTPN11,p.L77F,77,Missense,0,0,0,0,0,0,0,0,1,,77
+PTPRD,p.R684Q,684,Missense,0,0,0,1,0,0,0,0,0,,684
+PTPRS,p.V276M,276,Missense,0,0,0,1,0,0,0,0,0,,276
+PTPRS,p.R561W,561,Missense,0,0,0,1,0,0,0,0,0,,561
+PTPRS,p.R1432H,1432,Missense,0,0,0,1,0,0,0,0,0,,1432
+PTPRT,p.R834C,834,Missense,0,0,0,1,0,0,0,0,0,,834
+RAB35,c.53-2A>G,532,Unknown,0,0,0,1,0,0,0,0,0,,532
+RAD21,p.V32V,32,Synonymous,0,0,0,0,0,0,0,1,0,,32
+RAD21,p.C35Y,35,Missense,0,0,0,0,0,0,0,0,1,,35
+RAD21,p.S56*,56,Nonsense,1,0,0,0,0,0,0,0,0,,56
+RAD21,p.R65Q,65,Missense,1,0,0,0,0,0,0,0,0,,65
+RAD21,p.S189fs,189,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,189
+RAD21,p.P398fs,398,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,398
+RAD21,p.R450H,450,Missense,0,0,0,1,0,0,0,0,0,,450
+RAD21,p.P487L,487,Missense,0,0,0,1,0,0,0,0,0,,487
+RAD21,p.Q492*,492,Nonsense,1,0,0,0,0,0,0,0,0,,492
+RAD21,p.I512fs,512,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,512
+RAD21,p.I512fs,512,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,512
+RAD21,p.D541A,541,Missense,0,0,0,1,0,0,0,0,0,,541
+RAD21,p.D541N,541,Missense,0,0,0,1,0,0,0,0,0,,541
+RAD21,p.Y598C,598,Missense,0,0,0,0,0,0,0,1,0,,598
+RECQL4,p.A852T,852,Missense,0,0,0,1,0,0,0,0,0,,852
+RHEB,p.Y35Y,35,Synonymous,0,0,0,0,0,1,0,0,0,,35
+RHEB,p.Q57_L58insHHL,5758,Insertion,0,0,0,1,0,0,0,0,0,,5758
+RICTOR,p.H1632N,1632,Missense,0,0,0,1,0,0,0,0,0,,1632
+RIT1,p.R112fs,112,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,112
+ROBO1,p.R23H,23,Missense,0,0,1,0,0,0,0,0,0,,23
+ROS1,p.H1269N,1269,Missense,0,0,0,1,0,0,0,0,0,,1269
+ROS1,p.Q1770*,1770,Nonsense,0,0,0,1,0,0,0,0,0,,1770
+RPS15,p.A135G,135,Missense,1,0,0,0,0,0,0,0,0,,135
+RPTOR,p.D1042Y,1042,Missense,0,0,0,1,0,0,0,0,0,,1042
+RUNX1,p.Q38E,38,Missense,0,0,0,0,0,0,0,0,1,,38
+RUNX1,p.P86T,86,Missense,0,0,0,0,0,0,0,0,1,,86
+RUNX1,p.P340P,340,Synonymous,0,0,0,0,0,0,0,0,1,,340
+RUNX1,p.R346H,346,Missense,0,0,0,1,0,0,0,0,0,,346
+RUNX1,p.R346fs,346,Frameshift Duplication,0,0,0,1,0,0,0,0,0,,346
+SETD2,p.S918*,918,Nonsense,0,0,0,1,0,0,0,0,0,,918
+SETD2,p.T1008N,1008,Missense,0,0,0,1,0,0,0,0,0,,1008
+SETD2,p.R1492*,1492,Nonsense,1,0,0,0,0,0,0,0,0,,1492
+SETD2,p.Q2048fs,2048,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,2048
+SETD2,p.N2138fs,2138,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,2138
+SETD2,p.Q2285K,2285,Missense,0,0,0,1,0,0,0,0,0,,2285
+SETD2,p.P2381fs,2381,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,2381
+SETDB1,p.P459Hfs,459,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,459
+SETDB1,p.H948fs,948,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,948
+SF1,p.Q574fs,574,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,574
+SF1,c.664_splice,664,Splicing,1,0,0,0,0,0,0,0,0,,664
+SF3A1,p.P298fs,298,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,298
+SF3B1,p.R196*,196,Nonsense,0,0,1,0,0,0,0,0,0,,196
+SF3B1,p.R387W,387,Missense,1,0,0,0,0,0,0,0,0,,387
+SF3B1,p.E622D,622,Missense,0,1,0,0,0,0,0,0,0,,622
+SF3B1,p.R630G,630,Missense,0,0,0,0,0,0,0,0,1,,630
+SF3B1,p.H662Q,662,Missense,1,0,0,0,0,0,0,0,0,,662
+SF3B1,p.K666N,666,Missense,4,1,2,2,1,1,8,0,0,,666
+SF3B1,p.K666T,666,Missense,0,1,0,1,0,0,0,0,0,,666
+SF3B1,p.K666E,666,Missense,1,0,0,0,0,0,2,0,0,,666
+SF3B1,p.K666Q,666,Missense,1,0,0,0,0,0,0,0,0,,666
+SF3B1,p.K666R,666,Missense,1,0,0,0,1,0,0,0,0,,666
+SF3B1,p.K700E,700,Missense,11,9,4,1,0,1,8,0,0,,700
+SF3B1,p.G742D,742,Missense,1,0,0,0,0,0,0,0,0,,742
+SF3B1,p.E783K,783,Missense,1,0,0,0,0,0,0,0,0,,783
+SFRS2,p.Y44H,44,Missense,1,0,0,0,0,0,0,0,0,,44
+SFRS2,p.P95H,95,Missense,4,0,0,0,0,0,0,0,0,,95
+SFRS2,p.P95L,95,Missense,2,0,0,0,0,0,0,0,0,,95
+SFRS2,p.P95R,95,Missense,3,0,0,0,0,0,0,0,0,,95
+SFRS2,p.P95T,95,Missense,1,0,0,0,0,0,0,0,0,,95
+SH2B3,p.A60S,60,Missense,0,0,0,1,0,0,0,0,0,,60
+SH2B3,p.S64T,64,Missense,0,0,0,1,0,0,0,0,0,,64
+SH2B3,p.R392Q,392,Missense,0,0,0,1,0,0,0,0,0,,392
+SHQ1,p.R269H,269,Missense,0,0,0,1,0,0,0,0,0,,269
+SMAD4,p.C499C,499,Synonymous,0,0,0,0,0,1,0,0,0,,499
+SMC1A,p.R1090H,1090,Missense,1,0,0,0,0,0,0,0,0,,1090
+SMC3,p.L242P,242,Missense,0,0,0,0,0,0,0,1,0,,242
+SMC3,p.S243F,243,Missense,0,0,0,0,0,0,0,1,0,,243
+SMC3,p.R360*,360,Nonsense,1,0,0,0,0,0,0,0,0,,360
+SMC3,p.N407N,407,Synonymous,0,0,0,0,0,0,0,0,1,,407
+SMC3,p.R1024R,1024,Synonymous,0,0,0,0,0,0,0,0,1,,1024
+SRSF2,p.R55P,55,Missense,0,0,0,0,0,0,0,0,1,,55
+SRSF2,p.P95H,95,Missense,0,2,2,2,0,1,5,0,0,,95
+SRSF2,p.P95L,95,Missense,0,0,1,2,0,1,6,0,0,,95
+SRSF2,p.P95R,95,Missense,0,3,3,1,0,0,4,0,0,,95
+SRSF2,p.95_103del,95103,Deletion,0,0,0,1,0,0,0,0,0,,95103
+STAG1,p.R971*,971,Nonsense,1,0,0,0,0,0,0,0,0,,971
+STAG2,-,0,Intronic,0,0,0,0,0,0,0,2,0,,0
+STAG2,-,0,UTR3,0,0,0,0,0,0,0,1,0,,0
+STAG2,p.F171L,171,Missense,0,0,0,1,0,0,0,0,0,,171
+STAG2,p.R252R,252,Synonymous,0,0,0,0,0,0,0,0,1,,252
+STAG2,p.R252W,252,Missense,0,0,0,1,0,0,0,0,0,,252
+STAG2,p.R305L,305,Missense,0,0,0,0,0,0,0,1,0,,305
+STAG2,p.V376L,376,Missense,0,0,0,0,0,0,0,1,0,,376
+STAG2,p.P572fs,572,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,572
+STAG2,p.S633Y,633,Missense,0,0,0,1,0,0,0,0,0,,633
+STAG2,p.C711*,711,Nonsense,1,0,0,0,0,0,0,0,0,,711
+STAG2,p.T958P,958,Missense,0,0,0,0,0,0,0,0,1,,958
+STAG2,p.K1130I,1130,Missense,0,0,0,0,0,0,0,1,0,,1130
+STAG2,p.R1172S,1172,Missense,0,0,0,1,0,0,0,0,0,,1172
+STAG2,c.3053+1G>A,30531,Unknown,0,0,0,1,0,0,0,0,0,,30531
+STAT3,p.F408L,408,Missense,0,0,0,1,0,0,0,0,0,,408
+STAT3,p.G618R,618,Missense,1,0,0,0,0,0,0,0,0,,618
+STAT3,p.Y640F,640,Missense,0,1,1,2,0,0,0,0,0,,640
+STAT3,p.D661Y,661,Missense,3,0,0,0,0,0,0,0,0,,661
+STAT3,p.P725Q,725,Missense,0,0,0,1,0,0,0,0,0,,725
+STAT3,c.1748+1G>T,17481,Unknown,0,0,0,1,0,0,0,0,0,,17481
+SUZ12,p.S382fs,382,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,382
+SYNE1,p.G8689S,8689,Missense,0,0,3,0,0,0,0,0,0,,8689
+TBL1XR1,p.R431*,431,Nonsense,1,0,0,0,0,0,0,0,0,,431
+TERT,p.R671Q,671,Missense,0,0,0,2,0,0,0,0,0,,671
+TERT,p.V728I,728,Missense,0,0,0,1,0,0,0,0,0,,728
+TET1,p.R1656H,1656,Missense,1,0,0,0,0,0,0,0,0,,1656
+TET2,-,0,Intronic,0,0,0,0,0,0,0,1,0,,0
+TET2,-,0,Splicing,0,0,0,0,0,0,0,2,0,,0
+TET2,p.Q3*,3,Nonsense,0,0,0,2,0,0,0,0,0,,3
+TET2,p.T32I,32,Missense,0,0,0,1,0,0,0,0,0,,32
+TET2,p.R73fs,73,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,73
+TET2,p.T79Yfs,79,Frameshift Insertion,0,0,1,0,0,0,0,0,0,,79
+TET2,p.Y85fs,85,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,85
+TET2,p.S102fs,102,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,102
+TET2,p.K117Rfs,117,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,117
+TET2,p.R123fs,123,Frameshift Duplication,0,0,0,1,0,0,0,0,0,,123
+TET2,p.S123fs,123,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,123
+TET2,p.Q138*,138,Nonsense,0,0,1,0,0,0,0,0,0,,138
+TET2,p.L144*,144,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,144
+TET2,p.E149*,149,Nonsense,0,1,0,0,0,0,0,0,0,,149
+TET2,p.D162fs,162,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,162
+TET2,p.S167Qfs,167,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,167
+TET2,p.E170fs,170,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,170
+TET2,p.Q180*,180,Nonsense,0,0,1,0,0,0,0,0,0,,180
+TET2,p.I181fs,181,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,181
+TET2,p.L182V,182,Missense,0,0,0,0,0,0,0,0,1,,182
+TET2,p.Q185*,185,Nonsense,0,0,1,0,0,0,0,0,0,,185
+TET2,p.L200Tfs,200,Frameshift Insertion,0,0,0,0,1,0,0,0,0,,200
+TET2,p.V205Cfs,205,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,205
+TET2,p.V205M,205,Missense,0,0,0,1,0,0,0,0,0,,205
+TET2,p.N209fs,209,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,209
+TET2,p.T221fs,221,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,221
+TET2,p.H222Tfs,222,Frameshift Insertion,0,0,1,0,0,0,0,0,0,,222
+TET2,p.T229Nfs,229,Frameshift Insertion,0,0,1,0,1,0,0,0,0,,229
+TET2,p.Q255*,255,Nonsense,0,0,1,0,0,0,0,0,0,,255
+TET2,p.L260fs,260,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,260
+TET2,p.Q273*,273,Nonsense,0,0,1,0,0,0,0,0,0,,273
+TET2,p.I274fs,274,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,274
+TET2,p.N275Ifs,275,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,275
+TET2,p.E283D,283,Missense,0,0,0,0,0,0,0,0,1,,283
+TET2,p.K287Nfs,287,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,287
+TET2,p.L311fs,311,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,311
+TET2,p.Q325*,325,Nonsense,0,0,0,1,0,0,0,0,0,,325
+TET2,p.S327*,327,Nonsense,0,1,0,0,0,0,0,0,0,,327
+TET2,p.Q341*,341,Nonsense,1,0,0,0,0,0,0,0,0,,341
+TET2,p.E351*,351,Nonsense,0,0,0,1,0,0,0,0,0,,351
+TET2,p.Q373fs,373,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,373
+TET2,p.Q383*,383,Nonsense,1,0,0,0,0,0,0,0,0,,383
+TET2,p.S420fs,420,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,420
+TET2,p.E421fs,421,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,421
+TET2,p.S423*,423,Nonsense,1,0,0,0,0,0,0,0,0,,423
+TET2,p.S424fs,424,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,424
+TET2,p.L427fs,427,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,427
+TET2,p.L446*,446,Nonsense,0,0,0,0,0,0,0,1,0,,446
+TET2,p.E448*,448,Nonsense,0,1,0,0,0,0,0,0,0,,448
+TET2,p.S462fs,462,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,462
+TET2,p.P463fs,463,Frameshift Deletion,0,0,0,0,0,0,0,0,1,,463
+TET2,p.I472fs,472,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,472
+TET2,p.P474S,474,Missense,0,0,0,0,0,0,0,0,1,,474
+TET2,p.Q481*,481,Nonsense,1,0,0,0,0,0,0,0,0,,481
+TET2,p.T518fs,518,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,518
+TET2,p.G520fs,520,Frameshift Duplication,0,0,0,1,0,0,0,0,0,,520
+TET2,p.N528S,528,Missense,0,0,0,1,0,0,0,0,0,,528
+TET2,p.Q530*,530,Nonsense,1,0,0,0,0,1,0,0,0,,530
+TET2,p.S530*,530,Nonsense,1,0,0,0,0,0,0,0,0,,530
+TET2,p.L532*,532,Nonsense,1,0,0,1,0,0,0,0,0,,532
+TET2,p.L532fs,532,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,532
+TET2,p.S543fs,543,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,543
+TET2,p.R544*,544,Nonsense,1,0,0,0,0,0,0,0,0,,544
+TET2,p.Q548*,548,Nonsense,0,0,0,0,0,1,0,0,0,,548
+TET2,p.Q548K,548,Missense,0,0,0,0,0,1,0,0,0,,548
+TET2,p.R550*,550,Nonsense,0,1,2,2,0,5,0,0,0,,550
+TET2,p.H558H,558,Synonymous,0,0,0,0,0,0,0,0,1,,558
+TET2,p.L560fs,560,Frameshift Insertion,0,0,0,1,0,0,0,0,0,,560
+TET2,p.I565V,565,Missense,0,0,0,0,0,0,0,0,1,,565
+TET2,p.L579fs,579,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,579
+TET2,p.S585*,585,Nonsense,0,0,1,0,0,0,0,0,0,,585
+TET2,p.W585*,585,Nonsense,1,0,0,0,0,0,0,0,0,,585
+TET2,p.S588*,588,Nonsense,2,0,0,0,0,0,0,0,0,,588
+TET2,p.Q595fs,595,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,595
+TET2,p.Q599Q,599,Synonymous,0,0,0,0,0,0,0,0,1,,599
+TET2,p.K603*,603,Nonsense,0,0,0,0,0,0,0,0,1,,603
+TET2,p.H629Pfs,629,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,629
+TET2,p.G634fs,634,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,634
+TET2,p.Q656fs,656,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,656
+TET2,p.Q659H,659,Missense,0,0,0,1,0,0,0,0,0,,659
+TET2,p.P669Q,669,Missense,0,0,0,0,0,0,0,0,1,,669
+TET2,p.R686fs,686,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,686
+TET2,p.P690fs,690,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,690
+TET2,p.E692fs,692,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,692
+TET2,p.Q705*,705,Nonsense,1,0,0,0,0,0,0,0,0,,705
+TET2,p.F713fs,713,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,713
+TET2,p.L719Cfs,719,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,719
+TET2,p.Q734*,734,Nonsense,1,0,0,0,0,0,0,0,0,,734
+TET2,p.Q744*,744,Nonsense,0,0,0,0,0,0,0,0,1,,744
+TET2,p.Q744fs,744,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,744
+TET2,p.Q746*,746,Nonsense,0,1,0,0,0,0,0,0,0,,746
+TET2,p.I750Rfs,750,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,750
+TET2,p.K753*,753,Nonsense,0,0,0,1,0,0,0,0,0,,753
+TET2,p.S757*,757,Nonsense,1,0,0,0,0,0,0,0,0,,757
+TET2,p.Q758*,758,Nonsense,0,0,0,1,0,0,0,0,0,,758
+TET2,p.L759fs,759,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,759
+TET2,p.Q764*,764,Nonsense,0,0,0,0,0,1,0,0,0,,764
+TET2,p.Q764fs,764,Frameshift Duplication,0,0,0,0,0,1,0,0,0,,764
+TET2,p.Q764fs,764,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,764
+TET2,p.N766fs,766,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,766
+TET2,p.N767Y,767,Missense,0,0,0,0,0,0,0,0,1,,767
+TET2,p.Q770*,770,Nonsense,1,0,0,0,0,0,0,0,0,,770
+TET2,p.I771fs,771,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,771
+TET2,p.Q779*,779,Nonsense,1,0,0,0,0,0,0,0,0,,779
+TET2,p.H783fs,783,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,783
+TET2,p.C784F,784,Missense,0,0,0,1,0,0,0,0,0,,784
+TET2,p.Q790*,790,Nonsense,0,1,0,0,0,0,0,0,0,,790
+TET2,p.F797fs,797,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,797
+TET2,p.Q810L,810,Missense,0,0,0,0,0,0,0,0,1,,810
+TET2,p.Q810*,810,Nonsense,0,0,2,0,0,0,0,0,0,,810
+TET2,p.N811Ifs,811,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,811
+TET2,p.R815*,815,Nonsense,0,1,0,0,0,0,0,0,0,,815
+TET2,p.S817F,817,Missense,0,0,0,0,0,0,0,0,1,,817
+TET2,p.E819fs,819,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,819
+TET2,p.S820S,820,Synonymous,0,0,0,0,0,0,0,0,1,,820
+TET2,p.K829*,829,Nonsense,0,0,0,1,0,0,0,0,0,,829
+TET2,p.I830fs,830,Frameshift Duplication,0,0,0,1,0,0,0,0,0,,830
+TET2,p.Q831Rfs,831,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,831
+TET2,p.V832Ffs,832,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,832
+TET2,p.S835*,835,Nonsense,0,0,0,1,0,0,0,0,0,,835
+TET2,p.N836Kfs,836,Frameshift Insertion,0,0,1,0,0,0,0,0,0,,836
+TET2,p.H839fs,839,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,839
+TET2,p.V841fs,841,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,841
+TET2,p.Q847*,847,Nonsense,0,1,0,0,0,0,0,0,0,,847
+TET2,p.A855Cfs,855,Frameshift Insertion,0,0,1,0,0,0,0,0,0,,855
+TET2,p.K858fs,858,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,858
+TET2,p.Q866*,866,Nonsense,1,0,0,0,0,0,0,0,0,,866
+TET2,p.Y867*,867,Nonsense,0,0,1,0,0,0,0,0,0,,867
+TET2,p.L878fs,878,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,878
+TET2,p.Q886*,886,Nonsense,0,0,0,0,0,1,0,0,0,,886
+TET2,p.Q888*,888,Nonsense,0,1,0,0,0,0,0,0,0,,888
+TET2,p.R902fs,902,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,902
+TET2,p.M906Nfs,906,Frameshift Insertion,0,0,1,0,0,0,0,0,0,,906
+TET2,p.M906fs,906,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,906
+TET2,p.Q909*,909,Nonsense,1,0,0,0,0,0,0,0,0,,909
+TET2,p.Q910*,910,Nonsense,1,0,0,0,0,0,0,0,0,,910
+TET2,p.A912fs,912,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,912
+TET2,p.Q913Pfs,913,Frameshift Insertion,0,0,1,0,0,0,0,0,0,,913
+TET2,p.Q916*,916,Nonsense,1,0,2,0,0,0,0,0,2,,916
+TET2,p.Q937*,937,Nonsense,1,0,0,0,0,0,0,0,0,,937
+TET2,p.W954*,954,Nonsense,0,0,0,0,0,0,0,1,0,,954
+TET2,p.L957fs,957,Frameshift Duplication,0,0,0,1,0,0,0,0,0,,957
+TET2,p.Q963*,963,Nonsense,0,0,0,0,0,0,0,0,1,,963
+TET2,p.Q967Hfs,967,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,967
+TET2,p.C973Lfs,973,Frameshift Insertion,0,0,0,0,1,0,0,0,0,,973
+TET2,p.I981fs,981,Frameshift Deletion,0,0,0,0,0,0,0,0,1,,981
+TET2,p.P985P,985,Synonymous,0,0,0,0,0,0,0,0,1,,985
+TET2,p.P989fs,989,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,989
+TET2,p.K1005*,1005,Nonsense,0,0,0,0,0,0,0,0,1,,1005
+TET2,p.K1008Sfs,1008,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,1008
+TET2,p.Q1009*,1009,Nonsense,0,0,1,0,0,0,0,0,1,,1009
+TET2,p.A1014fs,1014,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,1014
+TET2,p.Q1030*,1030,Nonsense,1,0,0,0,0,0,0,0,0,,1030
+TET2,p.Q1042*,1042,Nonsense,1,0,0,0,0,0,0,0,0,,1042
+TET2,p.Q1051H,1051,Missense,0,0,0,0,0,0,0,0,1,,1051
+TET2,p.G1060Afs,1060,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,1060
+TET2,p.H1064fs,1064,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,1064
+TET2,p.T1078fs,1078,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,1078
+TET2,p.N1103fs,1103,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,1103
+TET2,p.T1107fs,1107,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,1107
+TET2,p.L1111fs,1111,Frameshift Deletion,0,0,0,0,0,0,0,0,1,,1111
+TET2,p.T1114fs,1114,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,1114
+TET2,p.Q1127fs,1127,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,1127
+TET2,p.C1135Y,1135,Missense,0,0,1,0,0,0,0,0,2,,1135
+TET2,p.Y1148N,1148,Missense,0,0,0,1,0,0,0,0,0,,1148
+TET2,p.L1153P,1153,Missense,0,0,0,0,0,0,0,0,1,,1153
+TET2,p.G1154D,1154,Missense,0,0,1,0,0,0,0,0,0,,1154
+TET2,p.D1158Y,1158,Missense,0,0,0,0,0,0,0,0,1,,1158
+TET2,p.X1166K,1166,Missense,0,1,0,0,0,0,0,0,0,,1166
+TET2,p.R1167G,1167,Missense,0,0,0,0,0,0,0,0,1,,1167
+TET2,p.G1172V,1172,Missense,0,0,0,1,0,0,0,0,0,,1172
+TET2,p.K1185T,1185,Missense,0,0,0,0,0,0,0,0,1,,1185
+TET2,p.C1193W,1193,Missense,0,0,0,0,0,0,0,0,1,,1193
+TET2,p.C1193*,1193,Nonsense,0,0,2,0,0,0,0,0,0,,1193
+TET2,p.C1193Y,1193,Missense,0,0,0,1,0,0,0,0,0,,1193
+TET2,p.P1194A,1194,Missense,0,0,0,0,0,0,0,0,1,,1194
+TET2,p.P1194R,1194,Missense,0,0,0,1,0,0,0,0,0,,1194
+TET2,p.K1197*,1197,Frameshift Insertion,0,0,1,0,0,0,0,0,0,,1197
+TET2,p.E1207G,1207,Missense,0,0,0,1,0,0,0,0,0,,1207
+TET2,p.C1211Wfs,1211,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,1211
+TET2,p.R1216G,1216,Missense,0,0,0,0,0,0,0,1,0,,1216
+TET2,p.A1217A,1217,Synonymous,0,0,0,0,0,0,0,1,0,,1217
+TET2,p.W1233*,1233,Nonsense,0,0,0,0,0,0,0,0,1,,1233
+TET2,p.W1233C,1233,Missense,0,0,0,1,0,0,0,0,0,,1233
+TET2,p.G1235V,1235,Missense,0,0,0,0,0,0,0,0,1,,1235
+TET2,p.I1236fs,1236,Frameshift Deletion,0,0,0,0,0,0,0,0,1,,1236
+TET2,p.L1248P,1248,Missense,0,0,0,1,0,0,0,0,0,,1248
+TET2,p.L1248R,1248,Missense,0,0,0,1,0,0,0,0,0,,1248
+TET2,p.Y1255*,1255,Frameshift Insertion,0,0,1,0,0,0,0,0,0,,1255
+TET2,p.R1261H,1261,Missense,0,0,2,0,0,0,0,0,0,,1261
+TET2,p.C1271*,1271,Nonsense,0,0,1,0,0,0,0,0,0,,1271
+TET2,p.A1272Lfs,1272,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,1272
+TET2,p.L1276Wfs,1276,Frameshift Deletion,0,0,0,0,1,0,0,0,0,,1276
+TET2,p.T1280fs,1280,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,1280
+TET2,p.G1282D,1282,Missense,0,0,1,1,0,0,0,0,0,,1282
+TET2,p.G1282C,1282,Missense,0,0,0,0,1,0,0,0,0,,1282
+TET2,p.F1287C,1287,Missense,0,0,0,1,0,0,0,0,0,,1287
+TET2,p.G1288S,1288,Missense,0,0,0,0,0,0,0,1,0,,1288
+TET2,p.Y1294*,1294,Nonsense,0,0,0,0,1,0,0,0,0,,1294
+TET2,p.G1297R,1297,Missense,0,0,0,0,0,0,0,0,1,,1297
+TET2,p.C1298Y,1298,Missense,0,0,1,0,0,0,0,0,0,,1298
+TET2,p.P1306Qfs,1306,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,1306
+TET2,p.F1309L,1309,Missense,0,0,0,0,0,0,0,1,0,,1309
+TET2,p.L1311P,1311,Missense,0,0,0,0,0,0,0,0,1,,1311
+TET2,p.K1317fs,1317,Frameshift Deletion,0,0,0,0,0,0,0,0,1,,1317
+TET2,p.M1333R,1333,Missense,0,0,0,0,0,0,0,0,1,,1333
+TET2,p.Y1337*,1337,Nonsense,0,0,0,1,0,0,0,1,0,,1337
+TET2,p.L1340fs,1340,Frameshift Duplication,0,0,0,1,0,0,0,0,0,,1340
+TET2,p.R1359H,1359,Missense,0,0,1,0,0,0,0,1,0,,1359
+TET2,p.E1364*,1364,Nonsense,0,0,1,0,0,0,0,0,0,,1364
+TET2,p.F1368I,1368,Missense,0,0,0,0,0,0,0,0,1,,1368
+TET2,p.F1368L,1368,Missense,0,0,0,1,0,0,0,0,0,,1368
+TET2,p.S1369*,1369,Nonsense,0,0,0,1,0,0,0,0,0,,1369
+TET2,p.A1373Mfs,1373,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,1373
+TET2,p.D1376N,1376,Missense,0,0,1,0,0,0,0,0,0,,1376
+TET2,p.D1376G,1376,Missense,0,0,0,0,1,0,0,0,0,,1376
+TET2,p.F1377I,1377,Missense,0,0,0,1,0,0,0,0,0,,1377
+TET2,p.Q1389*,1389,Nonsense,0,0,1,0,0,0,0,0,0,,1389
+TET2,p.Q1414K,1414,Missense,0,0,0,1,0,0,0,0,0,,1414
+TET2,p.K1453*,1453,Nonsense,0,0,1,0,0,0,0,0,0,,1453
+TET2,p.M1456Ifs,1456,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,1456
+TET2,p.R1465Q,1465,Missense,0,0,0,1,0,0,0,0,0,,1465
+TET2,p.S1486*,1486,Nonsense,0,0,0,0,0,0,0,1,0,,1486
+TET2,p.N1489Mfs,1489,Frameshift Deletion,0,0,0,0,1,0,0,0,0,,1489
+TET2,p.K1500N,1500,Missense,0,0,0,0,0,0,0,0,1,,1500
+TET2,p.Q1507*,1507,Nonsense,0,0,1,0,0,0,0,0,0,,1507
+TET2,p.L1515Cfs,1515,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,1515
+TET2,p.R1516*,1516,Nonsense,0,0,1,0,0,0,0,0,1,,1516
+TET2,p.Q1523*,1523,Nonsense,0,0,1,0,0,0,0,0,0,,1523
+TET2,p.Q1524*,1524,Nonsense,0,0,0,0,0,0,0,0,1,,1524
+TET2,p.Q1526*,1526,Nonsense,0,0,1,0,0,0,0,0,0,,1526
+TET2,p.Q1540*,1540,Nonsense,0,0,1,0,0,0,0,0,0,,1540
+TET2,p.Q1547Lfs,1547,Frameshift Deletion,0,0,0,0,1,0,0,0,0,,1547
+TET2,p.Q1553*,1553,Nonsense,0,0,1,0,0,0,0,0,0,,1553
+TET2,p.T1554Sfs,1554,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,1554
+TET2,p.R1572Ifs,1572,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,1572
+TET2,p.Y1589*,1589,Nonsense,0,0,0,0,0,0,0,1,0,,1589
+TET2,p.Y1628*,1628,Nonsense,0,0,1,0,0,0,0,0,0,,1628
+TET2,p.Q1632*,1632,Nonsense,0,0,0,0,0,0,0,0,1,,1632
+TET2,p.L1637Yfs,1637,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,1637
+TET2,p.M1656Ifs,1656,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,1656
+TET2,p.Q1699*,1699,Nonsense,0,0,0,1,0,0,0,0,0,,1699
+TET2,p.Q1702*,1702,Nonsense,0,0,1,0,0,0,0,0,0,,1702
+TET2,p.R1712*,1712,Nonsense,0,0,0,0,1,0,0,0,0,,1712
+TET2,p.H1757fs,1757,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,1757
+TET2,p.T1793I,1793,Missense,0,0,0,0,0,0,0,1,0,,1793
+TET2,p.T1793fs,1793,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,1793
+TET2,p.N1795Rfs,1795,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,1795
+TET2,p.L1801Qfs,1801,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,1801
+TET2,p.D1821fs,1821,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,1821
+TET2,p.Q1834fs,1834,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,1834
+TET2,p.S1848*,1848,Nonsense,0,0,0,0,0,0,0,0,1,,1848
+TET2,p.Q1852*,1852,Nonsense,0,0,1,0,0,0,0,0,1,,1852
+TET2,p.L1855Wfs,1855,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,1855
+TET2,p.P1857fs,1857,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,1857
+TET2,p.D1858G,1858,Missense,0,0,0,1,0,0,0,0,0,,1858
+TET2,p.G1861Efs,1861,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,1861
+TET2,p.S1870P,1870,Missense,0,0,0,0,0,0,0,0,1,,1870
+TET2,p.S1870L,1870,Missense,0,0,1,0,0,0,0,0,0,,1870
+TET2,p.I1873T,1873,Missense,0,0,1,0,0,0,0,0,2,,1873
+TET2,p.A1876V,1876,Missense,0,0,0,1,0,0,0,0,0,,1876
+TET2,p.T1884A,1884,Missense,0,0,0,0,0,0,0,0,1,,1884
+TET2,p.R1896T,1896,Missense,0,0,0,0,0,0,0,0,1,,1896
+TET2,p.R1896S,1896,Missense,0,0,0,1,0,0,0,0,0,,1896
+TET2,p.S1898C,1898,Missense,0,0,0,0,0,0,0,0,1,,1898
+TET2,p.Y1902Tfs,1902,Frameshift Deletion,0,0,1,0,0,0,0,0,0,,1902
+TET2,p.Y1902C,1902,Missense,0,0,0,0,1,0,0,0,0,,1902
+TET2,p.K1911*,1911,Nonsense,0,0,0,1,0,0,0,0,0,,1911
+TET2,p.Q1942*,1942,Nonsense,0,0,0,1,0,0,0,0,0,,1942
+TET2,p.S1970S,1970,Synonymous,0,0,0,0,0,0,0,0,1,,1970
+TET2,p.T1980A,1980,Missense,0,0,0,0,0,0,0,0,1,,1980
+TET2,c.3472_splice,3472,Splicing,2,0,0,0,0,0,0,0,0,,3472
+TET2,c.3500+1G>A,35001,Splicing,0,0,0,0,1,0,0,0,0,,35001
+TET2,c.3803+2T>G,38032,Splicing,0,0,0,0,1,0,0,0,0,,38032
+TET2,c.3804-1G>A,38041,Splicing,0,0,0,0,1,0,0,0,0,,38041
+TET2,c.3955-2A>G,39552,Unknown,0,0,0,1,0,0,0,0,0,,39552
+TET2,c.4045-1G>A,40451,Unknown,0,0,0,1,0,0,0,0,0,,40451
+TET2,c.4182+1G>C,41821,Unknown,0,0,0,1,0,0,0,0,0,,41821
+TET2,p.1343_1346del,13431346,Deletion,0,0,0,1,0,0,0,0,0,,13431346
+TET2,p.L1832_V1833ins*,18321833,Nonsense,0,0,1,0,0,0,0,0,0,,18321833
+TNFAIP3,p.Q110*,110,Nonsense,1,0,0,0,0,0,0,0,0,,110
+TNFAIP3,p.R183*,183,Nonsense,1,0,0,0,0,0,0,0,0,,183
+TNFAIP3,p.E297*,297,Nonsense,1,0,0,0,0,0,0,0,0,,297
+TNFRSF14,p.G124fs,124,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,124
+TNFRSF14,c.179_splice,179,Splicing,1,0,0,0,0,0,0,0,0,,179
+TP53,p.P72fs,72,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,72
+TP53,p.P72fs,72,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,72
+TP53,p.R110L,110,Missense,1,0,0,0,0,1,0,0,0,,110
+TP53,p.R110C,110,Missense,2,0,0,0,0,0,0,0,0,,110
+TP53,p.F113V,113,Missense,0,0,0,0,0,1,0,0,0,,113
+TP53,p.L114*,114,Nonsense,0,0,0,0,0,1,0,0,0,,114
+TP53,p.C124fs,124,Frameshift Insertion,1,0,0,0,0,0,0,0,0,,124
+TP53,p.K132E,132,Missense,2,0,0,0,0,0,0,0,0,,132
+TP53,p.Q136P,136,Missense,0,0,0,0,0,0,0,0,1,,136
+TP53,p.L137L,137,Synonymous,0,0,0,0,0,0,0,0,1,,137
+TP53,p.A138T,138,Missense,0,0,0,0,0,0,0,0,1,,138
+TP53,p.W146*,146,Nonsense,2,0,0,0,0,0,0,0,0,,146
+TP53,p.P152L,152,Missense,1,0,0,0,0,0,0,0,0,,152
+TP53,p.R156H,156,Missense,1,0,0,0,0,0,0,0,0,,156
+TP53,p.R158H,158,Missense,1,0,0,0,0,0,0,0,0,,158
+TP53,p.H168R,168,Missense,0,0,0,0,0,0,0,1,0,,168
+TP53,p.V173E,173,Missense,1,0,0,0,0,0,0,0,0,,173
+TP53,p.R175H,175,Missense,3,0,0,0,0,0,0,0,1,,175
+TP53,p.P177L,177,Missense,0,0,0,1,0,0,0,0,0,,177
+TP53,p.P177R,177,Missense,1,0,0,0,0,0,0,0,0,,177
+TP53,p.R181C,181,Missense,1,0,0,0,0,0,0,0,0,,181
+TP53,p.P190H,190,Missense,0,0,0,0,0,0,0,0,1,,190
+TP53,p.P190R,190,Missense,0,0,0,0,0,0,0,0,1,,190
+TP53,p.H193R,193,Missense,1,0,0,0,0,0,0,0,0,,193
+TP53,p.R213*,213,Nonsense,0,0,0,0,0,1,0,0,0,,213
+TP53,p.V216M,216,Missense,0,0,0,0,0,2,0,0,0,,216
+TP53,p.Y220C,220,Missense,1,1,0,1,0,1,0,0,0,,220
+TP53,p.Y220H,220,Missense,1,0,0,0,0,0,0,0,0,,220
+TP53,p.N235S,235,Missense,0,0,5,0,0,0,0,0,0,,235
+TP53,p.N235D,235,Missense,1,0,0,0,0,0,0,0,0,,235
+TP53,p.M237I,237,Missense,0,0,0,0,0,1,0,0,0,,237
+TP53,p.M237K,237,Missense,0,0,0,0,0,1,0,0,0,,237
+TP53,p.C238Y,238,Missense,0,1,0,0,0,0,0,0,0,,238
+TP53,p.N239D,239,Missense,0,0,0,0,0,0,0,0,1,,239
+TP53,p.S241C,241,Missense,1,0,0,1,0,0,0,0,0,,241
+TP53,p.C242Y,242,Missense,0,0,1,0,0,0,0,0,0,,242
+TP53,p.G245C,245,Missense,1,0,0,1,0,0,0,0,0,,245
+TP53,p.M246V,246,Missense,0,0,0,1,0,0,0,0,0,,246
+TP53,p.R248W,248,Missense,0,0,0,1,0,0,0,0,1,,248
+TP53,p.R248Q,248,Missense,2,2,0,0,0,0,0,0,0,,248
+TP53,p.G266R,266,Missense,0,0,0,1,0,0,0,0,0,,266
+TP53,p.F270S,270,Missense,0,0,0,0,0,0,0,1,0,,270
+TP53,p.R273H,273,Missense,0,0,4,1,0,0,0,0,1,,273
+TP53,p.C275Y,275,Missense,0,0,0,0,0,0,0,0,2,,275
+TP53,p.A276P,276,Missense,0,0,0,1,0,0,0,0,0,,276
+TP53,p.C277Y,277,Missense,0,0,0,1,0,0,0,0,0,,277
+TP53,p.P278H,278,Missense,0,0,0,0,0,0,0,1,0,,278
+TP53,p.G279E,279,Missense,0,0,1,0,0,0,0,0,0,,279
+TP53,p.R280G,280,Missense,1,0,0,0,0,0,0,0,0,,280
+TP53,p.D281N,281,Missense,1,0,0,0,0,0,0,0,0,,281
+TP53,p.R282Q,282,Missense,0,0,1,0,0,0,0,0,0,,282
+TP53,p.R282W,282,Missense,1,0,0,0,0,0,0,0,0,,282
+TP53,p.R283H,283,Missense,2,0,0,0,0,0,0,0,0,,283
+TP53,p.P301T,301,Missense,0,0,0,0,0,0,0,0,1,,301
+TP53,p.F336L,336,Missense,0,0,0,0,0,0,0,0,1,,336
+TP53,p.E336*,336,Nonsense,0,0,1,0,0,0,0,0,0,,336
+TP53,p.R342*,342,Nonsense,1,0,0,0,0,0,0,0,0,,342
+TP53,p.A347D,347,Missense,0,0,0,1,0,0,0,0,0,,347
+TP53,p.T377P,377,Missense,0,0,4,0,0,0,0,0,0,,377
+TP53,p.H193_L194insQ,193194,Insertion,0,0,0,1,0,0,0,0,0,,193194
+TP63,p.G371D,371,Missense,0,0,0,1,0,0,0,0,0,,371
+TSC1,p.G1034D,1034,Missense,0,0,0,1,0,0,0,0,0,,1034
+TSC2,p.R799H,799,Missense,0,0,0,1,0,0,0,0,0,,799
+TSC2,p.R1751_Q1752insQRVGNMGLP,17511752,Insertion,0,0,0,1,0,0,0,0,0,,17511752
+TSHR,p.D487N,487,Missense,0,0,0,1,0,0,0,0,0,,487
+U2AF1,p.D14G,14,Missense,1,0,0,0,0,0,0,0,0,,14
+U2AF1,p.S34F,34,Missense,2,1,0,2,0,1,0,0,1,,34
+U2AF1,p.R118C,118,Missense,0,0,0,1,0,0,0,0,0,,118
+U2AF1,p.R156H,156,Missense,2,0,0,0,0,0,0,0,0,,156
+U2AF1,p.Q157R,157,Missense,0,0,0,2,0,0,0,0,0,,157
+UMODL1,p.T533P,533,Missense,0,0,2,0,0,0,0,0,0,,533
+WT1,p.R370H,370,Missense,0,0,0,1,0,0,0,0,0,,370
+WT1,p.M510I,510,Missense,0,0,0,1,0,0,0,0,0,,510
+ZFHX3,p.G3524_G3525insG,35243525,Insertion,0,0,0,1,0,0,0,0,0,,35243525
+ZRSR2,p.E60K,60,Missense,0,0,0,0,0,0,0,0,1,,60
+ZRSR2,p.R126P,126,Missense,1,0,0,0,0,0,0,0,0,,126
+ZRSR2,p.R216K,216,Missense,0,0,0,0,0,0,0,0,1,,216
+ZRSR2,p.Y271C,271,Missense,0,0,0,1,0,0,0,0,0,,271
+ZRSR2,p.R295*,295,Nonsense,1,0,0,0,0,0,0,0,0,,295
+ZRSR2,p.S400fs,400,Frameshift Deletion,0,0,0,1,0,0,0,0,0,,400
+ZRSR2,p.G424fs,424,Frameshift Deletion,1,0,0,0,0,0,0,0,0,,424

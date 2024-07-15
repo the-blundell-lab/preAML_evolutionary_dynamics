@@ -1,0 +1,5 @@
+Gene Name,CDS Mutation,AA Mutation,AA residue,counts,mutation type
+GNB1,c.169A>G,p.K57E,57,1,Substitution_Missense
+GNB1,c.170A>C,p.K57T,57,1,Substitution_Missense
+GNB1_ENST00000378609,c.169A>G,p.K57E,57,1,Substitution_Missense
+GNB1_ENST00000378609,c.170A>C,p.K57T,57,1,Substitution_Missense

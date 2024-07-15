@@ -1,0 +1,10 @@
+CDS Mutation,,AA Mutation,AA residue,counts,Mutation type
+c.1053C>T,,p.R351=,351,2,Synonymous
+c.1459A>G,,p.T487A,487,2,Missense
+c.1514G>A,,p.S505N,505,18,Missense
+c.1543_1544delinsAA,,p.W515K,515,2,Missense
+c.1544G>T,,p.W515L,515,10,Missense
+c.1775G>A,,p.R592Q,592,1,Missense
+c.1786C>T,,p.P596S,596,1,Missense
+c.1870C>G,,p.H624D,624,2,Missense
+c.323A>T,,p.H108L,108,2,Missense

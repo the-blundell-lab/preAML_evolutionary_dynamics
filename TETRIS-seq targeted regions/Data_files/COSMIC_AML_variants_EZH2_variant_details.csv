@@ -1,0 +1,505 @@
+CDS Mutation,,AA Mutation,AA residue,counts,Variant type
+c.100C>T,,p.R34*,34,7,Nonsense
+c.1068_1071del,,p.E357Kfs*22,357,1,Deletion Frameshift
+c.1077del,,p.T360Pfs*50,360,4,Deletion Frameshift
+c.1104del,,p.T369Pfs*50,369,1,Deletion Frameshift
+c.1119del,,p.T374Pfs*50,374,1,Deletion Frameshift
+c.1158_1161del,,p.E387Kfs*22,387,4,Deletion Frameshift
+c.1185_1188del,,p.E396Kfs*22,396,1,Deletion Frameshift
+c.1200_1203del,,p.E401Kfs*22,401,1,Deletion Frameshift
+c.1239delinsAGAGAGCC,,p.C413*,413,1,Nonsense
+c.1304C>A,,p.S435Y,435,1,Missense
+c.131A>G,,p.Y44C,44,1,Missense
+c.1329delinsAGAGAGCC,,p.C443*,443,4,Nonsense
+c.1331del,,p.E444Gfs*26,444,1,Deletion Frameshift
+c.1355A>G,,p.K452R,452,1,Missense
+c.1356delinsAGAGAGCC,,p.C452*,452,1,Nonsense
+c.136G>A,,p.G46R,46,1,Missense
+c.1371delinsAGAGAGCC,,p.C457*,457,1,Nonsense
+c.1393A>G,,p.R465G,465,1,Missense
+c.1394C>A,,p.S465Y,465,4,Missense
+c.1394G>C,,p.R465T,465,1,Missense
+c.1416C>G,,p.D472E,472,1,Missense
+c.1421C>A,,p.S474Y,474,1,Missense
+c.1421del,,p.E474Gfs*26,474,4,Deletion Frameshift
+c.1436C>A,,p.S479Y,479,1,Missense
+c.1445A>G,,p.K482R,482,4,Missense
+c.1448del,,p.E483Gfs*26,483,1,Deletion Frameshift
+c.1456C>A,,p.H486N,486,1,Missense
+c.1463del,,p.E488Gfs*26,488,1,Deletion Frameshift
+c.1472A>G,,p.K491R,491,1,Missense
+c.1483A>G,,p.R495G,495,4,Missense
+c.1484G>C,,p.R495T,495,4,Missense
+c.1487A>G,,p.K496R,496,1,Missense
+c.1506C>G,,p.D502E,502,1,Missense
+c.1510A>G,,p.R504G,504,1,Missense
+c.1510T>C,,p.C504R,504,1,Missense
+c.1510dup,,p.C504Lfs*2,504,1,Insertion Frameshift
+c.1511G>C,,p.R504T,504,1,Missense
+c.1525A>G,,p.R509G,509,1,Missense
+c.1525C>T,,p.Q509*,509,1,Nonsense
+c.1526G>C,,p.R509T,509,1,Missense
+c.1529G>T,,p.R510L,510,3,Missense
+c.1533C>G,,p.D511E,511,1,Missense
+c.1534A>G,,p.K512E,512,3,Missense
+c.1546C>A,,p.H516N,516,1,Missense
+c.1548C>G,,p.D516E,516,1,Missense
+c.1550C>T,,p.T517I,517,3,Missense
+c.1552A>G,,p.K518E,518,3,Missense
+c.1565G>T,,p.R522L,522,1,Missense
+c.1570A>G,,p.K524E,524,1,Missense
+c.1573C>A,,p.H525N,525,1,Missense
+c.1579C>T,,p.R527*,527,3,Nonsense
+c.1586C>T,,p.T529I,529,1,Missense
+c.1588A>G,,p.K530E,530,1,Missense
+c.1588C>A,,p.H530N,530,1,Missense
+c.1600T>C,,p.C534R,534,1,Missense
+c.1600dup,,p.C534Lfs*2,534,1,Insertion Frameshift
+c.1600dup,,p.C534Lfs*8,534,3,Insertion Frameshift
+c.1605_1609del,,p.T536Wfs*4,536,3,Deletion Frameshift
+c.1615C>T,,p.Q539*,539,1,Nonsense
+c.1615C>T,,p.R539*,539,1,Nonsense
+c.1627T>C,,p.C543R,543,1,Missense
+c.1627dup,,p.C543Lfs*2,543,1,Insertion Frameshift
+c.1636dup,,p.C546Lfs*8,546,1,Insertion Frameshift
+c.1641_1645del,,p.T548Wfs*4,548,1,Deletion Frameshift
+c.1642C>T,,p.Q548*,548,1,Nonsense
+c.1642T>C,,p.C548R,548,1,Missense
+c.1642dup,,p.C548Lfs*2,548,1,Insertion Frameshift
+c.1655G>T,,p.R552L,552,1,Missense
+c.1657C>T,,p.Q553*,553,1,Nonsense
+c.1660A>G,,p.K554E,554,1,Missense
+c.1675T>G,,p.S559A,559,3,Missense
+c.1676C>T,,p.T559I,559,1,Missense
+c.1678A>G,,p.K560E,560,1,Missense
+c.1682G>T,,p.R561L,561,1,Missense
+c.1687A>G,,p.K563E,563,1,Missense
+c.1697G>T,,p.R566L,566,1,Missense
+c.1702A>G,,p.K568E,568,1,Missense
+c.1703C>T,,p.T568I,568,1,Missense
+c.1705A>G,,p.K569E,569,1,Missense
+c.1705C>T,,p.R569*,569,1,Nonsense
+c.1708G>A,,p.V570M,570,9,Missense
+c.1709T>C,,p.V570A,570,3,Missense
+c.170dup,,p.N57Kfs*23,57,4,Insertion Frameshift
+c.170dup,,p.N57Kfs*25,57,3,Insertion Frameshift
+c.1711T>G,,p.S571A,571,1,Missense
+c.1715G>T,,p.G572V,572,3,Missense
+c.1718C>T,,p.T573I,573,1,Missense
+c.1720A>G,,p.K574E,574,1,Missense
+c.1726dup,,p.C576Lfs*8,576,1,Insertion Frameshift
+c.1731_1735del,,p.T578Wfs*4,578,1,Deletion Frameshift
+c.1732C>T,,p.R578*,578,1,Nonsense
+c.1744G>A,,p.V582M,582,3,Missense
+c.1745T>C,,p.V582A,582,1,Missense
+c.1747C>T,,p.R583*,583,1,Nonsense
+c.1751G>T,,p.G584V,584,1,Missense
+c.1753dup,,p.C585Lfs*8,585,1,Insertion Frameshift
+c.1758_1762del,,p.T587Wfs*4,587,1,Deletion Frameshift
+c.1765G>A,,p.E589K,589,3,Missense
+c.1768T>G,,p.Y590D,590,3,Missense
+c.1768dup,,p.C590Lfs*8,590,1,Insertion Frameshift
+c.1769A>G,,p.Y590C,590,3,Missense
+c.1771T>C,,p.C591R,591,3,Missense
+c.1773_1777del,,p.T592Wfs*4,592,1,Deletion Frameshift
+c.1774G>A,,p.G592R,592,3,Missense
+c.1775G>A,,p.G592E,592,6,Missense
+c.1775G>T,,p.G592V,592,3,Missense
+c.1777G>T,,p.E593*,593,3,Nonsense
+c.1799C>A,,p.A600D,600,3,Missense
+c.1799C>T,,p.A600V,600,3,Missense
+c.1801G>A,,p.E601K,601,1,Missense
+c.1801T>G,,p.S601A,601,1,Missense
+c.1804T>G,,p.Y602D,602,1,Missense
+c.1805A>G,,p.Y602C,602,1,Missense
+c.1805G>T,,p.R602I,602,3,Missense
+c.1807T>C,,p.C603R,603,1,Missense
+c.1810G>A,,p.G604R,604,7,Missense
+c.1811G>A,,p.G604E,604,2,Missense
+c.1811G>T,,p.G604V,604,1,Missense
+c.1813G>T,,p.E605*,605,1,Nonsense
+c.1820A>G,,p.Y607C,607,3,Missense
+c.1823A>T,,p.D608V,608,3,Missense
+c.1824T>A,,p.D608E,608,3,Missense
+c.1828T>A,,p.Y610N,610,3,Missense
+c.1828T>G,,p.S610A,610,1,Missense
+c.1834G>A,,p.V612M,612,3,Missense
+c.1835C>A,,p.A612D,612,1,Missense
+c.1835C>T,,p.A612V,612,1,Missense
+c.1835T>C,,p.V612A,612,1,Missense
+c.1837A>G,,p.S613G,613,3,Missense
+c.1838G>A,,p.S613N,613,3,Missense
+c.1841G>T,,p.G614V,614,1,Missense
+c.1841G>T,,p.R614I,614,1,Missense
+c.1843T>G,,p.S615A,615,1,Missense
+c.1846G>A,,p.G616R,616,2,Missense
+c.1852T>G,,p.L618V,618,3,Missense
+c.1853T>C,,p.L618S,618,3,Missense
+c.1856A>G,,p.Y619C,619,1,Missense
+c.1857C>G,,p.N619K,619,3,Missense
+c.1859A>T,,p.D620V,620,1,Missense
+c.1860T>A,,p.D620E,620,1,Missense
+c.1861G>A,,p.V621M,621,3,Missense
+c.1862T>C,,p.V621A,621,1,Missense
+c.1864T>A,,p.Y622N,622,1,Missense
+c.1867G>A,,p.V623M,623,3,Missense
+c.1868G>T,,p.G623V,623,1,Missense
+c.1873A>G,,p.S625G,625,1,Missense
+c.1874G>A,,p.S625N,625,1,Missense
+c.1876G>A,,p.V626M,626,3,Missense
+c.1877C>T,,p.A626V,626,3,Missense
+c.1877T>C,,p.V626A,626,1,Missense
+c.1882C>T,,p.R628C,628,3,Missense
+c.1883G>A,,p.R628H,628,9,Missense
+c.1883G>T,,p.G628V,628,1,Missense
+c.1883G>T,,p.R628L,628,3,Missense
+c.1888T>G,,p.L630V,630,1,Missense
+c.1889T>C,,p.L630S,630,1,Missense
+c.1891G>A,,p.E631K,631,1,Missense
+c.1893C>G,,p.N631K,631,1,Missense
+c.1894T>G,,p.Y632D,632,1,Missense
+c.1895A>G,,p.Y632C,632,1,Missense
+c.1897T>C,,p.C633R,633,1,Missense
+c.1900C>T,,p.R634C,634,6,Missense
+c.1900G>A,,p.G634R,634,1,Missense
+c.1901G>A,,p.G634E,634,2,Missense
+c.1901G>A,,p.R634H,634,36,Missense
+c.1901G>T,,p.G634V,634,1,Missense
+c.1903G>A,,p.V635M,635,1,Missense
+c.1903G>T,,p.E635*,635,1,Nonsense
+c.1910A>C,,p.N637T,637,3,Missense
+c.1911T>A,,p.N637K,637,3,Missense
+c.1913A>G,,p.H638R,638,3,Missense
+c.1913C>T,,p.A638V,638,1,Missense
+c.1915T>C,,p.S639P,639,6,Missense
+c.1916C>T,,p.S639L,639,3,Missense
+c.1918C>T,,p.R640C,640,1,Missense
+c.1918G>A,,p.E640K,640,1,Missense
+c.1919G>A,,p.R640H,640,3,Missense
+c.1919G>T,,p.R640L,640,1,Missense
+c.1921T>G,,p.Y641D,641,1,Missense
+c.1922A>G,,p.Y641C,641,1,Missense
+c.1924T>C,,p.C642R,642,1,Missense
+c.1925C>A,,p.A642D,642,1,Missense
+c.1925C>T,,p.A642V,642,1,Missense
+c.1927G>A,,p.G643R,643,1,Missense
+c.1928G>A,,p.G643E,643,2,Missense
+c.1928G>T,,p.G643V,643,1,Missense
+c.1930G>T,,p.E644*,644,1,Nonsense
+c.1931G>T,,p.R644I,644,1,Missense
+c.1933G>A,,p.E645K,645,1,Missense
+c.1936C>T,,p.R646C,646,2,Missense
+c.1936G>A,,p.G646R,646,2,Missense
+c.1936T>G,,p.Y646D,646,1,Missense
+c.1937A>G,,p.Y646C,646,1,Missense
+c.1937G>A,,p.R646H,646,12,Missense
+c.1939T>C,,p.C647R,647,1,Missense
+c.1942G>A,,p.G648R,648,1,Missense
+c.1943G>A,,p.G648E,648,2,Missense
+c.1943G>T,,p.G648V,648,1,Missense
+c.1945G>T,,p.E649*,649,1,Nonsense
+c.1946A>C,,p.N649T,649,1,Missense
+c.1946A>G,,p.Y649C,649,1,Missense
+c.1947T>A,,p.N649K,649,1,Missense
+c.1949A>G,,p.H650R,650,1,Missense
+c.1949A>T,,p.D650V,650,1,Missense
+c.1950T>A,,p.D650E,650,1,Missense
+c.1951T>C,,p.S651P,651,2,Missense
+c.1952C>A,,p.A651D,651,1,Missense
+c.1952C>T,,p.A651V,651,1,Missense
+c.1952C>T,,p.S651L,651,1,Missense
+c.1952_1981del,,p.V651_F660del,651,3,Deletion Inframe
+c.1954T>A,,p.Y652N,652,1,Missense
+c.1957G>A,,p.G653S,653,3,Missense
+c.1958G>T,,p.R653I,653,1,Missense
+c.1963A>G,,p.S655G,655,1,Missense
+c.1963G>A,,p.G655R,655,2,Missense
+c.1964G>A,,p.S655N,655,1,Missense
+c.1967C>A,,p.A656D,656,1,Missense
+c.1967C>T,,p.A656V,656,1,Missense
+c.1973A>G,,p.Y658C,658,1,Missense
+c.1973G>T,,p.R658I,658,1,Missense
+c.1976A>T,,p.D659V,659,1,Missense
+c.1977T>A,,p.D659E,659,1,Missense
+c.1978G>A,,p.G660R,660,2,Missense
+c.1978T>G,,p.L660V,660,1,Missense
+c.1979T>C,,p.L660S,660,1,Missense
+c.1981T>A,,p.Y661N,661,1,Missense
+c.1983C>G,,p.N661K,661,1,Missense
+c.1988A>G,,p.Y663C,663,1,Missense
+c.1988_2017del,,p.V663_F672del,663,1,Deletion Inframe
+c.1990A>G,,p.S664G,664,1,Missense
+c.1991A>T,,p.D664V,664,1,Missense
+c.1991G>A,,p.S664N,664,1,Missense
+c.1992T>A,,p.D664E,664,1,Missense
+c.1993G>A,,p.G665S,665,1,Missense
+c.1993G>A,,p.V665M,665,1,Missense
+c.1996T>A,,p.Y666N,666,1,Missense
+c.1A>G,,p.M1?,1,7,Missense
+c.2003C>T,,p.A668V,668,1,Missense
+c.2005A>G,,p.S669G,669,1,Missense
+c.2005T>G,,p.L669V,669,1,Missense
+c.2006G>A,,p.S669N,669,1,Missense
+c.2006T>C,,p.L669S,669,1,Missense
+c.2008C>T,,p.R670C,670,1,Missense
+c.2008G>C,,p.E670Q,670,3,Missense
+c.2009G>A,,p.R670H,670,3,Missense
+c.2009G>T,,p.R670L,670,1,Missense
+c.2010C>G,,p.N670K,670,1,Missense
+c.2019dup,,p.D674*,674,3,Nonsense
+c.2020G>A,,p.V674M,674,1,Missense
+c.2020G>T,,p.D674Y,674,3,Missense
+c.2020T>G,,p.L674V,674,1,Missense
+c.2021T>C,,p.L674S,674,1,Missense
+c.2023T>C,,p.Y675H,675,3,Missense
+c.2025C>G,,p.N675K,675,1,Missense
+c.2026C>T,,p.R676C,676,2,Missense
+c.2027G>A,,p.R676H,676,12,Missense
+c.2027G>T,,p.R676I,676,3,Missense
+c.2030C>T,,p.A677V,677,1,Missense
+c.2034_2036del,,p.S678_Q679delinsR,678,3,Deletion Inframe
+c.2035C>T,,p.R679C,679,1,Missense
+c.2035G>A,,p.V679M,679,1,Missense
+c.2035del,,p.Q679Rfs*5,679,3,Deletion Frameshift
+c.2036A>C,,p.N679T,679,1,Missense
+c.2036G>A,,p.R679H,679,3,Missense
+c.2036G>T,,p.R679L,679,1,Missense
+c.2037T>A,,p.N679K,679,1,Missense
+c.2039A>G,,p.H680R,680,1,Missense
+c.2041T>C,,p.S681P,681,2,Missense
+c.2042C>T,,p.S681L,681,1,Missense
+c.2043_2044insTTCGAAT,,p.A682Ffs*27,682,3,Insertion Frameshift
+c.2044G>C,,p.E682Q,682,1,Missense
+c.2045C>T,,p.A682V,682,1,Missense
+c.2050C>T,,p.R684C,684,1,Missense
+c.2051G>A,,p.R684H,684,3,Missense
+c.2051G>T,,p.R684L,684,1,Missense
+c.2053C>T,,p.R685C,685,2,Missense
+c.2054G>A,,p.R685H,685,12,Missense
+c.2055dup,,p.D686*,686,1,Nonsense
+c.2056G>T,,p.D686Y,686,1,Missense
+c.2058_2059insAAAACC,,p.V686_G687insKT,686,3,Insertion Inframe
+c.2058_2059insAATCCCCTC,,p.V686_G687insNPL,686,3,Insertion Inframe
+c.2059T>C,,p.Y687H,687,1,Missense
+c.2059_2060insTCCCCG,,p.V686_G687insVP,686,3,Insertion Inframe
+c.2059_2063dup,,p.I688Mfs*25,688,3,Insertion Frameshift
+c.2060_2061insGCCCCG,,p.G687_I688insPR,687,3,Insertion Inframe
+c.2060_2061insGCCCCGG,,p.I688Pfs*21,688,3,Insertion Frameshift
+c.2060_2061insGTG,,p.G687_I688insC,687,3,Insertion Inframe
+c.2061_2062insG,,p.I688Dfs*19,688,3,Insertion Frameshift
+c.2061_2062insGGGGGC,,p.G687_I688insGG,687,3,Insertion Inframe
+c.2061_2065dup,,p.E689Afs*24,689,3,Insertion Frameshift
+c.2061_2066del,,p.I688_E689del,688,3,Deletion Inframe
+c.2062_2064dup,,p.I688dup,688,3,Insertion Inframe
+c.2062_2070delinsGAGAGG,,p.I688del,688,3,Deletion Inframe
+c.2063A>C,,p.N688T,688,1,Missense
+c.2063G>T,,p.R688I,688,1,Missense
+c.2063_2064insA,,p.E689Rfs*18,689,3,Insertion Frameshift
+c.2063_2064insGCATT,,p.I688Mfs*25,688,3,Insertion Frameshift
+c.2063_2064insGGCTGACCGGCAT,,p.I688Mfs*23,688,3,Insertion Frameshift
+c.2063_2064insTGCAT,,p.E689Afs*24,689,3,Insertion Frameshift
+c.2064T>A,,p.N688K,688,1,Missense
+c.2064del,,p.I688Mfs*23,688,3,Deletion Frameshift
+c.2065G>A,,p.E689K,689,6,Missense
+c.2065G>C,,p.E689Q,689,3,Missense
+c.2066A>G,,p.H689R,689,1,Missense
+c.2068C>T,,p.R690C,690,2,Missense
+c.2068T>C,,p.S690P,690,2,Missense
+c.2069C>T,,p.S690L,690,1,Missense
+c.2069G>A,,p.R690H,690,12,Missense
+c.2070_2072del,,p.S690_Q691delinsR,690,1,Deletion Inframe
+c.2071del,,p.Q691Rfs*5,691,1,Deletion Frameshift
+c.2078A>C,,p.N693T,693,1,Missense
+c.2078_2107del,,p.V693_F702del,693,1,Deletion Inframe
+c.2079T>A,,p.N693K,693,1,Missense
+c.2079_2080insTTCGAAT,,p.A694Ffs*27,694,1,Insertion Frameshift
+c.2081A>G,,p.H694R,694,1,Missense
+c.2083G>A,,p.G695S,695,1,Missense
+c.2083T>C,,p.S695P,695,2,Missense
+c.2084C>T,,p.S695L,695,1,Missense
+c.2094_2095insAAAACC,,p.V698_G699insKT,698,1,Insertion Inframe
+c.2094_2095insAATCCCCTC,,p.V698_G699insNPL,698,1,Insertion Inframe
+c.2095_2096insTCCCCG,,p.V698_G699insVP,698,1,Insertion Inframe
+c.2095_2099dup,,p.I700Mfs*25,700,1,Insertion Frameshift
+c.2096_2097insGCCCCG,,p.G699_I700insPR,699,1,Insertion Inframe
+c.2096_2097insGCCCCGG,,p.I700Pfs*21,700,1,Insertion Frameshift
+c.2096_2097insGTG,,p.G699_I700insC,699,1,Insertion Inframe
+c.2097_2098insG,,p.I700Dfs*19,700,1,Insertion Frameshift
+c.2097_2098insGGGGGC,,p.G699_I700insGG,699,1,Insertion Inframe
+c.2097_2101dup,,p.E701Afs*24,701,1,Insertion Frameshift
+c.2097_2102del,,p.I700_E701del,700,1,Deletion Inframe
+c.2098_2100dup,,p.I700dup,700,1,Insertion Inframe
+c.2098_2106delinsGAGAGG,,p.I700del,700,1,Deletion Inframe
+c.2099_2100insA,,p.E701Rfs*18,701,1,Insertion Frameshift
+c.2099_2100insGCATT,,p.I700Mfs*25,700,1,Insertion Frameshift
+c.2099_2100insGGCTGACCGGCAT,,p.I700Mfs*23,700,1,Insertion Frameshift
+c.2099_2100insTGCAT,,p.E701Afs*24,701,1,Insertion Frameshift
+c.2100del,,p.I700Mfs*23,700,1,Deletion Frameshift
+c.2101G>A,,p.E701K,701,2,Missense
+c.2101G>C,,p.E701Q,701,1,Missense
+c.2105_2134del,,p.V702_F711del,702,1,Deletion Inframe
+c.2110G>A,,p.G704S,704,1,Missense
+c.2120_2149del,,p.V707_F716del,707,1,Deletion Inframe
+c.2125G>A,,p.G709S,709,1,Missense
+c.2134G>C,,p.E712Q,712,1,Missense
+c.2145dup,,p.D716*,716,1,Nonsense
+c.2146G>T,,p.D716Y,716,1,Missense
+c.2149T>C,,p.Y717H,717,1,Missense
+c.2153G>T,,p.R718I,718,1,Missense
+c.2160_2162del,,p.S720_Q721delinsR,720,1,Deletion Inframe
+c.2161G>C,,p.E721Q,721,1,Missense
+c.2161del,,p.Q721Rfs*5,721,1,Deletion Frameshift
+c.2169_2170insTTCGAAT,,p.A724Ffs*27,724,1,Insertion Frameshift
+c.2172dup,,p.D725*,725,1,Nonsense
+c.2173G>T,,p.D725Y,725,1,Missense
+c.2176G>C,,p.E726Q,726,1,Missense
+c.2176T>C,,p.Y726H,726,1,Missense
+c.2180G>T,,p.R727I,727,1,Missense
+c.2184_2185insAAAACC,,p.V728_G729insKT,728,1,Insertion Inframe
+c.2184_2185insAATCCCCTC,,p.V728_G729insNPL,728,1,Insertion Inframe
+c.2185_2186insTCCCCG,,p.V728_G729insVP,728,1,Insertion Inframe
+c.2185_2189dup,,p.I730Mfs*25,730,1,Insertion Frameshift
+c.2186_2187insGCCCCG,,p.G729_I730insPR,729,1,Insertion Inframe
+c.2186_2187insGCCCCGG,,p.I730Pfs*21,730,1,Insertion Frameshift
+c.2186_2187insGTG,,p.G729_I730insC,729,1,Insertion Inframe
+c.2187_2188insG,,p.I730Dfs*19,730,1,Insertion Frameshift
+c.2187_2188insGGGGGC,,p.G729_I730insGG,729,1,Insertion Inframe
+c.2187_2189del,,p.S729_Q730delinsR,729,1,Deletion Inframe
+c.2187_2191dup,,p.E731Afs*24,731,1,Insertion Frameshift
+c.2187_2192del,,p.I730_E731del,730,1,Deletion Inframe
+c.2187dup,,p.D730*,730,1,Nonsense
+c.2188G>T,,p.D730Y,730,1,Missense
+c.2188_2190dup,,p.I730dup,730,1,Insertion Inframe
+c.2188_2196delinsGAGAGG,,p.I730del,730,1,Deletion Inframe
+c.2188del,,p.Q730Rfs*5,730,1,Deletion Frameshift
+c.2189_2190insA,,p.E731Rfs*18,731,1,Insertion Frameshift
+c.2189_2190insGCATT,,p.I730Mfs*25,730,1,Insertion Frameshift
+c.2189_2190insGGCTGACCGGCAT,,p.I730Mfs*23,730,1,Insertion Frameshift
+c.2189_2190insTGCAT,,p.E731Afs*24,731,1,Insertion Frameshift
+c.2190del,,p.I730Mfs*23,730,1,Deletion Frameshift
+c.2191G>A,,p.E731K,731,2,Missense
+c.2191G>C,,p.E731Q,731,1,Missense
+c.2191T>C,,p.Y731H,731,1,Missense
+c.2195G>T,,p.R732I,732,1,Missense
+c.2196_2197insTTCGAAT,,p.A733Ffs*27,733,1,Insertion Frameshift
+c.2202_2204del,,p.S734_Q735delinsR,734,1,Deletion Inframe
+c.2203del,,p.Q735Rfs*5,735,1,Deletion Frameshift
+c.2211_2212insAAAACC,,p.V737_G738insKT,737,1,Insertion Inframe
+c.2211_2212insAATCCCCTC,,p.V737_G738insNPL,737,1,Insertion Inframe
+c.2211_2212insTTCGAAT,,p.A738Ffs*27,738,1,Insertion Frameshift
+c.2212_2213insTCCCCG,,p.V737_G738insVP,737,1,Insertion Inframe
+c.2212_2216dup,,p.I739Mfs*25,739,1,Insertion Frameshift
+c.2213_2214insGCCCCG,,p.G738_I739insPR,738,1,Insertion Inframe
+c.2213_2214insGCCCCGG,,p.I739Pfs*21,739,1,Insertion Frameshift
+c.2213_2214insGTG,,p.G738_I739insC,738,1,Insertion Inframe
+c.2214_2215insG,,p.I739Dfs*19,739,1,Insertion Frameshift
+c.2214_2215insGGGGGC,,p.G738_I739insGG,738,1,Insertion Inframe
+c.2214_2218dup,,p.E740Afs*24,740,1,Insertion Frameshift
+c.2214_2219del,,p.I739_E740del,739,1,Deletion Inframe
+c.2215_2217dup,,p.I739dup,739,1,Insertion Inframe
+c.2215_2223delinsGAGAGG,,p.I739del,739,1,Deletion Inframe
+c.2216_2217insA,,p.E740Rfs*18,740,1,Insertion Frameshift
+c.2216_2217insGCATT,,p.I739Mfs*25,739,1,Insertion Frameshift
+c.2216_2217insGGCTGACCGGCAT,,p.I739Mfs*23,739,1,Insertion Frameshift
+c.2216_2217insTGCAT,,p.E740Afs*24,740,1,Insertion Frameshift
+c.2217del,,p.I739Mfs*23,739,1,Deletion Frameshift
+c.2218G>A,,p.E740K,740,2,Missense
+c.2218G>C,,p.E740Q,740,1,Missense
+c.2226_2227insAAAACC,,p.V742_G743insKT,742,1,Insertion Inframe
+c.2226_2227insAATCCCCTC,,p.V742_G743insNPL,742,1,Insertion Inframe
+c.2227_2228insTCCCCG,,p.V742_G743insVP,742,1,Insertion Inframe
+c.2227_2231dup,,p.I744Mfs*25,744,1,Insertion Frameshift
+c.2228_2229insGCCCCG,,p.G743_I744insPR,743,1,Insertion Inframe
+c.2228_2229insGCCCCGG,,p.I744Pfs*21,744,1,Insertion Frameshift
+c.2228_2229insGTG,,p.G743_I744insC,743,1,Insertion Inframe
+c.2229_2230insG,,p.I744Dfs*19,744,1,Insertion Frameshift
+c.2229_2230insGGGGGC,,p.G743_I744insGG,743,1,Insertion Inframe
+c.2229_2233dup,,p.E745Afs*24,745,1,Insertion Frameshift
+c.2229_2234del,,p.I744_E745del,744,1,Deletion Inframe
+c.2230_2232dup,,p.I744dup,744,1,Insertion Inframe
+c.2230_2238delinsGAGAGG,,p.I744del,744,1,Deletion Inframe
+c.2231_2232insA,,p.E745Rfs*18,745,1,Insertion Frameshift
+c.2231_2232insGCATT,,p.I744Mfs*25,744,1,Insertion Frameshift
+c.2231_2232insGGCTGACCGGCAT,,p.I744Mfs*23,744,1,Insertion Frameshift
+c.2231_2232insTGCAT,,p.E745Afs*24,745,1,Insertion Frameshift
+c.2232del,,p.I744Mfs*23,744,1,Deletion Frameshift
+c.2233G>A,,p.E745K,745,2,Missense
+c.2233G>C,,p.E745Q,745,1,Missense
+c.269A>G,,p.H90R,90,1,Missense
+c.274A>T,,p.I92F,92,1,Missense
+c.275T>A,,p.I92N,92,1,Missense
+c.278A>G,,p.N93S,93,8,Missense
+c.280T>A,,p.Y94N,94,1,Missense
+c.285del,,p.A96Lfs*5,96,4,Deletion Frameshift
+c.292C>T,,p.R98*,98,3,Nonsense
+c.298_299insC,,p.I100Tfs*17,100,4,Insertion Frameshift
+c.301A>G,,p.K101E,101,1,Missense
+c.305A>G,,p.N102S,102,4,Missense
+c.312del,,p.A105Lfs*5,105,2,Deletion Frameshift
+c.325_326insC,,p.I109Tfs*17,109,2,Insertion Frameshift
+c.336G>A,,p.M112I,112,4,Missense
+c.341A>G,,p.Y114C,114,1,Missense
+c.346G>A,,p.G116R,116,1,Missense
+c.359A>G,,p.H120R,120,4,Missense
+c.363G>A,,p.M121I,121,2,Missense
+c.364A>T,,p.I122F,122,4,Missense
+c.365T>A,,p.I122N,122,4,Missense
+c.36G>A,,p.M12I,12,1,Missense
+c.370T>A,,p.Y124N,124,4,Missense
+c.386A>G,,p.H129R,129,2,Missense
+c.38T>C,,p.V13A,13,7,Missense
+c.391A>T,,p.I131F,131,2,Missense
+c.392T>A,,p.I131N,131,2,Missense
+c.397T>A,,p.Y133N,133,2,Missense
+c.418G>A,,p.E140K,140,1,Missense
+c.431A>G,,p.Y144C,144,4,Missense
+c.436G>A,,p.G146R,146,4,Missense
+c.458A>G,,p.Y153C,153,2,Missense
+c.459dup,,p.N154Qfs*8,154,1,Insertion Frameshift
+c.463G>A,,p.G155R,155,2,Missense
+c.469G>A,,p.G157R,157,1,Missense
+c.502C>T,,p.R168*,168,3,Nonsense
+c.511A>G,,p.K171E,171,1,Missense
+c.535C>T,,p.R179*,179,1,Nonsense
+c.540T>A,,p.C180*,180,1,Nonsense
+c.551A>G,,p.D184G,184,1,Missense
+c.591T>A,,p.Y197*,197,1,Nonsense
+c.591delinsGGCATA,,p.Y197*,197,1,Nonsense
+c.592C>T,,p.R198*,198,12,Nonsense
+c.59A>G,,p.H20R,20,1,Missense
+c.601A>G,,p.K201E,201,4,Missense
+c.619C>T,,p.R207*,207,6,Nonsense
+c.628A>G,,p.K210E,210,2,Missense
+c.628G>A,,p.E210K,210,1,Missense
+c.64A>T,,p.I22F,22,1,Missense
+c.65T>A,,p.I22N,22,1,Missense
+c.65_66del,,p.E22Vfs*14,22,7,Deletion Frameshift
+c.669dup,,p.N224Qfs*8,224,1,Insertion Frameshift
+c.679G>A,,p.G227R,227,1,Missense
+c.70T>A,,p.Y24N,24,1,Missense
+c.718G>A,,p.E240K,240,4,Missense
+c.745C>T,,p.R249*,249,1,Nonsense
+c.745G>A,,p.E249K,249,2,Missense
+c.74G>A,,p.R25Q,25,7,Missense
+c.750T>A,,p.C250*,250,1,Nonsense
+c.759dup,,p.N254Qfs*8,254,4,Insertion Frameshift
+c.761A>G,,p.D254G,254,1,Missense
+c.769G>A,,p.G257R,257,4,Missense
+c.786dup,,p.N263Qfs*8,263,2,Insertion Frameshift
+c.796G>A,,p.G266R,266,2,Missense
+c.801T>A,,p.Y267*,267,1,Nonsense
+c.801delinsGGCATA,,p.Y267*,267,1,Nonsense
+c.82C>T,,p.Q28*,28,7,Nonsense
+c.835C>T,,p.R279*,279,4,Nonsense
+c.840T>A,,p.C280*,280,4,Nonsense
+c.851A>G,,p.D284G,284,4,Missense
+c.862C>T,,p.R288*,288,2,Nonsense
+c.867T>A,,p.C289*,289,2,Nonsense
+c.878A>G,,p.D293G,293,2,Missense
+c.891T>A,,p.Y297*,297,4,Nonsense
+c.891delinsGGCATA,,p.Y297*,297,4,Nonsense
+c.918T>A,,p.Y306*,306,1,Nonsense
+c.918delinsGGCATA,,p.Y306*,306,1,Nonsense
+c.933T>A,,p.Y311*,311,1,Nonsense
+c.933delinsGGCATA,,p.Y311*,311,1,Nonsense
+c.987del,,p.T330Pfs*50,330,1,Deletion Frameshift

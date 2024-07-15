@@ -1,0 +1,187 @@
+CDS Mutation,,AA Mutation,AA residue,counts,Mutation type
+c.9C>A,,p.Y3*,3,1,Nonsense
+c.9C>G,,p.Y3*,3,3,Nonsense
+c.16_17insT,,p.Q6Lfs*6,6,1,Insertion Frameshift
+c.?,,p.V7Xfs*?,7,1,Frameshift
+c.21dup,,p.L8Sfs*3,8,1,Insertion Frameshift
+c.23_24del,,p.I8Rfs*2,8,2,Deletion Frameshift
+c.30_31del,,p.G12Afs*13,12,1,Deletion Frameshift
+c.49A>T,,p.I17F,17,1,Missense
+c.53_75del,,p.P18Rfs*4,18,1,Deletion Frameshift
+c.54G>A,,p.W18*,18,1,Nonsense
+c.54G>C,,p.W18C,18,1,Missense
+c.58G>A,,p.A20T,20,1,Missense
+c.59C>T,,p.A20V,20,1,Missense
+c.60dup,,p.E21*,21,1,Nonsense
+c.61dup,,p.A21Gfs*5,21,1,Insertion Frameshift
+c.66_67insA,,p.R23Tfs*7,23,1,Insertion Frameshift
+c.67C>T,,p.R23*,23,3,Nonsense
+c.67dup,,p.C23Lfs*20,23,1,Insertion Frameshift
+c.68G>A,,p.W23*,23,1,Nonsense
+c.69G>A,,p.W23*,23,1,Nonsense
+c.70C>T,,p.R24*,24,5,Nonsense
+c.70_71delinsC,,p.D24Lfs*4,24,1,Complex Frameshift
+c.73_74insA,,p.A25Dfs*5,25,1,Insertion Frameshift
+c.77T>C,,p.L26P,26,1,Missense
+c.83_84insTAA,,p.T28_K29insN,28,1,Insertion Inframe
+c.85_86insGCTAACC,,p.K29Sfs*2,29,1,Insertion Frameshift
+c.88_89insGGGTCAAAG,,p.K29_A30insGVK,29,1,Insertion Inframe
+c.87dup,,p.A30Sfs*7,30,1,Insertion Frameshift
+c.88C>T,,p.Q30*,30,1,Nonsense
+c.88G>T,,p.E30*,30,1,Nonsense
+c.89_93del,,p.E30Gfs*9,30,1,Deletion Frameshift
+c.79_91dup,,p.A31Efs*16,31,1,Insertion Frameshift
+c.94G>C,,p.V32L,32,2,Missense
+c.95T>G,,p.V32G,32,1,Missense
+c.99_100del,,p.F33Lfs*3,33,1,Deletion Frameshift
+c.100G>T,,p.E34*,34,1,Nonsense
+c.103_104insG,,p.P35Rfs*47,35,1,Insertion Frameshift
+c.109del,,p.Q37Sfs*3,37,1,Deletion Frameshift
+c.110T>G,,p.L37*,37,1,Nonsense
+c.111dup,,p.E38Rfs*3,38,1,Insertion Frameshift
+c.113_114insTAATTTAG,,p.E38Dfs*15,38,1,Insertion Frameshift
+c.138_161del,,p.I47_P54del,47,1,Deletion Inframe
+c.145dup,,p.V49Gfs*31,49,1,Insertion Frameshift
+c.146T>G,,p.L49R,49,1,Missense
+c.147del,,p.G51Afs*65,51,1,Deletion Frameshift
+c.157C>T,,p.Q53*,53,1,Nonsense
+c.161G>A,,p.R54Q,54,1,Missense
+c.166G>T,,p.E56*,56,1,Nonsense
+c.166_167insGACA,,p.S56*,56,1,Nonsense
+c.172A>T,,p.R58*,58,1,Nonsense
+c.172_173insAGACCCC,,p.R58Kfs*22,58,1,Insertion Frameshift
+c.173T>C,,p.I58T,58,1,Missense
+c.180G>A,,p.W60*,60,1,Nonsense
+c.185G>C,,p.G62A,62,1,Missense
+c.193C>T,,p.R65*,65,5,Nonsense
+c.200T>C,,p.L67P,67,1,Missense
+c.203_212del,,p.H68Pfs*15,68,1,Deletion Frameshift
+c.211G>T,,p.E71*,71,1,Nonsense
+c.212_216del,,p.E71Gfs*9,71,1,Deletion Frameshift
+c.214_215insT,,p.Q72Lfs*6,72,1,Insertion Frameshift
+c.218dup,,p.Y73*,73,1,Nonsense
+c.219_220insA,,p.L74Tfs*6,74,1,Insertion Frameshift
+c.226_227insAA,,p.A76Efs*11,76,1,Insertion Frameshift
+c.234dup,,p.E79Rfs*3,79,1,Insertion Frameshift
+c.238_239insTATG,,p.E80Vfs*2,80,1,Insertion Frameshift
+c.250_251insT,,p.K84Ifs*12,84,1,Insertion Frameshift
+c.252_256del,,p.I85Dfs*9,85,1,Deletion Frameshift
+c.258dup,,p.E87*,87,1,Nonsense
+c.265dup,,p.C89Lfs*20,89,1,Insertion Frameshift
+c.268C>T,,p.R90*,90,5,Nonsense
+c.270del,,p.G92Afs*65,92,1,Deletion Frameshift
+c.280C>T,,p.Q94*,94,1,Nonsense
+c.286C>T,,p.Q96*,96,1,Nonsense
+c.277_289dup,,p.A97Efs*16,97,1,Insertion Frameshift
+c.289G>T,,p.E97*,97,1,Nonsense
+c.295A>T,,p.R99*,99,1,Nonsense
+c.295_296insAGACCCC,,p.R99Kfs*22,99,1,Insertion Frameshift
+c.303G>A,,p.W101*,101,1,Nonsense
+c.308del,,p.A103Efs*22,103,1,Deletion Frameshift
+c.322del,,p.I108Lfs*17,108,1,Deletion Frameshift
+c.336_359del,,p.I113_P120del,113,1,Deletion Inframe
+c.337_338insT,,p.Q113Lfs*6,113,1,Insertion Frameshift
+c.338_342del,,p.E113Afs*2,113,1,Deletion Frameshift
+c.344T>G,,p.L115R,115,1,Missense
+c.371T>C,,p.I124T,124,1,Missense
+c.371_372insCCCC,,p.L124Ffs*4,124,1,Insertion Frameshift
+c.381C>G,,p.I127M,127,2,Missense
+c.381dup,,p.E128*,128,1,Nonsense
+c.387_397del,,p.A130Qfs*6,130,1,Deletion Frameshift
+c.388dup,,p.C130Lfs*20,130,1,Insertion Frameshift
+c.391C>T,,p.R131*,131,5,Nonsense
+c.394C>T,,p.Q132*,132,1,Nonsense
+c.396_397insGG,,p.F133Gfs*4,133,1,Insertion Frameshift
+c.409C>T,,p.Q137*,137,1,Nonsense
+c.400_412dup,,p.A138Efs*16,138,1,Insertion Frameshift
+c.412dup,,p.S138Kfs*2,138,1,Insertion Frameshift
+c.415A>T,,p.R139*,139,1,Nonsense
+c.419dup,,p.E141Gfs*19,141,1,Insertion Frameshift
+c.424G>T,,p.E142*,142,1,Nonsense
+c.457_458insTC,,p.S153Ifs*19,153,1,Insertion Frameshift
+c.455_456dup,,p.I154Vfs*18,154,1,Insertion Frameshift
+c.459_482del,,p.I154_P161del,154,1,Deletion Inframe
+c.467T>G,,p.L156R,156,1,Missense
+c.494T>C,,p.I165T,165,1,Missense
+c.529_530insAGGG,,p.F177*,177,1,Nonsense
+c.548T>C,,p.L183S,183,1,Missense
+c.557_561del,,p.T186Nfs*3,186,1,Deletion Frameshift
+c.559A>C,,p.T187P,187,2,Missense
+c.560C>T,,p.T187I,187,2,Missense
+c.565_567del,,p.S189del,189,1,Deletion Inframe
+c.578T>G,,p.L193*,193,1,Nonsense
+c.608_611del,,p.N203Rfs*6,203,1,Deletion Frameshift
+c.623A>G,,p.H208R,208,1,Missense
+c.634G>T,,p.E212*,212,1,Nonsense
+c.645T>A,,p.Y215*,215,1,Nonsense
+c.661_662insTAAGAATG,,p.G221Vfs*12,221,1,Insertion Frameshift
+c.686T>G,,p.L229*,229,1,Nonsense
+c.687A>C,,p.L229F,229,1,Missense
+c.688G>A,,p.D230N,230,1,Missense
+c.731_734dup,,p.P246Sfs*6,246,1,Insertion Frameshift
+c.743_752del,,p.L248Qfs*3,248,1,Deletion Frameshift
+c.764T>A,,p.L255*,255,1,Nonsense
+c.769G>T,,p.E257*,257,1,Nonsense
+c.770dup,,p.Q258Afs*5,258,1,Insertion Frameshift
+c.812C>A,,p.S271*,271,2,Nonsense
+c.824_828del,,p.P275Qfs*3,275,1,Deletion Frameshift
+c.849dup,,p.V284Rfs*2,284,1,Insertion Frameshift
+c.853del,,p.E285Nfs*6,285,1,Deletion Frameshift
+c.859A>T,,p.M287L,287,1,Missense
+c.866_869del,,p.T289Rfs*22,289,1,Deletion Frameshift
+c.932_933dup,,p.T312*,312,1,Nonsense
+c.972_973insG,,p.I325Dfs*3,325,1,Insertion Frameshift
+c.987_988insCCGG,,p.K330Pfs*6,330,1,Insertion Frameshift
+c.990dup,,p.E331Rfs*4,331,1,Insertion Frameshift
+c.1022_1023insCTAA,,p.S342*,342,1,Nonsense
+c.1024_1025insAA,,p.S342Kfs*20,342,1,Insertion Frameshift
+c.1072A>T,,p.K358*,358,1,Nonsense
+c.1079T>A,,p.L360*,360,1,Nonsense
+c.1089G>A,,p.W363*,363,1,Nonsense
+c.1089dup,,p.K364Efs*20,364,1,Insertion Frameshift
+c.1120_1124del,,p.S374Tfs*8,374,1,Deletion Frameshift
+c.1142G>A,,p.W381*,381,1,Nonsense
+c.?,,p.T394Xfs*?,394,1,Frameshift
+c.1182dup,,p.P395Tfs*8,395,1,Insertion Frameshift
+c.1228G>T,,p.A410S,410,1,Missense
+c.1234A>G,,p.N412D,412,1,Missense
+c.1238T>A,,p.L413*,413,3,Nonsense
+c.1238T>G,,p.L413W,413,1,Missense
+c.1254del,,p.E419Nfs*37,419,1,Deletion Frameshift
+c.1288del,,p.Q430Sfs*26,430,1,Deletion Frameshift
+c.1294C>T,,p.Q432*,432,3,Nonsense
+c.1297C>T,,p.Q433*,433,1,Nonsense
+c.1303C>T,,p.Q435*,435,1,Nonsense
+c.1324G>T,,p.E442*,442,1,Nonsense
+c.1337_1338insTTCCC,,p.E446Dfs*12,446,1,Insertion Frameshift
+c.1354C>T,,p.Q452*,452,1,Nonsense
+c.1357del,,p.E453Sfs*3,453,1,Deletion Frameshift
+c.1359del,,p.E453Dfs*3,453,1,Deletion Frameshift
+c.1361C>A,,p.S454*,454,1,Nonsense
+c.1388_1389del,,p.I463Rfs*2,463,2,Deletion Frameshift
+c.1418_1440del,,p.P473Rfs*4,473,1,Deletion Frameshift
+c.1431_1432insA,,p.R478Tfs*7,478,1,Insertion Frameshift
+c.1432C>T,,p.R478*,478,3,Nonsense
+c.1438_1439insA,,p.A480Dfs*5,480,1,Insertion Frameshift
+c.1468_1469insG,,p.P490Rfs*47,490,1,Insertion Frameshift
+c.1474del,,p.Q492Sfs*3,492,1,Deletion Frameshift
+c.1565T>C,,p.L522P,522,1,Missense
+c.1576G>T,,p.E526*,526,1,Nonsense
+c.1577_1581del,,p.E526Gfs*9,526,1,Deletion Frameshift
+c.1599dup,,p.E534Rfs*3,534,1,Insertion Frameshift
+c.1635del,,p.G547Afs*65,547,1,Deletion Frameshift
+c.1645C>T,,p.Q549*,549,1,Nonsense
+c.1654G>T,,p.E552*,552,1,Nonsense
+c.1660A>T,,p.R554*,554,1,Nonsense
+c.1660_1661insAGACCCC,,p.R554Kfs*22,554,1,Insertion Frameshift
+c.1668G>A,,p.W556*,556,1,Nonsense
+c.?,,p.W556*,556,1,Nonsense
+c.1702_1703insT,,p.Q568Lfs*6,568,1,Insertion Frameshift
+c.1746dup,,p.E583*,583,1,Nonsense
+c.1753dup,,p.C585Lfs*20,585,1,Insertion Frameshift
+c.1756C>T,,p.R586*,586,5,Nonsense
+c.1774C>T,,p.Q592*,592,1,Nonsense
+c.1765_1777dup,,p.A593Efs*16,593,1,Insertion Frameshift
+c.1824_1847del,,p.I609_P616del,609,1,Deletion Inframe
+c.1832T>G,,p.L611R,611,1,Missense
+c.1859T>C,,p.I620T,620,1,Missense
