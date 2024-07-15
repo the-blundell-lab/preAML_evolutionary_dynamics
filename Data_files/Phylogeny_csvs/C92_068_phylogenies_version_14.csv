@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['CBL_p.D460_E461insD', 'TET2_p.S675X']",0,0,#cccccc
+CBL_p.D460_E461insD,stem cells,['TET2_p.S675X'],[],2,1,#2171b5
+TET2_p.S675X,stem cells,['CBL_p.D460_E461insD'],[],2,1,#9ecae1

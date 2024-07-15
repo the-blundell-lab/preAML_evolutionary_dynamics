@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],"['DDX41_p.D344E', 'SRSF2_p.P95H']",0,0,"[100, 100, 100, 100, 92.76]",0.0,100.0,#cccccc
+DDX41_p.D344E,stem cells,[],['SRSF2_p.P95H'],1,1,"[0, 0, 0, 0, 2.91]",66.7,2.91,#6ba3d6
+SRSF2_p.P95H,DDX41_p.D344E,[],[],1,2,"[0, 0, 0, 0, 4.33]",66.7,4.33,#41ab5d

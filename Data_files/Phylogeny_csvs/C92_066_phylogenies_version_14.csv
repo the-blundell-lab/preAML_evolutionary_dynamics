@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['DNMT3A_p.M779Ifs*14', 'TP53_p.L111Q']",0,0,#cccccc
+DNMT3A_p.M779Ifs*14,stem cells,['TP53_p.L111Q'],[],2,1,#2171b5
+TP53_p.L111Q,stem cells,['DNMT3A_p.M779Ifs*14'],[],2,1,#9ecae1

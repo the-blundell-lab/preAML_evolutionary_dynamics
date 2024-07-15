@@ -1,0 +1,8 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],"['DNMT3A_p.R882H', 'STAG2_p.M1175L', 'SF3B1_p.K700E', 'SF3B1_p.K666N', 'SF3B1_p.K666R', 'SRSF2_p.P95H']",0,0,"[2.76, 1.43, 1.99, 2.77]",0.0,2.77,#cccccc
+DNMT3A_p.R882H,stem cells,['STAG2_p.M1175L'],"['SF3B1_p.K700E', 'SF3B1_p.K666N']",2,1,"[90.28, 91.45, 91.78999999999999, 89.19]",70.99,91.78999999999999,#2171b5
+STAG2_p.M1175L,stem cells,['DNMT3A_p.R882H'],"['SF3B1_p.K666R', 'SRSF2_p.P95H']",2,1,"[3.3299999999999996, 3.69, 1.7200000000000002, 3.6199999999999997]",70.99,3.69,#9ecae1
+SF3B1_p.K666R,STAG2_p.M1175L,[],['SRSF2_p.P95H'],1,2,"[1.53, 0.16999999999999993, 2.7199999999999998, 2.2]",70.99,2.7199999999999998,#a1d99b
+SF3B1_p.K700E,DNMT3A_p.R882H,['SF3B1_p.K666N'],[],2,2,"[0.58, 1.16, 0.68, 0.65]",70.99,1.16,#238b45
+SF3B1_p.K666N,DNMT3A_p.R882H,['SF3B1_p.K700E'],[],2,2,"[0.49, 0, 0, 0]",70.99,0.49,#00441b
+SRSF2_p.P95H,SF3B1_p.K666R,[],[],1,3,"[1.03, 2.1, 1.1, 1.57]",70.99,2.1,#fd8d3c

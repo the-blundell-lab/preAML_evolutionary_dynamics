@@ -1,0 +1,6 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],"['BCOR_p.V878I', 'ASXL1_p.E537X', 'TET2_p.R1261C', 'TP53_p.A189Pfs*58']",0,0,"[2.94, 2.67, 3.84]",0.0,3.84,#cccccc
+BCOR_p.V878I,stem cells,"['ASXL1_p.E537X', 'TET2_p.R1261C']",['TP53_p.A189Pfs*58'],3,1,"[76.02, 76.94, 76.24000000000001]",64.06,76.94,#08306b
+ASXL1_p.E537X,stem cells,"['BCOR_p.V878I', 'TET2_p.R1261C']",[],3,1,"[2.14, 1.94, 2.49]",64.06,2.49,#2171b5
+TET2_p.R1261C,stem cells,"['BCOR_p.V878I', 'ASXL1_p.E537X']",[],3,1,"[0.28, 0.23, 0.47]",64.06,0.47,#9ecae1
+TP53_p.A189Pfs*58,BCOR_p.V878I,[],[],1,2,"[18.62, 18.22, 16.96]",64.06,18.62,#41ab5d

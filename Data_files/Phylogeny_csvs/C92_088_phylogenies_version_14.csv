@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['GNB1_p.K57E', 'X']",0,0,#cccccc
+GNB1_p.K57E,stem cells,['X'],[],2,1,#2171b5
+X,stem cells,['GNB1_p.K57E'],[],2,1,#9ecae1

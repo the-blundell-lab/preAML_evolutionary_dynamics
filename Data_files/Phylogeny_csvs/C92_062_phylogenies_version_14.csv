@@ -1,0 +1,5 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['DNMT3A_p.G685R', 'TET2_p.Y1766*', 'chr4q_CNLOH']",0,0,#cccccc
+DNMT3A_p.G685R,stem cells,[],"['TET2_p.Y1766*', 'chr4q_CNLOH']",1,1,#6ba3d6
+TET2_p.Y1766*,DNMT3A_p.G685R,[],['chr4q_CNLOH'],1,2,#41ab5d
+chr4q_CNLOH,TET2_p.Y1766*,[],[],1,3,#fd8d3c

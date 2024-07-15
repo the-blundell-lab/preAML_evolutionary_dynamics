@@ -1,0 +1,5 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],"['DNMT3A_p.R635W', 'DNMT3A_p.W860R', 'DNMT3A_p.R635Q']",0,0,"[94.64, 89.33, 89.56, 86.19, 85.2, 85.21]",0.0,94.64,#cccccc
+DNMT3A_p.R635W,stem cells,['DNMT3A_p.W860R'],[],2,1,"[5.36, 10.67, 10.44, 11.75, 13.13, 13.22]",69.47,13.22,#2171b5
+DNMT3A_p.W860R,stem cells,['DNMT3A_p.R635W'],['DNMT3A_p.R635Q'],2,1,"[0, 0, 0, 0.97, 0.85, 0.7000000000000001]",72.5,0.97,#08306b
+DNMT3A_p.R635Q,DNMT3A_p.W860R,[],[],1,2,"[0, 0, 0, 1.09, 0.82, 0.87]",72.5,1.09,#41ab5d

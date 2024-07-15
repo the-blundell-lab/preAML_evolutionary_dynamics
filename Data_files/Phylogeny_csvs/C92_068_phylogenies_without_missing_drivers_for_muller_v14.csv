@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],"['CBL_p.D460_E461insD', 'TET2_p.S675X']",0,0,"[8.79, 8.48]",0.0,8.79,#cccccc
+CBL_p.D460_E461insD,stem cells,['TET2_p.S675X'],[],2,1,"[88.62, 88.46]",62.8,88.62,#2171b5
+TET2_p.S675X,stem cells,['CBL_p.D460_E461insD'],[],2,1,"[2.59, 3.06]",62.8,3.06,#9ecae1

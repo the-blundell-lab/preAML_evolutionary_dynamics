@@ -1,0 +1,5 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],"['DNMT3A_p.P633L', 'TET2_p.F1429L', 'ASXL1_p.E1006X']",0,0,"[99.15, 99.26, 98.62, 98.82, 98.33]",0.0,99.26,#cccccc
+TET2_p.F1429L,stem cells,"['DNMT3A_p.P633L', 'ASXL1_p.E1006X']",[],3,1,"[0.23, 0.24, 0.77, 0.63, 0.75]",71.08,0.77,#9ecae1
+DNMT3A_p.P633L,stem cells,"['TET2_p.F1429L', 'ASXL1_p.E1006X']",[],3,1,"[0.62, 0.5, 0.61, 0.55, 0.3]",71.08,0.62,#08306b
+ASXL1_p.E1006X,stem cells,"['DNMT3A_p.P633L', 'TET2_p.F1429L']",[],3,1,"[0, 0, 0, 0, 0.62]",75.26,0.62,#2171b5

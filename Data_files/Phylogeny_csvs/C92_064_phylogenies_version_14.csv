@@ -1,0 +1,6 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['DNMT3A_p.R882C', 'DNMT3A_p.R736C', 'X', 'CEBPA_p.A170V']",0,0,#cccccc
+DNMT3A_p.R882C,stem cells,"['DNMT3A_p.R736C', 'X']",[],3,1,#08306b
+DNMT3A_p.R736C,stem cells,"['DNMT3A_p.R882C', 'X']",[],3,1,#2171b5
+X,stem cells,"['DNMT3A_p.R882C', 'DNMT3A_p.R736C']",['CEBPA_p.A170V'],3,1,#9ecae1
+CEBPA_p.A170V,X,[],[],1,2,#41ab5d

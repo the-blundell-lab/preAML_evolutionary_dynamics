@@ -1,0 +1,7 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['DNMT3A_p.L373R', 'X', 'DNMT3A_p.R882C', 'DNMT3A_p.P904L', 'DNMT3A_p.R803K']",0,0,#cccccc
+DNMT3A_p.L373R,stem cells,"['X', 'DNMT3A_p.R882C', 'DNMT3A_p.P904L', 'DNMT3A_p.R803K']",[],5,1,#08306b
+X,stem cells,"['DNMT3A_p.L373R', 'DNMT3A_p.R882C', 'DNMT3A_p.P904L', 'DNMT3A_p.R803K']",[],5,1,#4292c6
+DNMT3A_p.R882C,stem cells,"['DNMT3A_p.L373R', 'X', 'DNMT3A_p.P904L', 'DNMT3A_p.R803K']",[],5,1,#08519c
+DNMT3A_p.P904L,stem cells,"['DNMT3A_p.L373R', 'X', 'DNMT3A_p.R882C', 'DNMT3A_p.R803K']",[],5,1,#9ecae1
+DNMT3A_p.R803K,stem cells,"['DNMT3A_p.L373R', 'X', 'DNMT3A_p.R882C', 'DNMT3A_p.P904L']",[],5,1,#deebf7

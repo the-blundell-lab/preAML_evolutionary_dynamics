@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],"['DNMT3A_p.R326C', 'IDH2_p.R140Q']",0,0,"[66.15, 60.97, 62.61, 59.55]",0.0,66.15,#cccccc
+DNMT3A_p.R326C,stem cells,[],['IDH2_p.R140Q'],1,1,"[1.9100000000000001, 4.990000000000002, 0.3400000000000034, 0]",62.02,4.990000000000002,#6ba3d6
+IDH2_p.R140Q,DNMT3A_p.R326C,[],[],1,2,"[31.94, 34.04, 37.05, 41.47]",62.02,41.47,#41ab5d

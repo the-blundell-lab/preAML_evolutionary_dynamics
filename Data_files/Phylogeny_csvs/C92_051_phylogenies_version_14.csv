@@ -1,0 +1,6 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['DNMT3A_p.P633L', 'TET2_p.F1429L', 'X', 'ASXL1_p.E1006X']",0,0,#cccccc
+DNMT3A_p.P633L,stem cells,"['TET2_p.F1429L', 'X']",[],3,1,#08306b
+TET2_p.F1429L,stem cells,"['DNMT3A_p.P633L', 'X']",[],3,1,#9ecae1
+X,stem cells,"['DNMT3A_p.P633L', 'TET2_p.F1429L']",['ASXL1_p.E1006X'],3,1,#2171b5
+ASXL1_p.E1006X,X,[],[],1,2,#41ab5d

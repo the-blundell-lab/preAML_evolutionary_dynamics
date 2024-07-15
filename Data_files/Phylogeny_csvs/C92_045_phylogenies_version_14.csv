@@ -1,0 +1,6 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['DNMT3A_p.R635W', 'DNMT3A_p.W860R', 'X', 'DNMT3A_p.R635Q']",0,0,#cccccc
+DNMT3A_p.R635W,stem cells,"['DNMT3A_p.W860R', 'X']",[],3,1,#2171b5
+DNMT3A_p.W860R,stem cells,"['DNMT3A_p.R635W', 'X']",['DNMT3A_p.R635Q'],3,1,#08306b
+X,stem cells,"['DNMT3A_p.R635W', 'DNMT3A_p.W860R']",[],3,1,#9ecae1
+DNMT3A_p.R635Q,DNMT3A_p.W860R,[],[],1,2,#41ab5d

@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],"['DNMT3A_p.E229Kfs*87', 'RUNX1_p.R139X']",0,0,"[100, 100, 94.42, 72.69]",0.0,100.0,#cccccc
+DNMT3A_p.E229Kfs*87,stem cells,['RUNX1_p.R139X'],[],2,1,"[0, 0, 5.58, 9.2]",75.78,9.2,#2171b5
+RUNX1_p.R139X,stem cells,['DNMT3A_p.E229Kfs*87'],[],2,1,"[0, 0, 0, 18.11]",76.73,18.11,#9ecae1

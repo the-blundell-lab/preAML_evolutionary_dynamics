@@ -1,0 +1,5 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],"['TP53_p.C238Y', 'TET2_p.R1516X', 'DNMT3A_p.Q692X']",0,0,"[94.34, 95.92]",0.0,95.92,#cccccc
+TP53_p.C238Y,stem cells,"['TET2_p.R1516X', 'DNMT3A_p.Q692X']",[],3,1,"[2.8, 1.36]",70.72,2.8,#08306b
+TET2_p.R1516X,stem cells,"['TP53_p.C238Y', 'DNMT3A_p.Q692X']",[],3,1,"[2.07, 1.55]",70.72,2.07,#9ecae1
+DNMT3A_p.Q692X,stem cells,"['TP53_p.C238Y', 'TET2_p.R1516X']",[],3,1,"[0.79, 1.17]",70.72,1.17,#2171b5

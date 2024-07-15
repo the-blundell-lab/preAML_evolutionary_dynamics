@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],"['DNMT3A_p.M779Ifs*14', 'TP53_p.L111Q']",0,0,"[21.48, 21.7]",0.0,21.7,#cccccc
+DNMT3A_p.M779Ifs*14,stem cells,['TP53_p.L111Q'],[],2,1,"[42.82, 42.54]",65.55,42.82,#2171b5
+TP53_p.L111Q,stem cells,['DNMT3A_p.M779Ifs*14'],[],2,1,"[35.7, 35.76]",65.55,35.76,#9ecae1
