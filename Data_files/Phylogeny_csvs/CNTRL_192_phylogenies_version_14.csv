@@ -1,0 +1,8 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['X', 'TET2_p.Q1542_Q1548del', 'DNMT3A_p.S714C', 'TET2_p.Q744X', 'DNMT3A_p.C562Y', 'DNMT3A_p.W440X']",0,0,#cccccc
+X,stem cells,"['TET2_p.Q1542_Q1548del', 'DNMT3A_p.S714C']","['TET2_p.Q744X', 'DNMT3A_p.C562Y', 'DNMT3A_p.W440X']",3,1,#2171b5
+TET2_p.Q1542_Q1548del,stem cells,"['X', 'DNMT3A_p.S714C']",[],3,1,#08306b
+DNMT3A_p.S714C,stem cells,"['X', 'TET2_p.Q1542_Q1548del']",[],3,1,#9ecae1
+TET2_p.Q744X,X,"['DNMT3A_p.C562Y', 'DNMT3A_p.W440X']",[],3,2,#00441b
+DNMT3A_p.C562Y,X,"['TET2_p.Q744X', 'DNMT3A_p.W440X']",[],3,2,#238b45
+DNMT3A_p.W440X,X,"['TET2_p.Q744X', 'DNMT3A_p.C562Y']",[],3,2,#a1d99b

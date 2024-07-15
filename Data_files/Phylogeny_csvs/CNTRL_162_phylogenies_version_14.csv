@@ -1,0 +1,6 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['CHEK2_p.K197I', 'STAG2_p.E534V', 'TP53_p.S9C', 'X']",0,0,#cccccc
+CHEK2_p.K197I,stem cells,"['STAG2_p.E534V', 'TP53_p.S9C', 'X']",[],4,1,#08306b
+STAG2_p.E534V,stem cells,"['CHEK2_p.K197I', 'TP53_p.S9C', 'X']",[],4,1,#2171b5
+TP53_p.S9C,stem cells,"['CHEK2_p.K197I', 'STAG2_p.E534V', 'X']",[],4,1,#9ecae1
+X,stem cells,"['CHEK2_p.K197I', 'STAG2_p.E534V', 'TP53_p.S9C']",[],4,1,#deebf7

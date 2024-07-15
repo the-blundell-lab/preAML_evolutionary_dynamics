@@ -1,0 +1,6 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['ASXL1_p.A709T', 'GNB1_p.K57E', 'SRSF2_p.V87M', 'ZRSR2_p.R126X']",0,0,#cccccc
+ASXL1_p.A709T,stem cells,[],"['GNB1_p.K57E', 'SRSF2_p.V87M', 'ZRSR2_p.R126X']",1,1,#6ba3d6
+GNB1_p.K57E,ASXL1_p.A709T,"['SRSF2_p.V87M', 'ZRSR2_p.R126X']",[],3,2,#00441b
+SRSF2_p.V87M,ASXL1_p.A709T,"['GNB1_p.K57E', 'ZRSR2_p.R126X']",[],3,2,#238b45
+ZRSR2_p.R126X,ASXL1_p.A709T,"['GNB1_p.K57E', 'SRSF2_p.V87M']",[],3,2,#a1d99b

@@ -1,0 +1,8 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['DNMT3A_p.R736C', 'JAK2_p.V617F', 'DNMT3A_p.A662D', 'ASXL1_p.R417X', 'chr15q_CNLOH', 'DNMT3A_p.F732I']",0,0,#cccccc
+DNMT3A_p.R736C,stem cells,"['JAK2_p.V617F', 'DNMT3A_p.A662D', 'ASXL1_p.R417X']","['chr15q_CNLOH', 'DNMT3A_p.F732I']",4,1,#08306b
+JAK2_p.V617F,stem cells,"['DNMT3A_p.R736C', 'DNMT3A_p.A662D', 'ASXL1_p.R417X']",[],4,1,#deebf7
+DNMT3A_p.A662D,stem cells,"['DNMT3A_p.R736C', 'JAK2_p.V617F', 'ASXL1_p.R417X']",[],4,1,#2171b5
+ASXL1_p.R417X,stem cells,"['DNMT3A_p.R736C', 'JAK2_p.V617F', 'DNMT3A_p.A662D']",[],4,1,#9ecae1
+chr15q_CNLOH,DNMT3A_p.R736C,[],['DNMT3A_p.F732I'],1,2,#41ab5d
+DNMT3A_p.F732I,chr15q_CNLOH,[],[],1,3,#fd8d3c

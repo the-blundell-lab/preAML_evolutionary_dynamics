@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],"['DNMT3A_p.R882C', 'EZH2_p.R308Q']",0,0,"[90.03, 88.75, 87.61, 90.7, 89.42]",0.0,90.7,#cccccc
+DNMT3A_p.R882C,stem cells,['EZH2_p.R308Q'],[],2,1,"[9.15, 10.62, 11.35, 9.01, 9.26]",65.32,11.35,#2171b5
+EZH2_p.R308Q,stem cells,['DNMT3A_p.R882C'],[],2,1,"[0.82, 0.63, 1.04, 0.29, 1.32]",65.32,1.32,#9ecae1

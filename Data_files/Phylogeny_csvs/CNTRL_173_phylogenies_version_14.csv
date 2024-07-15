@@ -1,0 +1,5 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['RAD21_p.K605Afs*4', 'DNMT3A_p.K841E', 'DNMT3A_p.R771X']",0,0,#cccccc
+RAD21_p.K605Afs*4,stem cells,['DNMT3A_p.K841E'],['DNMT3A_p.R771X'],2,1,#2171b5
+DNMT3A_p.K841E,stem cells,['RAD21_p.K605Afs*4'],[],2,1,#9ecae1
+DNMT3A_p.R771X,RAD21_p.K605Afs*4,[],[],1,2,#41ab5d

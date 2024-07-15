@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],"['CHEK2_p.R521W', 'GNB1_p.R48M']",0,0,"[97.12, 94.88, 96.02, 95.82, 95.86, 93.71, 92.44, 92.15]",0.0,97.12,#cccccc
+CHEK2_p.R521W,stem cells,['GNB1_p.R48M'],[],2,1,"[2.88, 5.12, 3.98, 4.18, 4.14, 6.29, 7.56, 7.15]",71.77,7.56,#2171b5
+GNB1_p.R48M,stem cells,['CHEK2_p.R521W'],[],2,1,"[0, 0, 0, 0, 0, 0, 0, 0.7]",79.92,0.7,#9ecae1

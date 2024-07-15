@@ -1,0 +1,3 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],['TET2_p.N871Cfs*29'],0,0,"[95.88, 93.16, 92.68, 88.24]",0.0,95.88,#cccccc
+TET2_p.N871Cfs*29,stem cells,[],[],1,1,"[4.12, 6.84, 7.32, 11.76]",70.72,11.76,#6ba3d6

@@ -1,0 +1,5 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['X', 'TET2_p.Q80X', 'TET2_p.P267Hfs*26']",0,0,#cccccc
+X,stem cells,['TET2_p.Q80X'],['TET2_p.P267Hfs*26'],2,1,#9ecae1
+TET2_p.Q80X,stem cells,['X'],[],2,1,#2171b5
+TET2_p.P267Hfs*26,X,[],[],1,2,#41ab5d

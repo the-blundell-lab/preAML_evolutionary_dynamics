@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],"['PPM1D_p.S453X', 'EZH2_p.Q415X']",0,0,"[97.68, 97.44, 97.8, 95.86, 96.33, 98.77, 95.68]",0.0,98.77,#cccccc
+PPM1D_p.S453X,stem cells,['EZH2_p.Q415X'],[],2,1,"[1.69, 1.43, 1.27, 2.49, 2.73, 1.23, 3.89]",53.49,3.89,#9ecae1
+EZH2_p.Q415X,stem cells,['PPM1D_p.S453X'],[],2,1,"[0.63, 1.13, 0.93, 1.65, 0.94, 0, 0.43]",53.49,1.65,#2171b5

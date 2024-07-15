@@ -1,0 +1,5 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],"['TET2_p.C1271X', 'DNMT3A_p.Y735C', 'TET2_p.I1873T']",0,0,"[86.65, 85.85, 83.45, 83.87, 86.63, 85.13]",0.0,86.65,#cccccc
+TET2_p.C1271X,stem cells,"['DNMT3A_p.Y735C', 'TET2_p.I1873T']",[],3,1,"[12.16, 12.94, 14.67, 14.71, 11.99, 13.29]",69.51,14.71,#08306b
+DNMT3A_p.Y735C,stem cells,"['TET2_p.C1271X', 'TET2_p.I1873T']",[],3,1,"[0.9, 0.75, 1.36, 0.78, 1.08, 1.58]",69.51,1.58,#2171b5
+TET2_p.I1873T,stem cells,"['TET2_p.C1271X', 'DNMT3A_p.Y735C']",[],3,1,"[0.29, 0.46, 0.52, 0.64, 0.3, 0]",69.51,0.64,#9ecae1

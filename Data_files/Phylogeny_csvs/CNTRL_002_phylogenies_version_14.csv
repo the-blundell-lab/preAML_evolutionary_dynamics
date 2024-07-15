@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['TP53_p.P151S', 'ASXL1_p.L1173S']",0,0,#cccccc
+TP53_p.P151S,stem cells,['ASXL1_p.L1173S'],[],2,1,#9ecae1
+ASXL1_p.L1173S,stem cells,['TP53_p.P151S'],[],2,1,#2171b5

@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],"['TET2_p.P1194R', 'PPM1D_p.Q520X']",0,0,"[98.78, 98.75, 98.67, 98.08, 98.51, 98.67]",0.0,98.78,#cccccc
+TET2_p.P1194R,stem cells,['PPM1D_p.Q520X'],[],2,1,"[0.71, 0.61, 0.71, 1.27, 0.54, 0.71]",67.73,1.27,#2171b5
+PPM1D_p.Q520X,stem cells,['TET2_p.P1194R'],[],2,1,"[0.51, 0.64, 0.62, 0.65, 0.95, 0.62]",67.73,0.95,#9ecae1

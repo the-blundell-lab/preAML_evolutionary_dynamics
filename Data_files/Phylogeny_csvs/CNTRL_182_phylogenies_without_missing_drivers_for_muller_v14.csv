@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],"['DNMT3A_p.A571Sfs*3', 'DNMT3A_p.F751I']",0,0,"[90.03, 87.86, 87.79, 85.57]",0.0,90.03,#cccccc
+DNMT3A_p.A571Sfs*3,stem cells,['DNMT3A_p.F751I'],[],2,1,"[9.18, 11.22, 11.54, 13.64]",64.2,13.64,#9ecae1
+DNMT3A_p.F751I,stem cells,['DNMT3A_p.A571Sfs*3'],[],2,1,"[0.79, 0.92, 0.67, 0.79]",64.2,0.92,#2171b5

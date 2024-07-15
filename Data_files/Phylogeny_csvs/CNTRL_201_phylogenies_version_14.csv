@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['X', 'CHEK2_p.V234Sfs*9']",0,0,#cccccc
+X,stem cells,['CHEK2_p.V234Sfs*9'],[],2,1,#9ecae1
+CHEK2_p.V234Sfs*9,stem cells,['X'],[],2,1,#2171b5

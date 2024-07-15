@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],"['ASXL1_p.Q858X', 'TET2_p.C1263F']",0,0,"[97.4, 98.38, 97.96, 97.28, 96.66, 94.31, 96.67, 94.63]",0.0,98.38,#cccccc
+ASXL1_p.Q858X,stem cells,['TET2_p.C1263F'],[],2,1,"[2.6, 1.62, 1.4, 1.69, 2.02, 3.35, 1.84, 3.44]",57.17,3.44,#2171b5
+TET2_p.C1263F,stem cells,['ASXL1_p.Q858X'],[],2,1,"[0, 0, 0.64, 1.03, 1.32, 2.34, 1.49, 1.93]",59.24,2.34,#9ecae1

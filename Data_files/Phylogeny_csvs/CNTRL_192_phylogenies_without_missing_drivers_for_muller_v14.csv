@@ -1,0 +1,7 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],"['TET2_p.Q1542_Q1548del', 'DNMT3A_p.S714C', 'TET2_p.Q744X', 'DNMT3A_p.C562Y', 'DNMT3A_p.W440X']",0,0,"[85.65, 19.25, 21.94, 16.44, 19.09, 19.73, 18.97]",0.0,85.65,#cccccc
+DNMT3A_p.S714C,stem cells,"['TET2_p.Q1542_Q1548del', 'TET2_p.Q744X', 'DNMT3A_p.C562Y', 'DNMT3A_p.W440X']",[],5,1,"[8.94, 8.55, 8.59, 10.89, 9.28, 8.16, 9.39]",67.93,10.89,#9ecae1
+TET2_p.Q744X,stem cells,"['TET2_p.Q1542_Q1548del', 'DNMT3A_p.S714C', 'DNMT3A_p.C562Y', 'DNMT3A_p.W440X']",[],5,1,"[2.65, 4.01, 4.6, 4.61, 6.6, 7.53, 5.36]",67.93,7.53,#2171b5
+DNMT3A_p.C562Y,stem cells,"['TET2_p.Q1542_Q1548del', 'DNMT3A_p.S714C', 'TET2_p.Q744X', 'DNMT3A_p.W440X']",[],5,1,"[2.06, 1.42, 1.6, 2.16, 2.3, 2.88, 2.61]",67.93,2.88,#2171b5
+DNMT3A_p.W440X,stem cells,"['TET2_p.Q1542_Q1548del', 'DNMT3A_p.S714C', 'TET2_p.Q744X', 'DNMT3A_p.C562Y']",[],5,1,"[0.7, 1.63, 2.03, 1.58, 1.27, 1.56, 2.33]",67.93,2.33,#2171b5
+TET2_p.Q1542_Q1548del,stem cells,"['DNMT3A_p.S714C', 'TET2_p.Q744X', 'DNMT3A_p.C562Y', 'DNMT3A_p.W440X']",[],5,1,"[0, 65.14, 61.24, 64.32, 61.46, 60.14, 61.34]",68.86,65.14,#08306b
