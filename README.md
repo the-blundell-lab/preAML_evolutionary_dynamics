@@ -18,6 +18,7 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
     - Github file: _Figure 3 - Schematic for clonal behaviour.ipynb_
 - **Figures 3d-g**:
     - Github file: _Code_for_inferring_acquisition_age_and_fitness_v14.py_
+          - (Code requires VCF files for each sample, containing total depth information at each position - VCF files too large to deposit on Github).
     - Github file: _Figure 3 - Extended Data Figs - Supplement - Plotting cell fraction trajectories from s and t inferences.ipynb_
     - Github file: _Figure 3 - Extended Data Figs - Supplement - Phylogeny plots.ipynb_ 
     
@@ -43,6 +44,7 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
 
 #### Extended Data Figures 3-9 (Quantitative dynamics of driver mutations in the decades before AML diagnosis):
 - Github file: _Code_for_inferring_acquisition_age_and_fitness_v14.py_
+          - (Code requires VCF files for each sample, containing total depth information at each position - VCF files too large to deposit on Github).
 - Github file: _Figure 3 - Extended Data Figs - Supplement - Plotting cell fraction trajectories from s and t inferences.ipynb_
 - Github file: _Figure 3 - Extended Data Figs - Supplement - Phylogeny plots.ipynb_ 
  
