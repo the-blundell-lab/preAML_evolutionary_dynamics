@@ -84,7 +84,7 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
 - Github folder: _TETRIS-seq performance_
 
 - #### Supplementary Figure 14 (Schematic showing the effect of KMT2A-PTD on exon 3: exon 27 read depth ratios (schematic):
-- Github folder: _TETRIS-seq performance_
+- Github folder: _TETRIS-seq performance/Supplement - KMT2A PTD simulation.ipynb_
 
 - #### Supplementary Figures 15-21 (Reconstruction of clonal evolutionary histories):
 - Github file: _Figure 2 - Supplement - Muller_plots.ipynb_ 
