@@ -30,7 +30,7 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
   
 #### Figure 6 (A unifying framework for pre-leukaemic clonal dynamics):
 - **Figure 2b-e**:
-    - Github folder: _Clonal dynamic simulations_
+    - Github folder: _Clonal dynamic simulations/UKCTOCS_Figure_5_simulations.ipynb_
 - **Figure 2f**:
     - Github folder: _UK Biobank hotspots_
 
@@ -49,7 +49,7 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
 - Github file: _Figure 3 - Extended Data Figs - Supplement - Phylogeny plots.ipynb_ 
  
 #### Extended Data Figure 10 (Simulated pre-AML cases and controls):
-- Github folder: _Clonal dynamic simulations_
+- Github folder: _Clonal dynamic simulations/UKCTOCS_Figure_5_simulations.ipynb_
 
 
 ### Code & data for generation of figures/ analyses in supplement:
@@ -58,24 +58,6 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
     
 #### Supplementary Figure 5 (Custom panel coverage of chromosomal rearrangement breakpoint regions):
 - Github file: _TETRIS-seq targeted regions/Chromosomal rearrangement breakpoint regions targeted by TETRIS-seq.ipynb_
-      
-#### Supplementary Figure 6 (Error-corrected sequencing metrics (SNV/ indel panel)):
-- Github folder: _TETRIS-seq performance_
-      
-#### Supplementary Figure 7 (Expected and observed number of DCS variants):
-- Github folder: _TETRIS-seq performance_
-      
-#### Supplementary Figure 8 (Distribution of sample DCS ‘VAFs’ (error-rates) at example positions):
-- Github folder: _TETRIS-seq performance_
-    
-#### Supplementary Figure 9 (Choosing a p-value threshold for calling real variants):
-- Github folder: _TETRIS-seq performance_
-  
-#### Supplementary Figure 10 (Position specific error distributions across 20 pre-AML and 20 control UKCTOCs samples):
-- Github folder: _TETRIS-seq performance_
-
-#### Supplementary Figure 11 (Distribution of final position-specific error rates, grouped by base change):
-- Github folder: _TETRIS-seq performance_
 
 #### Supplementary Figure 12 (LRR and BAF deviations for mCA detection (schematic):
 - Github file: _TETRIS-seq performance/Supplement - mCA simulations.ipynb_
