@@ -1,5 +1,5 @@
 # Evolutionary dynamics in the decade preceding acute myeloid leukaemia
-This repository contains the code and necessary files to accompany the manuscript **"Evolutionary dynamics in the decade preceding acute myeloid leukaemia"**. Code was written using Python. 
+This repository contains the code to accompany the manuscript **"Evolutionary dynamics in the decade preceding acute myeloid leukaemia"**. Code was written using Python. 
 
 TETRIS-seq code, for analysing the raw sequencing data and processing the duplex output files with the TETRIS-seq _in silico_ noise correction model can be found here: https://github.com/the-blundell-lab/TETRIS-seq
 
