@@ -48,10 +48,10 @@ controlled access (see [Data availability](#data-availability)).
 |---|---|---|
 | Fig.&nbsp;1 | Deep sequencing of serial blood samples in the decades preceding AML | [`Figure_1.ipynb`](Figure_1.ipynb) |
 | Fig.&nbsp;2<br>Supp.&nbsp;Figs.&nbsp;39–46, 57–60 | Reconstruction of clonal evolutionary histories in AML | [`Figure_2.ipynb`](Figure_2.ipynb) |
-| Fig.&nbsp;3a–c | Quantitative dynamics of driver mutations in the decades before AML diagnosis (schematic) | [`Figure_3a-c.ipynb`](Figure_3a-c.ipynb) |
+| Fig.&nbsp;3a–c | Quantitative dynamics of driver mutations (schematic) | [`Figure_3a-c.ipynb`](Figure_3a-c.ipynb) |
 | Fig.&nbsp;3d–g<br>ED&nbsp;Figs.&nbsp;3–9<br>Supp.&nbsp;Figs.&nbsp;48–55 | Measured and inferred cell-fraction trajectories | [`Figure_3d-g.ipynb`](Figure_3d-g.ipynb) |
-| Fig.&nbsp;3d–g<br>ED&nbsp;Figs.&nbsp;3–9<br>Supp.&nbsp;Figs.&nbsp;48–55 | The inferred clonal phylogenies beside them | [`Figure_3d_g_trees.ipynb`](Figure_3d_g_trees.ipynb) |
-| Fig.&nbsp;4<br>Supp.&nbsp;Fig.&nbsp;56 | Fitness and occurrence time estimates of pre-leukaemic driver events | [`Figure_4.ipynb`](Figure_4.ipynb) |
+| Fig.&nbsp;3d–g<br>ED&nbsp;Figs.&nbsp;3–9<br>Supp.&nbsp;Figs.&nbsp;48–55 | Inferred clonal phylogenis | [`Figure_3d_g_trees.ipynb`](Figure_3d_g_trees.ipynb) |
+| Fig.&nbsp;4<br>Supp.&nbsp;Fig.&nbsp;56 | Fitness and occurrence time estimates of driver events across all cases or controls | [`Figure_4.ipynb`](Figure_4.ipynb) |
 | Fig.&nbsp;5b–e | A unifying framework for pre-leukaemic clonal dynamics (simulated panels) | [`Figure_5b_e.ipynb`](Figure_5b_e.ipynb) |
 | Fig.&nbsp;5f | The same plot for CH hotspot variants in UK Biobank | [`Figure_5f.ipynb`](Figure_5f.ipynb) |
 | Extended&nbsp;Data Fig.&nbsp;1 | Longitudinal blood samples pre-AML diagnosis | [`Extended_Data_Figure_1.ipynb`](Extended_Data_Figure_1.ipynb) |
