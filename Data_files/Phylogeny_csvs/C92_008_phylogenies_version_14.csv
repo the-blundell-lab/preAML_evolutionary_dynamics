@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['TET2_p.G1361V', 'X']",0,0,#cccccc
+TET2_p.G1361V,stem cells,['X'],[],2,1,#9ecae1
+X,stem cells,['TET2_p.G1361V'],[],2,1,#2171b5

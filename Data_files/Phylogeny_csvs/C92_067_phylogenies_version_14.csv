@@ -1,0 +1,6 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['X', 'TP53_p.C238Y', 'TET2_p.R1516X', 'DNMT3A_p.Q692X']",0,0,#cccccc
+X,stem cells,"['TP53_p.C238Y', 'TET2_p.R1516X']",['DNMT3A_p.Q692X'],3,1,#2171b5
+TP53_p.C238Y,stem cells,"['X', 'TET2_p.R1516X']",[],3,1,#08306b
+TET2_p.R1516X,stem cells,"['X', 'TP53_p.C238Y']",[],3,1,#9ecae1
+DNMT3A_p.Q692X,X,[],[],1,2,#41ab5d

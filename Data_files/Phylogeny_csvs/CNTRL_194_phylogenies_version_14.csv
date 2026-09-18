@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['CHEK2_p.R521W', 'GNB1_p.R48M']",0,0,#cccccc
+CHEK2_p.R521W,stem cells,['GNB1_p.R48M'],[],2,1,#2171b5
+GNB1_p.R48M,stem cells,['CHEK2_p.R521W'],[],2,1,#9ecae1

@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['DNMT3A_p.C583S', 'DNMT3A_p.R882H']",0,0,#cccccc
+DNMT3A_p.C583S,stem cells,['DNMT3A_p.R882H'],[],2,1,#2171b5
+DNMT3A_p.R882H,stem cells,['DNMT3A_p.C583S'],[],2,1,#9ecae1

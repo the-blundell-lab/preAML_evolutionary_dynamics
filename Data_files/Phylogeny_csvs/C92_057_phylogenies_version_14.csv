@@ -1,0 +1,5 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['DNMT3A_p.V636M', 'MPL_p.L604Q', 'X']",0,0,#cccccc
+DNMT3A_p.V636M,stem cells,"['MPL_p.L604Q', 'X']",[],3,1,#9ecae1
+MPL_p.L604Q,stem cells,"['DNMT3A_p.V636M', 'X']",[],3,1,#08306b
+X,stem cells,"['DNMT3A_p.V636M', 'MPL_p.L604Q']",[],3,1,#2171b5

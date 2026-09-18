@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['DNMT3A_p.R326C', 'IDH2_p.R140Q']",0,0,#cccccc
+DNMT3A_p.R326C,stem cells,[],['IDH2_p.R140Q'],1,1,#6ba3d6
+IDH2_p.R140Q,DNMT3A_p.R326C,[],[],1,2,#41ab5d

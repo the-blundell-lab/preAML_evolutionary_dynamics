@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['PPM1D_p.S453X', 'EZH2_p.Q415X']",0,0,#cccccc
+PPM1D_p.S453X,stem cells,['EZH2_p.Q415X'],[],2,1,#9ecae1
+EZH2_p.Q415X,stem cells,['PPM1D_p.S453X'],[],2,1,#2171b5

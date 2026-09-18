@@ -1,0 +1,5 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['X', 'TET2_p.E1874X', 'CBL_p.F434S']",0,0,#cccccc
+X,stem cells,"['TET2_p.E1874X', 'CBL_p.F434S']",[],3,1,#2171b5
+TET2_p.E1874X,stem cells,"['X', 'CBL_p.F434S']",[],3,1,#08306b
+CBL_p.F434S,stem cells,"['X', 'TET2_p.E1874X']",[],3,1,#9ecae1

@@ -1,0 +1,10 @@
+CDS Mutation,AA Mutation,AA residue,counts,mutation type
+c.1124T>C,p.L375P,375,3,Missense
+c.2331T>C,p.S777=,777,3,Synonymous
+c.4186G>A,p.D1396N,1396,9,Missense
+c.5604G>A,p.W1868*,1868,1,Nonsense
+c.5718G>A,p.W1906*,1906,1,Nonsense
+c.5727G>A,p.W1909*,1909,1,Nonsense
+c.7270C>A,p.P2424T,2424,1,Missense
+c.7384C>A,p.P2462T,2462,1,Missense
+c.7393C>A,p.P2465T,2465,1,Missense

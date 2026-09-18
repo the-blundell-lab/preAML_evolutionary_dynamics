@@ -1,0 +1,4 @@
+Timepoint	chromosome	mCA	cell fraction
+C92_062_s1	chr4	4q CNLOH	0.84688
+C92_062_s2	chr4	4q CNLOH	0.89307
+C92_062_s3	chr4	4q CNLOH	0.92509

@@ -1,0 +1,6 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['SF3B1_p.K666T', 'TP53_p.V216M', 'CBL_p.C396R', 'U2AF1_p.Q157R']",0,0,#cccccc
+SF3B1_p.K666T,stem cells,['TP53_p.V216M'],['CBL_p.C396R'],2,1,#2171b5
+TP53_p.V216M,stem cells,['SF3B1_p.K666T'],['U2AF1_p.Q157R'],2,1,#9ecae1
+CBL_p.C396R,SF3B1_p.K666T,[],[],1,2,#006d2c
+U2AF1_p.Q157R,TP53_p.V216M,[],[],1,2,#74c476

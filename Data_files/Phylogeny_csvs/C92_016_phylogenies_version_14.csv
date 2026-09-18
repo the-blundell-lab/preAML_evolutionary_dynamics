@@ -1,0 +1,6 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['DNMT3A_p.G699D', 'NPM1_p.W288Cfs*12', 'WT1_p.V384Dfs*8', 'FLT3_ITD']",0,0,#cccccc
+DNMT3A_p.G699D,stem cells,['NPM1_p.W288Cfs*12'],[],2,1,#2171b5
+NPM1_p.W288Cfs*12,stem cells,['DNMT3A_p.G699D'],"['WT1_p.V384Dfs*8', 'FLT3_ITD']",2,1,#9ecae1
+WT1_p.V384Dfs*8,NPM1_p.W288Cfs*12,[],['FLT3_ITD'],1,2,#41ab5d
+FLT3_ITD,WT1_p.V384Dfs*8,[],[],1,3,#fd8d3c

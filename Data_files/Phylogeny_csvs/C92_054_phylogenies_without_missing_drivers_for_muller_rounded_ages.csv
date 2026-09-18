@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],"['DNMT3A_p.R882C', 'RUNX1_p.A443T']",0,0,"[65.5, 64.94, 54.84]",0,65.5,#cccccc
+DNMT3A_p.R882C,stem cells,[],['RUNX1_p.A443T'],1,1,"[34.5, 35.06, 28.069999999999997]",68,35.06,#6ba3d6
+RUNX1_p.A443T,DNMT3A_p.R882C,[],[],1,2,"[0, 0, 17.09]",72,17.09,#41ab5d

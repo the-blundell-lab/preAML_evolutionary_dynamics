@@ -1,0 +1,175 @@
+CDS Mutation,,AA Mutation,AA residue,counts,variant details
+c.24G>T,,p.W8C,8,1,Missense
+c.65C>T,,p.T22I,22,1,Missense
+c.101C>T,,p.P34L,34,1,Missense
+c.146G>A,,p.R49H,49,1,Missense
+c.154G>A,,p.D52N,52,1,Missense
+c.590C>T,,p.S197L,197,1,Missense
+c.794G>A,,p.G265D,265,1,Missense
+c.1195G>A,,p.V399I,399,1,Missense
+c.1246_1261delinsTGGGGAAAGT,,p.L416_L421delinsWGKF,416,1,Complex
+c.1248_1250del,,p.T417del,417,1,Deletion Inframe
+c.1248_1255delinsAT,,p.T417_D419delinsY,417,1,Complex
+c.1248_1255delinsCT,,p.T417_D419delinsY,417,2,Complex
+c.1248_1255delinsTT,,p.T417_D419delinsY,417,1,Complex
+c.1248_1256delinsTCT,,p.T417_D419delinsL,417,1,Complex
+c.1248_1256delinsTTTCGG,,p.T417_D419delinsFG,417,1,Complex
+c.1248del,,p.T417Lfs*6,417,1,Deletion Frameshift
+c.1249_1250delinsGA,,p.T417D,417,1,Missense
+c.1249_1254delinsTTTCGATTG,,p.T417_Y418delinsFRL,417,1,Complex
+c.1249_1256del,,p.T417Qfs*28,417,1,Deletion Inframe
+c.1249_1256delinsCGAAC,,p.T417_D419delinsRT,417,1,Complex
+c.1249_1256delinsTC,,p.T417_D419delinsS,417,1,Complex
+c.1249_1256delinsTT,,p.T417_D419delinsF,417,3,Complex
+c.1249_1257delinsGTG,,p.T417_D419delinsV,417,1,Complex
+c.1249_1264delinsTCGAGGATCT,,p.T417_V422delinsSRIL,417,1,Complex
+c.1250_1252del,,p.T417_Y418delinsN,417,1,Deletion Inframe
+c.1250_1255del,,p.T417_D419delinsN,417,1,Deletion Inframe
+c.1250_1256delinsAGAC,,p.T417_D419delinsKT,417,1,Complex
+c.1250_1256delinsG,,p.T417_D419delinsS,417,1,Complex
+c.1250_1256delinsGAGG,,p.T417_D419delinsRG,417,1,Complex
+c.1250_1256delinsT,,p.T417_D419delinsI,417,4,Complex
+c.1250_1257del,,p.T417Kfs*28,417,1,Deletion Frameshift
+c.1250_1257delinsAT,,p.T417_D419delinsN,417,1,Complex
+c.1250_1257delinsGGGGG,,p.T417_D419delinsRG,417,1,Complex
+c.1250_1257delinsTA,,p.T417_D419delinsI,417,1,Complex
+c.1250_1257delinsTG,,p.T417_D419delinsM,417,1,Complex
+c.1250_1258delinsTAC,,p.T417_D419delinsI,417,1,Complex
+c.1250_1258delinsTGC,,p.T417_D419delinsM,417,1,Complex
+c.?,,p.T417_D419>IP,417,1,Uknown
+c.?,,p.T417_D419>NG,417,1,Uknown
+c.?,,p.T417_D419>RA,417,1,Uknown
+c.?,,p.T417_D419>W,417,1,Uknown
+c.?,,p.T417_D419delinsF,417,1,Complex
+c.?,,p.T417_D419delinsI,417,2,Complex
+c.?,,p.T417_D419delinsRG,417,1,Complex
+c.?,,p.T417_D419delinsS,417,1,Complex
+c.?,,p.T417_D419delinsY,417,3,Complex
+c.?,,p.T417_R420>HG,417,1,Uknown
+c.?,,p.T417_Y418>H,417,1,Uknown
+c.?,,p.T417_Y418del,417,2,Deletion Inframe
+c.1251_1256delinsAGC,,p.Y418_D419delinsA,418,1,Complex
+c.1251_1256delinsCGG,,p.Y418_D419delinsG,418,1,Complex
+c.1251_1256delinsGGG,,p.Y418_D419delinsG,418,2,Complex
+c.1251_1256delinsGTC,,p.Y418_D419delinsS,418,1,Complex
+c.1251_1257del,,p.Y418Gfs*3,418,3,Deletion Frameshift
+c.1251_1258delinsCCGCT,,p.Y418_R420delinsRW,418,1,Complex
+c.1251_1259delinsAGT,,p.Y418_R420delinsV,418,1,Complex
+c.1252_1253del,,p.Y418Rfs*29,418,1,Deletion Frameshift
+c.1252_1256delinsGG,,p.Y418_D419delinsG,418,4,Complex
+c.1252_1257del,,p.Y418_D419del,418,2,Deletion Inframe
+c.1252_1262del,,p.Y418Rfs*26,418,1,Deletion Frameshift
+c.1252_1262delinsATGCG,,p.Y418_L421delinsMR,418,1,Complex
+c.1253A>C,,p.Y418S,418,1,Missense
+c.1253A>T,,p.Y418F,418,1,Missense
+c.1253_1254insGGTGGGA,,p.Y418*,418,1,Nonsense
+c.1253_1257delinsCA,,p.Y418_D419delinsS,418,1,Complex
+c.1253_1258delinsCCT,,p.Y418_R420delinsSW,418,1,Complex
+c.1253_1258delinsCGC,,p.Y418_D419delinsS,418,1,Complex
+c.1253_1262delinsCCTGGGG,,p.Y418_L421delinsSWG,418,1,Complex
+c.1254C>A,,p.Y418*,418,1,Nonsense
+c.1254C>G,,p.Y418*,418,2,Nonsense
+c.1254_1255insTTCCTC,,p.Y418_D419insFL,418,1,Insertion Inframe
+c.1254_1255insTTCCTG,,p.Y418_D419insFL,418,1,Insertion Inframe
+c.1254_1255insTTCTTC,,p.Y418_D419insFF,418,6,Insertion Inframe
+c.1254_1255insTTCTTT,,p.Y418_D419insFF,418,1,Insertion Inframe
+c.1254_1255insTTTTTC,,p.Y418_D419insFF,418,4,Insertion Inframe
+c.?,,p.Y418>GFF,418,1,Uknown
+c.?,,p.Y418N,418,2,Missense
+c.?,,p.Y418_D419delinsG,418,3,Complex
+c.?,,p.Y418_D419delinsS,418,1,Complex
+c.?,,p.Y418_D419insFF,418,2,Insertion Inframe
+c.1255G>C,,p.D419H,419,1,Missense
+c.1255_1257del,,p.D419del,419,26,Deletion Inframe
+c.1255_1258delinsC,,p.D419del,419,1,Deletion Inframe
+c.1255_1258delinsTCCTCCGACG,,p.D419_R420delinsSSDG,419,1,Complex
+c.1255_1260del,,p.D419_R420del,419,3,Deletion Inframe
+c.1255_1261delinsT,,p.D419_L421delinsF,419,1,Complex
+c.1255_1262delinsCA,,p.D419_L421delinsH,419,1,Complex
+c.1255del,,p.D419Tfs*4,419,1,Deletion Frameshift
+c.1256A>C,,p.D419A,419,1,Missense
+c.1256A>G,,p.D419G,419,4,Missense
+c.1256_1257insAC,,p.D419Efs*5,419,1,Insertion Frameshift
+c.1257_1258insTTCCTC,,p.D419_R420insFL,419,1,Insertion Inframe
+c.1257_1258insTTTTTC,,p.D419_R420insFF,419,1,Insertion Inframe
+c.?,,p.D419_L421>VHV,419,1,Uknown
+c.?,,p.D419_V422>WSL,419,1,Uknown
+c.?,,p.D419del,419,9,Deletion Inframe
+c.1256_1257insTTTTCGA,,p.R420Ffs*30,420,1,Insertion Frameshift
+c.1258A>T,,p.R420W,420,1,Missense
+c.1259G>A,,p.R420K,420,1,Missense
+c.1261C>T,,p.L421F,421,1,Missense
+c.1262T>A,,p.L421H,421,1,Missense
+c.1460G>A,,p.G487D,487,1,Missense
+c.1493G>A,,p.G498D,498,1,Missense
+c.1506_1520dup,,p.Y503_A507dup,503,1,Insertion Inframe
+c.1508A>T,,p.Y503F,503,1,Missense
+c.1526A>T,,p.K509I,509,2,Missense
+c.1535A>G,,p.N512S,512,1,Missense
+c.1594_1595insGGTTCG,,p.I531_V532insGF,531,1,Insertion Inframe
+c.1598C>A,,p.A533D,533,1,Missense
+c.?,,p.V540L,540,1,Missense
+c.1621A>C,,p.M541L,541,3,Missense
+c.1638A>G,,p.K546=,546,2,Synonymous
+c.1655T>C,,p.M552T,552,1,Missense
+c.1669T>C,,p.W557R,557,1,Missense
+c.1669T>G,,p.W557G,557,1,Missense
+c.1669_1674del,,p.W557_K558del,557,2,Deletion Inframe
+c.1670_1671insCTC,,p.W557delinsCS,557,1,Complex
+c.1673A>G,,p.K558R,558,1,Missense
+c.1673_1674insCGTTGAGGG,,p.K558delinsNVEG,558,1,Complex
+c.1674_1678delinsTCCCCTTC,,p.K558_V560delinsNPLL,558,1,Complex
+c.1679T>A,,p.V560D,560,1,Missense
+c.1712_1741dup,,p.I571_H580dup,571,1,Insertion Inframe
+c.1714_1715insGGGAAG,,p.I571_D572insGE,571,1,Insertion Inframe
+c.?,,p.I571_D572ins14,571,1,Insertion Inframe
+c.1717_1755dup,,p.P573_P585dup,573,1,Insertion Inframe
+c.?,,p.Q575_L576ins17,575,1,Insertion Inframe
+c.1727T>C,,p.L576P,576,1,Missense
+c.1727T>G,,p.L576R,576,1,Missense
+c.1728_1729insGAGGAA,,p.L576_P577insEE,576,1,Insertion Inframe
+c.1752_1753insATAGACCCAACACAACTTCCTTATGATCACAAATGGGAGTTTCGG,,p.F584_P585insIDPTQLPYDHKWEFR,584,1,Insertion Inframe
+c.1757_1758insTGACATAGACCCAACACAACTTCCTTATGATCACAAATGGGAGTTTCCCAG,,p.P585_R586insSDIDPTQLPYDHKWEFP,585,1,Insertion Inframe
+c.?,,p.L589_S590ins16,589,1,Insertion Inframe
+c.1775_1776insTCACTTCCCTGAACTTCCTTATGATCACAAATGGGAGTTTCCCAGAAACAGGCTGAGTTTTGG,,p.G592_K593insHFPELPYDHKWEFPRNRLSFG,592,1,Insertion Inframe
+c.1849G>A,,p.A617T,617,1,Missense
+c.1854G>A,,p.M618I,618,1,Missense
+c.1879C>A,,p.P627T,627,1,Missense
+c.1900C>T,,p.R634W,634,1,Missense
+c.?,,p.R634W,634,1,Missense
+c.1965T>A,,p.N655K,655,1,Missense
+c.2243T>C,,p.I748T,748,1,Missense
+c.2263G>A,,p.A755T,755,1,Missense
+c.2411G>A,,p.R804Q,804,1,Missense
+c.2413A>T,,p.I805F,805,1,Missense
+c.?,,p.L813_A814insSLL,813,1,Insertion Inframe
+c.?,,p.A814S,814,1,Missense
+c.2445_2449delinsGTTAC,,p.D816_I817delinsLL,816,1,Complex
+c.2446G>C,,p.D816H,816,38,Missense
+c.2446G>T,,p.D816Y,816,49,Missense
+c.2446_2447delinsAT,,p.D816I,816,1,Missense
+c.2446_2448delinsCAT,,p.D816H,816,1,Missense
+c.2447A>C,,p.D816A,816,1,Missense
+c.2447A>T,,p.D816V,816,153,Missense
+c.2447_2448delinsTCGTTGCA,,p.D816delinsVVA,816,1,Complex
+c.?,,p.D816H,816,12,Missense
+c.?,,p.D816I,816,1,Missense
+c.?,,p.D816V,816,109,Missense
+c.?,,p.D816X,816,24,Missense
+c.?,,p.D816Y,816,25,Missense
+c.2458G>T,,p.D820Y,820,2,Missense
+c.2459A>G,,p.D820G,820,3,Missense
+c.?,,p.S821_N822>GY,821,1,Uknown
+c.2464A>T,,p.N822Y,822,2,Missense
+c.2466T>A,,p.N822K,822,17,Missense
+c.2466T>G,,p.N822K,822,29,Missense
+c.?,,p.N822K,822,60,Missense
+c.?,,p.N822T,822,1,Missense
+c.?,,p.N822Y,822,1,Missense
+c.2467T>G,,p.Y823D,823,1,Missense
+c.2468A>G,,p.Y823C,823,1,Missense
+c.?,,p.Y823D,823,1,Missense
+c.2473G>A,,p.V825I,825,1,Missense
+c.2474T>C,,p.V825A,825,1,Missense
+c.2509G>A,,p.A837T,837,1,Missense
+c.2586G>C,,p.L862=,862,3,Synonymous

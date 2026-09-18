@@ -1,0 +1,6 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['JAK2_p.V617F', 'DNMT3A_p.R882H', 'TET2_p.Y1560*', 'TET2_p.Q958Tfs*14']",0,0,#cccccc
+JAK2_p.V617F,stem cells,['DNMT3A_p.R882H'],[],2,1,#9ecae1
+DNMT3A_p.R882H,stem cells,['JAK2_p.V617F'],"['TET2_p.Y1560*', 'TET2_p.Q958Tfs*14']",2,1,#2171b5
+TET2_p.Y1560*,DNMT3A_p.R882H,[],['TET2_p.Q958Tfs*14'],1,2,#41ab5d
+TET2_p.Q958Tfs*14,TET2_p.Y1560*,[],[],1,3,#fd8d3c

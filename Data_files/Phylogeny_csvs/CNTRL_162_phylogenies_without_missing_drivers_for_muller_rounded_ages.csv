@@ -1,0 +1,3 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],['CHEK2_p.K197I'],0,0,"[96.03, 100, 97.24, 97.53, 98.28]",0,100,#cccccc
+CHEK2_p.K197I,stem cells,[],[],1,1,"[3.97, 0, 2.76, 2.47, 1.72]",62,3.97,#2171b5

@@ -1,0 +1,8 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['JAK2_p.V617F', 'TET2_p.Q1903X', 'TET2_p.Q1537X', 'ASXL1_p.K909X', 'TP53_p.G244S', 'TP53_p.N239*']",0,0,#cccccc
+JAK2_p.V617F,stem cells,[],"['TET2_p.Q1903X', 'TET2_p.Q1537X', 'ASXL1_p.K909X', 'TP53_p.G244S', 'TP53_p.N239*']",1,1,#6ba3d6
+TET2_p.Q1903X,JAK2_p.V617F,"['TET2_p.Q1537X', 'ASXL1_p.K909X']","['TP53_p.G244S', 'TP53_p.N239*']",3,2,#00441b
+TET2_p.Q1537X,JAK2_p.V617F,"['TET2_p.Q1903X', 'ASXL1_p.K909X']",[],3,2,#238b45
+ASXL1_p.K909X,JAK2_p.V617F,"['TET2_p.Q1903X', 'TET2_p.Q1537X']",[],3,2,#a1d99b
+TP53_p.G244S,TET2_p.Q1903X,[],['TP53_p.N239*'],1,3,#fd8d3c
+TP53_p.N239*,TP53_p.G244S,[],[],1,4,#da2b2b

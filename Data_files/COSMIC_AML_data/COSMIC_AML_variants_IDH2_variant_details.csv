@@ -1,0 +1,24 @@
+Gene Name,example CDS Mutation,AA Mutation,AA residue,counts,variant type
+IDH2,c.512G>A,p.G171D,171,3,Substitution_Missense
+IDH2,c.568G>A,p.G190S,190,1,Substitution_Missense
+IDH2,c.517C>G,p.H173D,173,1,Substitution_Missense
+IDH2,c.518A>T,p.H173L,173,1,Substitution_Missense
+IDH2,c.518A>C,p.H173P,173,1,Substitution_Missense
+IDH2,c.407A>G,p.N136S,136,1,Substitution_Missense
+IDH2,c.418C>G,p.R140G,140,4,Substitution_Missense
+IDH2,c.419G>T,p.R140L,140,17,Substitution_Missense
+IDH2,c.419G>A,p.R140Q,140,1027,Substitution_Missense
+IDH2,c.418C>T,p.R140W,140,16,Substitution_Missense
+IDH2,c.?,p.R140X,140,12,Substitution_Missense
+IDH2,c.515_516insT,p.R172fs*100,172,1,Insertion_Frameshift
+IDH2,c.515G>A,p.R172K,172,294,Substitution_Missense
+IDH2,c.?,p.R172L,172,2,Substitution_Missense
+IDH2,c.?,p.R172M,172,2,Substitution_Missense
+IDH2,c.516G>T,p.R172S,172,4,Substitution_Missense
+IDH2,c.514A>T,p.R172W,172,2,Substitution_Missense
+IDH2,c.782G>A,p.R261H,261,1,Substitution_Missense
+IDH2,c.996C>T,p.S332S,332,12,Substitution_Synonymous
+IDH2,c.993G>A,p.T331T,331,4,Substitution_Synonymous
+IDH2,c.1050C>T,p.T350T,350,3,Substitution_Synonymous
+IDH2,c.1054A>C,p.T352P,352,1,Substitution_Missense
+IDH2,c.1304C>T,p.T435M,435,1,Substitution_Missense

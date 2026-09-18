@@ -1,0 +1,5 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['TET2_p.C1271X', 'DNMT3A_p.Y735C', 'TET2_p.I1873T']",0,0,#cccccc
+TET2_p.C1271X,stem cells,"['DNMT3A_p.Y735C', 'TET2_p.I1873T']",[],3,1,#08306b
+DNMT3A_p.Y735C,stem cells,"['TET2_p.C1271X', 'TET2_p.I1873T']",[],3,1,#2171b5
+TET2_p.I1873T,stem cells,"['TET2_p.C1271X', 'DNMT3A_p.Y735C']",[],3,1,#9ecae1

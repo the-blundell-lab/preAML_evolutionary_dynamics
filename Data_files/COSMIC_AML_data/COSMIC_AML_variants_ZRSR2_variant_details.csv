@@ -1,0 +1,30 @@
+CDS Mutation,,AA Mutation,AA residue,counts,Mutation type
+c.1030A>G,,p.R344G,344,1,Missense
+c.1046del,,p.S349Ffs*?,349,1,Deletion Frameshift
+c.106C>T,,p.R36*,36,2,Nonsense
+c.1135G>T,,p.G379*,379,1,Nonsense
+c.1148del,,p.P383Lfs*?,383,1,Deletion Frameshift
+c.1167del,,p.Y389*,389,1,Deletion Frameshift
+c.1168A>G,,p.K390E,390,1,Missense
+c.1204C>T,,p.H402Y,402,1,Missense
+c.1238del,,p.K413Rfs*?,413,1,Deletion Frameshift
+c.1281G>T,,p.R427S,427,1,Missense
+c.1354C>T,,p.R452C,452,3,Missense
+c.144G>T,,p.E48D,48,2,Missense
+c.169C>T,,p.Q57*,57,2,Nonsense
+c.175G>A,,p.E59K,59,2,Missense
+c.358_359del,,p.E120Rfs*24,120,1,Deletion Frameshift
+c.398_399del,,p.E133Gfs*11,133,1,Deletion Frameshift
+c.399G>T,,p.E133D,133,1,Missense
+c.407del,,p.L136Cfs*29,136,1,Deletion Frameshift
+c.460C>T,,p.Q154*,154,1,Nonsense
+c.544_545insCAGGAGC,,p.R182Tfs*7,182,1,Insertion Frameshift
+c.549del,,p.F183Lfs*55,183,1,Deletion Frameshift
+c.560G>A,,p.C187Y,187,1,Missense
+c.637C>T,,p.Q213*,213,1,Nonsense
+c.803G>A,,p.G268D,268,1,Missense
+c.838T>C,,p.C280R,280,1,Missense
+c.841C>T,,p.Q281*,281,1,Nonsense
+c.883C>T,,p.R295*,295,1,Nonsense
+c.916C>T,,p.R306W,306,1,Missense
+c.920G>A,,p.W307*,307,1,Nonsense

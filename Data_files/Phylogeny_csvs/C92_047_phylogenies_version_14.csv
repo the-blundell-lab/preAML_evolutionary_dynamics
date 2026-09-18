@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['DNMT3A_p.E229Kfs*87', 'RUNX1_p.R139X']",0,0,#cccccc
+DNMT3A_p.E229Kfs*87,stem cells,['RUNX1_p.R139X'],[],2,1,#2171b5
+RUNX1_p.R139X,stem cells,['DNMT3A_p.E229Kfs*87'],[],2,1,#9ecae1

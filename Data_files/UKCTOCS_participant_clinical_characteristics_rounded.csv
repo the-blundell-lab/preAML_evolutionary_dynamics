@@ -1,0 +1,96 @@
+Sample ID,Case or control,Age at AML diagnosis (years),"Other haematological malignancy 
+(timing relative to AML diagnosis)","Other cancer diagnosis 
+(timing relative to AML diagnosis; treatment)",Timing of any chemotherapy pre-AML diagnosis (indication),Outcome (for cases),Survival interval from AML diagnosis,Smoking (pack years),Matched case/ control ID
+C92_002,CASE,81,MDS (2 months before),Colon (12-18 months before; surgery),,Deceased (AML-related),² 1 month,Unknown,CNTRL_169
+C92_003,CASE,75,,,,Deceased (AML-related),2-3 years,Unknown,CNTRL_002
+C92_005,CASE,70,,,,Deceased (AML-related),1-2 years,0,CNTRL_001
+C92_007,CASE,80,,Bladder (18 months before; surgery),,Deceased (AML-related),3-6 months,230,CNTRL_004
+C92_008,CASE,71,,,,Deceased (AML-related),6-12 months,48,CNTRL_161
+C92_009,CASE,75,MDS (1 month before),,,Deceased (AML-related),3-6 months,175,CNTRL_005
+C92_011,CASE,75,DLBCL (concurrent),,,Deceased (AML- and DLBCL-related),² 1 month,500,CNTRL_179
+C92_012,CASE,68,MDS (2 weeks before),,,Deceased (AML-related),1-3 months,125,CNTRL_196
+C92_015,CASE,65,MDS (10 months before),"Lung, NSCLC (4-5 years before; chemotherapy)",4 years before (Non-small cell lung cancer),"Deceased (AML-related, lung cancer contributory)",1-2 years,135,CNTRL_172
+C92_016,CASE,58,,,,Deceased (AML-related),6-12 months,0,CNTRL_188
+C92_018,CASE,74,,,,Deceased (AML-related),3-6 months,175,CNTRL_003
+C92_019,CASE,83,,Breast (13 years before; surgery),,Deceased (AML-related),2-3 years,0,CNTRL_194
+C92_022,CASE,66,"MPN (3-4 years before), MF (3 months before)",,,Deceased (AML-related),6-12 months,0.5,CNTRL_181
+C92_023,CASE,68,CMML (12 months after),Breast (1 month after; treatment unknown),,"Deceased (AML, breast cancer contributory)",2-5 years,300,CNTRL_199
+C92_024,CASE,65,,,,Deceased (AML-related),6-12 months,0,CNTRL_160
+C92_032,CASE,74,,Breast (3-4 years before; treatment unknown),,Deceased (AML-related),6-12 months,0,CNTRL_170
+C92_033,CASE,76,,"Skin, non-melanoma (>20 years before)",,Deceased (AML-related),3-6 months,0,CNTRL_192
+C92_034,CASE,78,,,,Deceased (AML-related),² 1 month,0,CNTRL_191
+C92_036,CASE,71,,Breast (9-10 years before; treatment unknown),,Deceased (AML-related),² 1 month,0,CNTRL_204
+C92_041,CASE,76,CMML (concurrent),,,Deceased (AML-related),6-12 months,Unknown,CNTRL_164
+C92_042,CASE,81,,,,Deceased (AML-related),6-12 months,0,CNTRL_185
+C92_043,CASE,69,MDS (concurrent),,,Deceased (AML-related),1-2 years,15,CNTRL_163
+C92_044,CASE,64,NHL (2 weeks before),,,Deceased (NHL-related),1-3 months,75,CNTRL_165
+C92_045,CASE,76,,,,Deceased (AML-related),² 1 month,37.5,CNTRL_197
+C92_047,CASE,77,MDS (1 week before),,,Deceased (AML-related),1-3 months,300,CNTRL_166
+C92_048,CASE,75,MDS (2 months after),Colon (2 months after; surgery),,Deceased (AML- and carcinomatosis related),2-5 years,100,CNTRL_202
+C92_049,CASE,65,,"Breast (9 years before; surgery), Skin, non-melanoma (1 year before)",,Deceased (AML-related),² 1 month,Unknown,CNTRL_177
+C92_050,CASE,77,,"Skin, unspecified (2 -3 years before; treatment unknown)",,Deceased (AML-related),² 1 month,0,CNTRL_190
+C92_052,CASE,67,MDS (12-18 months before),,,Deceased (AML-related),² 1 month,Unknown,CNTRL_162
+C92_053,CASE,72,ET (9 months before),,,Deceased (AML-related),² 1 month,150,CNTRL_203
+C92_054,CASE,72,,,,Deceased (AML-related),1-3 months,0,CNTRL_189
+C92_055,CASE,53,,,,Alive at last follow-up,,Unknown,CNTRL_174
+C92_056,CASE,73,,,,Deceased (AML-related),3-6 months,Unknown,CNTRL_186
+C92_057,CASE,75,,,,Deceased (AML-related),1-2 years,0,CNTRL_168
+C92_058,CASE,68,MDS (4-5 years after),,,Deceased (AML-related),> 5 years,65,CNTRL_182
+C92_061,CASE,74,,,,Deceased (AML-related),² 1 month,0,CNTRL_180
+C92_062,CASE,72,,Breast (2-3 years before; surgery),,Deceased (AML-related),² 1 month,Unknown,CNTRL_175
+C92_063,CASE,58,,,,"Deceased (CTEPH, AML contributory)",> 5 years,Unknown,CNTRL_195
+C92_064,CASE,70,,,,Deceased (AML-related),² 1 month,0,CNTRL_173
+C92_065,CASE,72,,,,Deceased (AML-related),3-4 years,64,CNTRL_200
+C92_066,CASE,67,,,,Deceased (AML-related),6-12 months,Unknown,CNTRL_193
+C92_067,CASE,78,,Brain (6-7 years before; surgery and later chemotherapy),3-4 years before (Brain tumour),Deceased (AML-related),² 1 month,Unknown,CNTRL_171
+C92_068,CASE,67,Myeloma (3 years before),,"2-3 years before (Myeloma chemo), 1 month before (Bone marrow transplant)","Deceased (Myeloma, AML contributory)",² 1 month,Unknown,CNTRL_187
+C92_070,CASE,72,"Myeloma (4-5 years before), MDS (6 weeks before)",,3-4 years before (Myeloma chemo & Bone marrow transplant),Deceased (AML-related),6-12 months,Unknown,Control excluded due to subsequent MDS
+C92_072,CASE,74,,,,Deceased (AML-related),2-5 years,Unknown,CNTRL_198
+C92_086,CASE,70,,,,Alive at last follow-up,,600,CNTRL_184
+C92_090,CASE,66,,,,Deceased (AML-related),² 1 month,0,CNTRL_167
+CNTRL_001,CONTROL,,,,,,,175,C92_005
+CNTRL_002,CONTROL,,,,,,,210,C92_003
+CNTRL_003,CONTROL,,,,,,,115,C92_018
+CNTRL_004,CONTROL,,,,,,,0,C92_007
+CNTRL_005,CONTROL,,,,,,,0,C92_009
+CNTRL_160,CONTROL,,,,,,,Unknown,C92_024
+CNTRL_161,CONTROL,,,,,,,0,C92_008
+CNTRL_162,CONTROL,,,,,,,0,C92_052
+CNTRL_163,CONTROL,,,,,,,50,C92_043
+CNTRL_164,CONTROL,,,,,,,0,C92_041
+CNTRL_165,CONTROL,,,,,,,150,C92_044
+CNTRL_166,CONTROL,,,,,,,70,C92_047
+CNTRL_167,CONTROL,,,,,,,0,C92_090
+CNTRL_168,CONTROL,,,,,,,0,C92_057
+CNTRL_169,CONTROL,,,,,,,37.5,C92_002
+CNTRL_170,CONTROL,,,,,,,Unknown,C92_032
+CNTRL_171,CONTROL,,,,,,,7.5,C92_067
+CNTRL_172,CONTROL,,,,,,,0,C92_015
+CNTRL_173,CONTROL,,,,,,,337.5,C92_064
+CNTRL_174,CONTROL,,,,,,,0,C92_055
+CNTRL_175,CONTROL,,,,,,,Unknown,C92_062
+CNTRL_177,CONTROL,,,,,,,0,C92_049
+CNTRL_179,CONTROL,,,,,,,0,C92_011
+CNTRL_180,CONTROL,,,,,,,0,C92_061
+CNTRL_181,CONTROL,,,,,,,0,C92_022
+CNTRL_182,CONTROL,,,,,,,3,C92_058
+CNTRL_184,CONTROL,,,,,,,0,C92_086
+CNTRL_185,CONTROL,,,,,,,80,C92_042
+CNTRL_186,CONTROL,,,,,,,0,C92_056
+CNTRL_187,CONTROL,,,,,,,Unknown,C92_068
+CNTRL_188,CONTROL,,,,,,,0,C92_016
+CNTRL_189,CONTROL,,,,,,,0,C92_054
+CNTRL_190,CONTROL,,,,,,,20,C92_050
+CNTRL_191,CONTROL,,,,,,,0,C92_034
+CNTRL_192,CONTROL,,,,,,,Unknown,C92_033
+CNTRL_193,CONTROL,,,,,,,Unknown,C92_066
+CNTRL_194,CONTROL,,,,,,,0,C92_019
+CNTRL_195,CONTROL,,,,,,,0,C92_063
+CNTRL_196,CONTROL,,,,,,,0,C92_012
+CNTRL_197,CONTROL,,,,,,,0,C92_045
+CNTRL_198,CONTROL,,,,,,,0,C92_072
+CNTRL_199,CONTROL,,,,,,,Unknown,C92_023
+CNTRL_200,CONTROL,,,,,,,0,C92_065
+CNTRL_202,CONTROL,,,,,,,75,C92_048
+CNTRL_203,CONTROL,,,,,,,Unknown,C92_053
+CNTRL_204,CONTROL,,,,,,,0,C92_036

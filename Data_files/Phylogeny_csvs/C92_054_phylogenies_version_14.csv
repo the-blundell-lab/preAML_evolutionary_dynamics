@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['DNMT3A_p.R882C', 'RUNX1_p.A443T']",0,0,#cccccc
+DNMT3A_p.R882C,stem cells,[],['RUNX1_p.A443T'],1,1,#6ba3d6
+RUNX1_p.A443T,DNMT3A_p.R882C,[],[],1,2,#41ab5d

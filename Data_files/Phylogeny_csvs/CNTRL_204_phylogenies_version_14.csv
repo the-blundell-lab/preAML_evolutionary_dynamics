@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['DNMT3A_p.R882C', 'EZH2_p.R308Q']",0,0,#cccccc
+DNMT3A_p.R882C,stem cells,['EZH2_p.R308Q'],[],2,1,#2171b5
+EZH2_p.R308Q,stem cells,['DNMT3A_p.R882C'],[],2,1,#9ecae1

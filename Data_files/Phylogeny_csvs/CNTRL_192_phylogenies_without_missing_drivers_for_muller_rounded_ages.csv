@@ -1,0 +1,6 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],"['DNMT3A_p.S714C', 'TET2_p.Q744X', 'DNMT3A_p.C562Y', 'DNMT3A_p.W440X']",0,0,"[85.65, 84.39, 83.18, 80.76, 80.55, 79.87, 80.31]",0,85.65,#cccccc
+DNMT3A_p.S714C,stem cells,"['TET2_p.Q744X', 'DNMT3A_p.C562Y', 'DNMT3A_p.W440X']",[],4,1,"[8.94, 8.55, 8.59, 10.89, 9.28, 8.16, 9.39]",67,10.89,#9ecae1
+TET2_p.Q744X,stem cells,"['DNMT3A_p.S714C', 'DNMT3A_p.C562Y', 'DNMT3A_p.W440X']",[],4,1,"[2.65, 4.01, 4.6, 4.61, 6.6, 7.53, 5.36]",67,7.53,#2171b5
+DNMT3A_p.C562Y,stem cells,"['DNMT3A_p.S714C', 'TET2_p.Q744X', 'DNMT3A_p.W440X']",[],4,1,"[2.06, 1.42, 1.6, 2.16, 2.3, 2.88, 2.61]",67,2.88,#2171b5
+DNMT3A_p.W440X,stem cells,"['DNMT3A_p.S714C', 'TET2_p.Q744X', 'DNMT3A_p.C562Y']",[],4,1,"[0.7, 1.63, 2.03, 1.58, 1.27, 1.56, 2.33]",67,2.33,#2171b5

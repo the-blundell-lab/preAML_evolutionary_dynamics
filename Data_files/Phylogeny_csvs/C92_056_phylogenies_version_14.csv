@@ -1,0 +1,8 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['DNMT3A_p.R882H', 'chr4q_CNLOH', 'MPL_p.Y631Nfs*52', 'KRAS_p.Y64D', 'MPL_p.W515G', 'EZH2_p.S690W']",0,0,#cccccc
+DNMT3A_p.R882H,stem cells,[],"['chr4q_CNLOH', 'MPL_p.Y631Nfs*52', 'KRAS_p.Y64D', 'MPL_p.W515G', 'EZH2_p.S690W']",1,1,#6ba3d6
+chr4q_CNLOH,DNMT3A_p.R882H,[],"['MPL_p.Y631Nfs*52', 'KRAS_p.Y64D', 'MPL_p.W515G', 'EZH2_p.S690W']",1,2,#41ab5d
+MPL_p.Y631Nfs*52,chr4q_CNLOH,"['KRAS_p.Y64D', 'MPL_p.W515G']",['EZH2_p.S690W'],3,3,#fee391
+KRAS_p.Y64D,chr4q_CNLOH,"['MPL_p.Y631Nfs*52', 'MPL_p.W515G']",[],3,3,#cc4c02
+MPL_p.W515G,chr4q_CNLOH,"['MPL_p.Y631Nfs*52', 'KRAS_p.Y64D']",[],3,3,#fe9929
+EZH2_p.S690W,MPL_p.Y631Nfs*52,[],[],1,4,#da2b2b

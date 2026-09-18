@@ -1,0 +1,9 @@
+Timepoint	chromosome	mCA	cell fraction
+C92_012_s1	chr19	19q CNLOH	not processed
+C92_012_s2	chr19	19q CNLOH	not processed
+C92_012_s3	chr19	19q CNLOH	not processed
+C92_012_s4	chr19	19q CNLOH	not processed
+C92_012_s5	chr19	19q CNLOH	not processed
+C92_012_s6	chr19	19q CNLOH	not processed
+C92_012_s7	chr19	19q CNLOH	0.52101
+C92_012_s8	chr19	19q CNLOH	0.14685

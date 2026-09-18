@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['X', 'DNMT3A_p.L738Cfs*41']",0,0,#cccccc
+X,stem cells,['DNMT3A_p.L738Cfs*41'],[],2,1,#9ecae1
+DNMT3A_p.L738Cfs*41,stem cells,['X'],[],2,1,#2171b5

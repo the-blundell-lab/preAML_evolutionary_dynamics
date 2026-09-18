@@ -1,0 +1,75 @@
+CDS Mutation,,AA Mutation,AA residue,counts,Mutation type
+c.1843A>G,,p.T615A,615,8,Missense
+c.1853C>T,,p.T618I,618,104,Missense
+c.1919C>A,,p.T640N,640,14,Missense
+c.2027G>A,,p.C676Y,676,1,Missense
+c.2028C>G,,p.C676W,676,1,Missense
+c.2046dup,,p.G683Rfs*13,683,2,Insertion Frameshift
+c.2050C>G,,p.Q684E,684,1,Missense
+c.2050del,,p.Q684Rfs*56,684,1,Deletion Frameshift
+c.2100G>A,,p.G700=,700,1,Synonymous
+c.2121C>T,,p.P707=,707,2,Synonymous
+c.2121G>A,,p.V707=,707,5,Synonymous
+c.2122C>G,,p.P708A,708,5,Missense
+c.2127C>T,,p.P709=,709,7,Synonymous
+c.2133C>T,,p.P711=,711,4,Synonymous
+c.2144C>G,,p.S715*,715,5,Nonsense
+c.2144del,,p.S715*,715,5,Nonsense
+c.2151C>T,,p.I717=,717,1,Synonymous
+c.2162T>G,,p.M721R,721,1,Missense
+c.2166C>T,,p.G722=,722,2,Synonymous
+c.2194G>A,,p.D732N,732,5,Missense
+c.2202G>A,,p.V734=,734,2,Synonymous
+c.2203C>G,,p.P735A,735,2,Missense
+c.2215C>T,,p.Q739*,739,10,Nonsense
+c.2221C>T,,p.Q741*,741,35,Nonsense
+c.2225C>G,,p.S742*,742,2,Nonsense
+c.2225del,,p.S742*,742,2,Nonsense
+c.2226C>T,,p.L742=,742,2,Synonymous
+c.2227C>T,,p.Q743*,743,20,Nonsense
+c.2228del,,p.S743Tfs*14,743,1,Deletion Frameshift
+c.2245C>T,,p.Q749*,749,5,Nonsense
+c.2252dup,,p.A752Sfs*55,752,4,Insertion Frameshift
+c.2256T>G,,p.Y752*,752,3,Missense
+c.2259A>T,,p.P753=,753,1,Synonymous
+c.2260C>T,,p.Q754*,754,6,Nonsense
+c.2267T>G,,p.M756R,756,1,Missense
+c.2275G>A,,p.D759N,759,2,Missense
+c.2279G>A,,p.G760D,760,1,Missense
+c.2296C>T,,p.Q766*,766,4,Nonsense
+c.2302C>T,,p.Q768*,768,14,Nonsense
+c.2308C>T,,p.Q770*,770,8,Nonsense
+c.2320C>T,,p.Q774*,774,6,Nonsense
+c.2322del,,p.Q774Hfs*28,774,3,Deletion Frameshift
+c.2326C>T,,p.Q776*,776,2,Nonsense
+c.2337T>G,,p.Y779*,779,2,Nonsense
+c.2341C>T,,p.Q781*,781,4,Nonsense
+c.2346dup,,p.S783Qfs*6,783,12,Insertion Frameshift
+c.2353A>T,,p.K785*,785,3,Nonsense
+c.2361T>G,,p.Y787*,787,3,Nonsense
+c.2373G>A,,p.W791*,791,3,Nonsense
+c.2401C>T,,p.Q801*,801,4,Nonsense
+c.2403_2403G>NCCTCTTG,,p.Q801fs*17,801,1,Complex Frameshift
+c.2403del,,p.Q801Hfs*28,801,2,Deletion Frameshift
+c.2422G>A,,p.E808K,808,3,Missense
+c.2427dup,,p.S810Qfs*6,810,8,Insertion Frameshift
+c.2434A>T,,p.K812*,812,2,Nonsense
+c.2442T>G,,p.Y814*,814,2,Nonsense
+c.2454G>A,,p.W818*,818,2,Nonsense
+c.2503G>A,,p.E835K,835,2,Missense
+c.?,,p.L804F,804,1,Missense
+c.?,,p.Q757*,757,1,Nonsense
+c.?,,p.Q757L,757,1,Missense
+c.?,,p.Q766*,766,2,Nonsense
+c.?,,p.Q768*,768,7,Nonsense
+c.?,,p.Q770*,770,2,Nonsense
+c.?,,p.Q776*,776,4,Nonsense
+c.?,,p.Q781*,781,5,Nonsense
+c.?,,p.Q781K,781,1,Missense
+c.?,,p.R796H,796,1,Missense
+c.?,,p.S822R,822,1,Missense
+c.?,,p.T618I,618,7,Missense
+c.?,,p.T640I,640,1,Missense
+c.?,,p.T640N,640,1,Missense
+c.?,,p.T808I,808,1,Missense
+c.?,,p.Y779*,779,4,Nonsense

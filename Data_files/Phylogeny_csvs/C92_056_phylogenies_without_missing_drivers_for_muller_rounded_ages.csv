@@ -1,0 +1,8 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,cell_fractions,age first detected,max cell fraction,variant color
+stem cells,,[],"['DNMT3A_p.R882H', 'chr4q_CNLOH', 'MPL_p.Y631Nfs*52', 'KRAS_p.Y64D', 'MPL_p.W515G', 'EZH2_p.S690W']",0,0,"[2.01, 1.04, 0.66, 3.29]",0,3.29,#cccccc
+DNMT3A_p.R882H,stem cells,[],"['chr4q_CNLOH', 'MPL_p.Y631Nfs*52', 'KRAS_p.Y64D', 'MPL_p.W515G', 'EZH2_p.S690W']",1,1,"[9.780000000000001, 5.739999999999995, 4.0, 5.47999999999999]",69,9.780000000000001,#6ba3d6
+chr4q_CNLOH,DNMT3A_p.R882H,[],"['MPL_p.Y631Nfs*52', 'KRAS_p.Y64D', 'MPL_p.W515G', 'EZH2_p.S690W']",1,2,"[42.029999999999994, 49.99999999999999, 59.22, 46.11]",69,59.22,#41ab5d
+KRAS_p.Y64D,chr4q_CNLOH,"['MPL_p.Y631Nfs*52', 'MPL_p.W515G']",[],3,3,"[44.48, 39.84, 27.03, 15.0]",69,44.48,#cc4c02
+MPL_p.Y631Nfs*52,chr4q_CNLOH,"['KRAS_p.Y64D', 'MPL_p.W515G']",['EZH2_p.S690W'],3,3,"[1.56, 2.86, 8.78, 24.36]",69,24.36,#fee391
+MPL_p.W515G,chr4q_CNLOH,"['MPL_p.Y631Nfs*52', 'KRAS_p.Y64D']",[],3,3,"[0.14, 0.52, 0.31, 0]",69,0.52,#fe9929
+EZH2_p.S690W,MPL_p.Y631Nfs*52,[],[],1,4,"[0, 0, 0, 5.76]",73,5.76,#da2b2b

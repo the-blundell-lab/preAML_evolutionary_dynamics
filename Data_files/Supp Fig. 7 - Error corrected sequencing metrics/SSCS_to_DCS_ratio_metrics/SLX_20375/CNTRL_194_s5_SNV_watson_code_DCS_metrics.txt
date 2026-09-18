@@ -1,0 +1,16 @@
+sample name :	CNTRL_194_s5_SNV
+date of analysis :	05/09/2021
+produced from code:	Watson_code_DCS_calling: version 1.4
+minimum family size required for SSCS consensus set to :	3
+maximum proportion of Ns allowed in DCS:	1.0
+minimum base quality set to:	20
+
+total number of SSCS included in DCS consensus calling:	13988584
+total number of SSCS without duplex partner:	9232184
+total number of SSCS filtered out due to UMI family size:	0
+total number of DCS created (read 1 and read 2 separate):	2378200
+total number of DCS filtered due to too many Ns:	0
+total number of DCS after N filtering:	2378200
+total number of unpartnered DCS:	0
+SSCS: DCS ratio:	5.8820048776385505
+

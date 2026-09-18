@@ -1,0 +1,5 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['PPM1D_p.R552X', 'TP53_p.C275Y', 'GNAS_p.R86S']",0,0,#cccccc
+PPM1D_p.R552X,stem cells,"['TP53_p.C275Y', 'GNAS_p.R86S']",[],3,1,#08306b
+TP53_p.C275Y,stem cells,"['PPM1D_p.R552X', 'GNAS_p.R86S']",[],3,1,#2171b5
+GNAS_p.R86S,stem cells,"['PPM1D_p.R552X', 'TP53_p.C275Y']",[],3,1,#9ecae1

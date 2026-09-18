@@ -1,0 +1,4 @@
+,parent,siblings,descendents,parent_descendents,mutations_in_clone,variant color
+stem cells,,[],"['TET2_p.P1194R', 'PPM1D_p.Q520X']",0,0,#cccccc
+TET2_p.P1194R,stem cells,['PPM1D_p.Q520X'],[],2,1,#2171b5
+PPM1D_p.Q520X,stem cells,['TET2_p.P1194R'],[],2,1,#9ecae1

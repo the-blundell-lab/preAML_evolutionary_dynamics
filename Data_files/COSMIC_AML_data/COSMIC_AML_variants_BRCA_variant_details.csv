@@ -1,0 +1,15 @@
+Gene Name,CDS Mutation,AA Mutation,AA residue,counts,variant details
+BRCA1,c.3113A>G,p.E1038G,1038,1,Substitution_Missense
+BRCA2,c.3396A>G,p.K1132K,1132,1,Substitution_Synonymous
+BRCA1,c.3548A>G,p.K1183R,1183,1,Substitution_Missense
+BRCA1,c.2311T>C,p.L771L,771,1,Substitution_Synonymous
+BRCA2,c.865A>C,p.N289H,289,1,Substitution_Missense
+BRCA2,c.1114A>C,p.N372H,372,1,Substitution_Missense
+BRCA1,c.198T>C,p.N66N,66,4,Substitution_Synonymous
+BRCA1,c.2612C>T,p.P871L,871,1,Substitution_Missense
+BRCA1,c.4308T>C,p.S1436S,1436,1,Substitution_Synonymous
+BRCA1,c.4837A>G,p.S1613G,1613,1,Substitution_Missense
+BRCA2,c.7242A>G,p.S2414S,2414,1,Substitution_Synonymous
+BRCA2,c.1365A>G,p.S455S,455,1,Substitution_Synonymous
+BRCA1,c.2082C>T,p.S694S,694,1,Substitution_Synonymous
+BRCA2,c.9577A>C,p.T3193P,3193,2,Substitution_Missense

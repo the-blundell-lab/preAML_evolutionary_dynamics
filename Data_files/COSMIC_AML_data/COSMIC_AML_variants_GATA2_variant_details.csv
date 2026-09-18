@@ -1,0 +1,93 @@
+CDS Mutation,,AA Mutation,AA residue,counts,variant type
+c.1009C>T,,p.R337*,337,3,Nonsense
+c.1019C>A,,p.T340K,340,3,Missense
+c.1019C>G,,p.T340R,340,1,Missense
+c.1019C>T,,p.T340M,340,2,Missense
+c.1020_1022dup,,p.T344dup,344,1,Insertion Inframe
+c.1021A>G,,p.T341A,341,1,Missense
+c.1026C>A,,p.T342=,342,1,Synonymous
+c.1027A>T,,p.T343S,343,1,Missense
+c.1031C>A,,p.T344N,344,1,Missense
+c.1033T>G,,p.L345V,345,4,Missense
+c.1040G>A,,p.R347H,347,3,Missense
+c.1042C>G,,p.R348G,348,4,Missense
+c.1043G>A,,p.R348Q,348,15,Missense
+c.1043G>C,,p.R348P,348,3,Missense
+c.1043del,,p.R348Qfs*25,348,1,Deletion Frameshift
+c.1045_1046insGGA,,p.R348dup,348,1,Insertion Inframe
+c.1051A>G,,p.N351D,351,2,Missense
+c.1052A>T,,p.N351I,351,2,Missense
+c.1052_1053insATTGTCAGGCACCTGTTGTCCAAA,,p.A350_N351insKLSGTCCP,350,2,Insertion Inframe
+c.1054G>A,,p.G352R,352,1,Missense
+c.1061C>A,,p.T354K,354,6,Missense
+c.1061C>G,,p.T354R,354,2,Missense
+c.1061C>T,,p.T354M,354,4,Missense
+c.1062_1064dup,,p.T358dup,358,2,Insertion Inframe
+c.1063A>G,,p.T355A,355,2,Missense
+c.1068C>A,,p.T356=,356,2,Synonymous
+c.1069A>T,,p.T357S,357,2,Missense
+c.1072G>A,,p.A358T,358,8,Missense
+c.1073C>A,,p.T358N,358,2,Missense
+c.1073C>T,,p.A358V,358,1,Missense
+c.1075T>G,,p.L359V,359,8,Missense
+c.1081C>A,,p.L361I,361,1,Missense
+c.1082G>A,,p.R361H,361,6,Missense
+c.1084C>G,,p.R362G,362,8,Missense
+c.1085G>A,,p.R362Q,362,30,Missense
+c.1085G>C,,p.R362P,362,6,Missense
+c.1085del,,p.R362Qfs*25,362,2,Deletion Frameshift
+c.1087_1088insGGA,,p.R362dup,362,2,Insertion Inframe
+c.1094T>A,,p.L365Q,365,1,Missense
+c.1096G>A,,p.G366R,366,2,Missense
+c.1112C>T,,p.P371L,371,2,Missense
+c.1114G>A,,p.A372T,372,16,Missense
+c.1115C>T,,p.A372V,372,2,Missense
+c.1123C>A,,p.L375I,375,2,Missense
+c.1136T>A,,p.L379Q,379,2,Missense
+c.1145G>A,,p.R382Q,382,1,Missense
+c.1145G>T,,p.R382L,382,1,Missense
+c.1150C>T,,p.R384W,384,2,Missense
+c.1151G>A,,p.R384Q,384,2,Missense
+c.1154C>T,,p.P385L,385,4,Missense
+c.1187G>A,,p.R396Q,396,2,Missense
+c.1187G>T,,p.R396L,396,2,Missense
+c.1192C>T,,p.R398W,398,4,Missense
+c.1193G>A,,p.R398Q,398,4,Missense
+c.1349G>T,,p.S450I,450,1,Missense
+c.1375T>C,,p.S459P,459,1,Missense
+c.1391G>T,,p.S464I,464,2,Missense
+c.1417T>C,,p.S473P,473,2,Missense
+c.300_301insCCTCGGG,,p.G101Pfs*86,101,3,Insertion Frameshift
+c.386del,,p.S129*,129,3,Nonsense
+c.878G>A,,p.R293Q,293,3,Missense
+c.890A>G,,p.N297S,297,6,Missense
+c.891C>A,,p.N297K,297,3,Missense
+c.910C>A,,p.P304T,304,3,Missense
+c.911C>A,,p.P304H,304,9,Missense
+c.911C>T,,p.P304L,304,6,Missense
+c.913C>T,,p.L305F,305,3,Missense
+c.919C>T,,p.R307W,307,3,Missense
+c.920G>T,,p.R307L,307,15,Missense
+c.923G>A,,p.R308Q,308,3,Missense
+c.923G>C,,p.R308P,308,18,Missense
+c.926A>T,,p.D309V,309,3,Missense
+c.949A>C,,p.N317H,317,6,Missense
+c.950A>G,,p.N317S,317,9,Missense
+c.950A>T,,p.N317I,317,9,Missense
+c.952G>A,,p.A318T,318,36,Missense
+c.953C>A,,p.A318D,318,6,Missense
+c.953C>G,,p.A318G,318,12,Missense
+c.953C>T,,p.A318V,318,57,Missense
+c.953_955dup,,p.A318_C319insS,318,3,Insertion Inframe
+c.959G>A,,p.G320D,320,45,Missense
+c.959G>C,,p.G320A,320,3,Missense
+c.959G>T,,p.G320V,320,3,Missense
+c.961C>G,,p.L321V,321,9,Missense
+c.961C>T,,p.L321F,321,36,Missense
+c.962T>A,,p.L321H,321,24,Missense
+c.962T>C,,p.L321P,321,12,Missense
+c.962T>G,,p.L321R,321,6,Missense
+c.970A>G,,p.K324E,324,3,Missense
+c.983A>C,,p.Q328P,328,3,Missense
+c.989G>A,,p.R330Q,330,15,Missense
+c.989G>T,,p.R330L,330,21,Missense
