@@ -44,37 +44,47 @@ controlled access (see [Data availability](#data-availability)).
 
 ## Figures
 
-| figure | notebook | what it shows |
+| figure | what it shows | notebook |
 |---|---|---|
-| Fig. 1 | `Figure_1.ipynb` | Deep sequencing of serial blood samples in the decades preceding AML |
-| Fig. 2 | `Figure_2.ipynb` | Reconstruction of clonal evolutionary histories in AML |
-| Fig. 3a–c | `Figure_3a-c.ipynb` | Quantitative dynamics of driver mutations in the decades before AML diagnosis (schematic) |
-| Fig. 3d–g | `Figure_3d-g.ipynb` | Quantitative dynamics of driver mutations in the decades before AML diagnosis |
-| Fig. 3d–g | `Figure_3d_g_trees.ipynb` | Inferred clonal phylogenies accompanying the trajectory plots |
-| Fig. 4 | `Figure_4.ipynb` | Fitness and occurrence time estimates of pre-leukaemic driver events |
-| Fig. 5b–e | `Figure_5b_e.ipynb` | A unifying framework for pre-leukaemic clonal dynamics (simulated panels) |
-| Fig. 5f | `Figure_5f.ipynb` | A unifying framework for pre-leukaemic clonal dynamics: joint VAFs of variants at 23 CH hotspot positions in UK Biobank |
-| Extended Data Fig. 1 | `Extended_Data_Figure_1.ipynb` | Longitudinal blood samples pre-AML diagnosis |
-| Extended Data Fig. 2 | `Extended_Data_Figure_2.ipynb` | Classes of mutations detected in pre-AML and control samples |
-| Supplementary Fig. 1 | `Supplementary_Fig_1.ipynb` | UKCTOCS cell type deconvolution |
-| Supplementary Figs. 2–5 | `Supplementary_Fig_2-5.ipynb` | Gene regions targeted by the TETRIS-seq SNV/indel panel |
-| Supplementary Fig. 6 | `Supplementary_Fig_6.ipynb` | Custom panel coverage of chromosomal rearrangement breakpoint regions |
-| Supplementary Fig. 7 | `Supplementary_Fig_7.ipynb` | Error-corrected sequencing metrics |
-| Supplementary Fig. 8 | `Supplementary_Fig_8.ipynb`, `Supplementary_Fig_8c.ipynb` | DCS variant calling using Myeloid Reference Standard DNA, and the mutational signatures of those calls |
-| Supplementary Fig. 9 | `Supplementary_Fig_9.ipynb` | Expected and observed number of DCS variants |
-| Supplementary Fig. 10 | `Supplementary_Fig_10.ipynb` | Distribution of sample DCS `VAFs' (error rates) at example positions |
-| Supplementary Fig. 11 | `Supplementary_Fig_11.ipynb`, `Supplementary_Fig_11_simulating_beta_binomial_dataset.ipynb` | Choosing a p-value threshold for calling real variants |
-| Supplementary Fig. 12 | `Supplementary_Fig_12.ipynb` | Position-specific distributions of errors |
-| Supplementary Fig. 13 | `Supplementary_Fig_13.ipynb` | Distribution of final position-specific error rates, grouped by base change |
-| Supplementary Fig. 14 | `Supplementary_Fig_14.ipynb` | Observed vs expected VAF across Horizon Myeloid Reference Standard dilutions with duplex error correction |
-| Supplementary Fig. 15 | `Supplementary_Fig_15.ipynb` | Effect of the in silico noise correction method on reducing the number of variant calls |
-| Supplementary Fig. 22 | `Supplementary_Fig_22.ipynb` | VAF concordance in simulated samples (and the rearrangement caller itself) |
-| Supplementary Fig. 23 | `Supplementary_Fig_23.ipynb` | Detection of known AML-associated rearrangements across serial dilutions using TETRIS-seq |
-| Supplementary Fig. 24 | `Supplementary_Fig_24.ipynb` | Effect of KMT2A-PTD on exon 3 : exon 27 read depth ratios |
-| Supplementary Fig. 25 | `Supplementary_Fig_25.ipynb` | LRR and BAF deviations for mCA detection |
-| Supplementary Figs. 26–30 | `Supplementary_Fig_26-30_Simulating_mCA_samples.ipynb`, `Supplementary_Fig_26.ipynb`, `Supplementary_Fig_26_mCA_unphased_caller_on_simulated_samples.py`, `Supplementary_Fig_27.ipynb`, `Supplementary_Fig_28-29-mCA_phased_caller_benchmarking_on_simulated_samples.ipynb`, `Supplementary_Fig_28.ipynb`, `Supplementary_Fig_29.ipynb`, `Supplementary_Fig_30.ipynb` | Performance of the TETRIS-seq unphased and longitudinal phased mCA callers on simulated test data, and how those samples were simulated |
-| Supplementary Figs. 31–38 | `Supplementary_Fig_31-38-mCA_calling_unphased.ipynb`, `Supplementary_Fig_31-38-mCA_calling_phased_timepoints.ipynb` | Longitudinal mCA detection in individual participants |
-| Supplementary Fig. 47 | `Supplementary_Fig_47.ipynb` | Quantification of uncertainty for fitness and establishment time estimates |
+| Fig. 1 | Deep sequencing of serial blood samples in the decades preceding AML | `Figure_1.ipynb` |
+| Fig. 2 | Reconstruction of clonal evolutionary histories in AML | `Figure_2.ipynb` |
+| Fig. 3a–c | Quantitative dynamics of driver mutations in the decades before AML diagnosis (schematic) | `Figure_3a-c.ipynb` |
+| Fig. 3d–g | Measured and inferred cell-fraction trajectories | `Figure_3d-g.ipynb` |
+| Fig. 3d–g | The inferred clonal phylogenies beside them | `Figure_3d_g_trees.ipynb` |
+| Fig. 4 | Fitness and occurrence time estimates of pre-leukaemic driver events | `Figure_4.ipynb` |
+| Fig. 5b–e | A unifying framework for pre-leukaemic clonal dynamics (simulated panels) | `Figure_5b_e.ipynb` |
+| Fig. 5f | The same plot for CH hotspot variants in UK Biobank | `Figure_5f.ipynb` |
+| Extended Data Fig. 1 | Longitudinal blood samples pre-AML diagnosis | `Extended_Data_Figure_1.ipynb` |
+| Extended Data Fig. 2 | Classes of mutations detected in pre-AML and control samples | `Extended_Data_Figure_2.ipynb` |
+| Supp. Fig. 1 | UKCTOCS cell type deconvolution | `Supplementary_Fig_1.ipynb` |
+| Supp. Figs. 2–5 | Gene regions targeted by the TETRIS-seq SNV/indel panel | `Supplementary_Fig_2-5.ipynb` |
+| Supp. Fig. 6 | Custom panel coverage of chromosomal rearrangement breakpoint regions | `Supplementary_Fig_6.ipynb` |
+| Supp. Fig. 7 | Error-corrected sequencing metrics | `Supplementary_Fig_7.ipynb` |
+| Supp. Fig. 8 | DCS variant calling using Myeloid Reference Standard DNA | `Supplementary_Fig_8.ipynb` |
+| Supp. Fig. 8c | Mutational signatures of those reference-standard calls | `Supplementary_Fig_8c.ipynb` |
+| Supp. Fig. 9 | Expected and observed number of DCS variants | `Supplementary_Fig_9.ipynb` |
+| Supp. Fig. 10 | Distribution of sample DCS `VAFs' (error rates) at example positions | `Supplementary_Fig_10.ipynb` |
+| Supp. Fig. 11 | Choosing a p-value threshold for calling real variants | `Supplementary_Fig_11.ipynb` |
+| Supp. Fig. 11 | Simulating the beta-binomial dataset used to choose it | `Supplementary_Fig_11_simulating_beta_binomial_dataset.ipynb` |
+| Supp. Fig. 12 | Position-specific distributions of errors | `Supplementary_Fig_12.ipynb` |
+| Supp. Fig. 13 | Distribution of final position-specific error rates, grouped by base change | `Supplementary_Fig_13.ipynb` |
+| Supp. Fig. 14 | Observed vs expected VAF across Horizon Myeloid Reference Standard dilutions | `Supplementary_Fig_14.ipynb` |
+| Supp. Fig. 15 | Effect of the in silico noise correction method on the number of variant calls | `Supplementary_Fig_15.ipynb` |
+| Supp. Fig. 22 | VAF concordance in simulated samples (and the rearrangement caller itself) | `Supplementary_Fig_22.ipynb` |
+| Supp. Fig. 23 | Detection of known AML-associated rearrangements across serial dilutions | `Supplementary_Fig_23.ipynb` |
+| Supp. Fig. 24 | Effect of KMT2A-PTD on exon 3 : exon 27 read depth ratios | `Supplementary_Fig_24.ipynb` |
+| Supp. Fig. 25 | LRR and BAF deviations for mCA detection | `Supplementary_Fig_25.ipynb` |
+| Supp. Figs. 26–30 | Generating the simulated mCA samples | `Supplementary_Fig_26-30_Simulating_mCA_samples.ipynb` |
+| Supp. Fig. 26 | Performance of the unphased mCA caller on simulated test data | `Supplementary_Fig_26.ipynb` |
+| Supp. Fig. 26 | The unphased mCA caller, run over those samples | `Supplementary_Fig_26_mCA_unphased_caller_on_simulated_samples.py` |
+| Supp. Fig. 27 | Phasing SNPs for detection of low cell fraction mCAs | `Supplementary_Fig_27.ipynb` |
+| Supp. Figs. 28–29 | Benchmarking the longitudinal phased mCA caller | `Supplementary_Fig_28-29-mCA_phased_caller_benchmarking_on_simulated_samples.ipynb` |
+| Supp. Fig. 28 | Performance of the longitudinal phased mCA caller on simulated test data | `Supplementary_Fig_28.ipynb` |
+| Supp. Fig. 29 | False positive rate of the longitudinal phased mCA caller | `Supplementary_Fig_29.ipynb` |
+| Supp. Fig. 30 | Selection of control samples for mCA simulation | `Supplementary_Fig_30.ipynb` |
+| Supp. Figs. 31–38 | Longitudinal mCA detection: calls in the index samples | `Supplementary_Fig_31-38-mCA_calling_unphased.ipynb` |
+| Supp. Figs. 31–38 | Longitudinal mCA detection: phased calls at earlier timepoints | `Supplementary_Fig_31-38-mCA_calling_phased_timepoints.ipynb` |
+| Supp. Fig. 47 | Quantification of uncertainty for fitness and establishment time estimates | `Supplementary_Fig_47.ipynb` |
 
 ## Data availability
 
