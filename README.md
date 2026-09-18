@@ -47,11 +47,11 @@ controlled access (see [Data availability](#data-availability)).
 | figure | what it shows | notebook |
 |---|---|---|
 | Fig.&nbsp;1 | Deep sequencing of serial blood samples in the decades preceding AML | [`Figure_1.ipynb`](Figure_1.ipynb) |
-| Fig.&nbsp;2 | Reconstruction of clonal evolutionary histories in AML | [`Figure_2.ipynb`](Figure_2.ipynb) |
+| Fig.&nbsp;2<br>Supp.&nbsp;Figs.&nbsp;39–46, 57–60 | Reconstruction of clonal evolutionary histories in AML | [`Figure_2.ipynb`](Figure_2.ipynb) |
 | Fig.&nbsp;3a–c | Quantitative dynamics of driver mutations in the decades before AML diagnosis (schematic) | [`Figure_3a-c.ipynb`](Figure_3a-c.ipynb) |
-| Fig.&nbsp;3d–g | Measured and inferred cell-fraction trajectories | [`Figure_3d-g.ipynb`](Figure_3d-g.ipynb) |
-| Fig.&nbsp;3d–g | The inferred clonal phylogenies beside them | [`Figure_3d_g_trees.ipynb`](Figure_3d_g_trees.ipynb) |
-| Fig.&nbsp;4 | Fitness and occurrence time estimates of pre-leukaemic driver events | [`Figure_4.ipynb`](Figure_4.ipynb) |
+| Fig.&nbsp;3d–g<br>ED&nbsp;Figs.&nbsp;3–9<br>Supp.&nbsp;Figs.&nbsp;48–55 | Measured and inferred cell-fraction trajectories | [`Figure_3d-g.ipynb`](Figure_3d-g.ipynb) |
+| Fig.&nbsp;3d–g<br>ED&nbsp;Figs.&nbsp;3–9<br>Supp.&nbsp;Figs.&nbsp;48–55 | The inferred clonal phylogenies beside them | [`Figure_3d_g_trees.ipynb`](Figure_3d_g_trees.ipynb) |
+| Fig.&nbsp;4<br>Supp.&nbsp;Fig.&nbsp;56 | Fitness and occurrence time estimates of pre-leukaemic driver events | [`Figure_4.ipynb`](Figure_4.ipynb) |
 | Fig.&nbsp;5b–e | A unifying framework for pre-leukaemic clonal dynamics (simulated panels) | [`Figure_5b_e.ipynb`](Figure_5b_e.ipynb) |
 | Fig.&nbsp;5f | The same plot for CH hotspot variants in UK Biobank | [`Figure_5f.ipynb`](Figure_5f.ipynb) |
 | Extended&nbsp;Data Fig.&nbsp;1 | Longitudinal blood samples pre-AML diagnosis | [`Extended_Data_Figure_1.ipynb`](Extended_Data_Figure_1.ipynb) |
@@ -97,9 +97,9 @@ Not in this repository:
 
 | data | where |
 |---|---|
-| raw sequencing reads; all-positions VCFs for single-strand (SSCS) and duplex (DCS) consensus reads; pre-error-model annotated call files (DCS); germline SNV and indel calls; the combined somatic SNV, indel and mCA call table (the exact-age version of the rounded table provided here); longitudinal mCA calls; per-sample BAF and LRR files; and the participant sample and clinical annotation files with exact ages | European Genome-phenome Archive (controlled access, via a Data Access Committee administered by the corresponding authors) |
-| the final filtered somatic variant calls (hg19): 965 SNVs and indels as per-sample VCF records across 385 files, plus the *FLT3*-ITD as the Pindel caller's own output. No ages or clinical data; the same calls with annotation and rounded ages are Supplementary Table 6 | Zenodo, DOI 10.5281/zenodo.22262496 |
-| hg19 reference genome, ANNOVAR `humandb/`, fgbio | third parties; set the path in the notebook that uses them |
+| raw sequencing reads<br>all-positions VCFs for single-strand (SSCS) and duplex (DCS) consensus reads<br>pre-error-model annotated call files (DCS)<br>germline SNV and indel calls<br>the combined somatic SNV, indel and mCA call table (the exact-age version of the rounded table provided here)<br>longitudinal mCA calls<br>per-sample BAF and LRR files<br>participant sample and clinical annotation files with exact ages | European Genome-phenome Archive (controlled access, via a Data Access Committee administered by the corresponding authors) |
+| the final filtered somatic variant calls (hg19)<br>965 SNVs and indels as per-sample VCF records across 385 files<br>the *FLT3*-ITD as the Pindel caller's own output<br>no ages or clinical data; the same calls with annotation and rounded ages are Supplementary Table 6 | Zenodo, DOI 10.5281/zenodo.22262496 |
+| hg19 reference genome<br>ANNOVAR `humandb/`<br>fgbio | third parties; set the path in the notebook that uses them |
 
 Each notebook's own Data availability table says which of these it needs, and several fall back to a
 summary file so the figure can still be drawn without the controlled-access data.
