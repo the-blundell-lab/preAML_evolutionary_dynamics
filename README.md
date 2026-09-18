@@ -97,9 +97,8 @@ Not in this repository:
 
 | data | where |
 |---|---|
-| raw and duplex-consensus sequencing data; per-sample VCFs, annotated call files and BAF/LRR files | European Genome-phenome Archive (controlled access, via a Data Access Committee administered by the corresponding authors) |
-| participant-level sample information with exact ages and sample timings | as above |
-| somatic VCFs | Zenodo, DOI 10.5281/zenodo.22262496 |
+| raw sequencing reads; all-positions VCFs for single-strand (SSCS) and duplex (DCS) consensus reads; pre-error-model annotated call files (DCS); germline SNV and indel calls; the combined somatic SNV, indel and mCA call table (the exact-age version of the rounded table provided here); longitudinal mCA calls; per-sample BAF and LRR files; and the participant sample and clinical annotation files with exact ages | European Genome-phenome Archive (controlled access, via a Data Access Committee administered by the corresponding authors) |
+| the final filtered somatic variant calls (hg19): 965 SNVs and indels as per-sample VCF records across 385 files, plus the *FLT3*-ITD as the Pindel caller's own output. No ages or clinical data; the same calls with annotation and rounded ages are Supplementary Table 6 | Zenodo, DOI 10.5281/zenodo.22262496 |
 | hg19 reference genome, ANNOVAR `humandb/`, fgbio | third parties; set the path in the notebook that uses them |
 
 Each notebook's own Data availability table says which of these it needs, and several fall back to a
