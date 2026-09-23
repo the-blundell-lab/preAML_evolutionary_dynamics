@@ -5,8 +5,8 @@ leukaemia"**, in which annual blood samples from 47 women who went on to develop
 controls (UKCTOCS) were sequenced with TETRIS-seq and used to reconstruct clonal evolution in the
 decades before diagnosis.
 
-The upstream pipeline — processing raw sequencing data into duplex consensus reads and applying the
-TETRIS-seq *in silico* noise-correction model — is in a separate repository:
+The upstream pipeline — processing raw sequencing data into duplex consensus reads, calling variants
+and applying its *in silico* noise-correction model — is in a separate repository:
 <https://github.com/the-blundell-lab/TETRIS-seq>.
 
 If a notebook does not render on GitHub, view it on
@@ -33,8 +33,9 @@ controlled access (see [Data availability](#data-availability)).
 
 ## How the analysis fits together
 
-1. **`Post_processing_variant_calls.ipynb`** — filters the raw beta-binomial variant calls into the
-   final somatic and germline call sets, and writes the per-individual trajectory files.
+1. **`Post_processing_variant_calls.ipynb`** — filters the per-timepoint variant calls produced by the
+   TETRIS-seq pipeline, after its *in silico* noise-correction model, into the final somatic and
+   germline call sets, and writes the per-individual trajectory files.
 2. **`Code_for_inferring_acquisition_age_and_fitness_v16.py`** — maximum-likelihood inference of the
    fitness and establishment age of every clone, run per individual from 25 random seeds:
    `python Code_for_inferring_acquisition_age_and_fitness_v16.py --sample_name C92_002 --seeds 25`
@@ -52,10 +53,11 @@ controlled access (see [Data availability](#data-availability)).
 | Fig.&nbsp;3d–g<br>ED&nbsp;Figs.&nbsp;3–9<br>Supp.&nbsp;Figs.&nbsp;48–55 | Measured and inferred cell-fraction trajectories | [`Figure_3d-g.ipynb`](Figure_3d-g.ipynb) |
 | Fig.&nbsp;3d–g<br>ED&nbsp;Figs.&nbsp;3–9<br>Supp.&nbsp;Figs.&nbsp;48–55 | Inferred clonal phylogenis | [`Figure_3d_g_trees.ipynb`](Figure_3d_g_trees.ipynb) |
 | Fig.&nbsp;4<br>Supp.&nbsp;Fig.&nbsp;56 | Fitness and occurrence time estimates of driver events across all cases or controls | [`Figure_4.ipynb`](Figure_4.ipynb) |
-| Fig.&nbsp;5b–e | A unifying framework for pre-leukaemic clonal dynamics (simulated panels) | [`Figure_5b_e.ipynb`](Figure_5b_e.ipynb) |
+| Fig.&nbsp;5b–e | A unifying framework for pre-leukaemic clonal dynamics (simulated panels) | [`Figure_5b_e.ipynb`](Figure_5b_e.ipynb)<br>published panels: [`figure5_pipeline.py`](figure5_pipeline.py) (5b, 5c), [`figure5d_pipeline.py`](figure5d_pipeline.py) (5d), [`fig5e_pipeline.py`](fig5e_pipeline.py) (5e), all importing [`sim_fast.py`](sim_fast.py) |
 | Fig.&nbsp;5f | The same plot for CH hotspot variants in UK Biobank | [`Figure_5f.ipynb`](Figure_5f.ipynb) |
 | Extended&nbsp;Data Fig.&nbsp;1 | Longitudinal blood samples pre-AML diagnosis | [`Extended_Data_Figure_1.ipynb`](Extended_Data_Figure_1.ipynb) |
 | Extended&nbsp;Data Fig.&nbsp;2 | Classes of mutations detected in pre-AML and control samples | [`Extended_Data_Figure_2.ipynb`](Extended_Data_Figure_2.ipynb) |
+| Extended&nbsp;Data Fig.&nbsp;10 | Clonal dynamics in age-matched simulated controls (a–d) and over 50 years pre-AML (e) | [`figure5d_controls_x4.py`](figure5d_controls_x4.py) (a–d), [`figure5d_50yr_pipeline.py`](figure5d_50yr_pipeline.py) run via [`run50yr.py`](run50yr.py) (e) |
 | Supp.&nbsp;Fig.&nbsp;1 | UKCTOCS cell type deconvolution | [`Supplementary_Fig_1.ipynb`](Supplementary_Fig_1.ipynb) |
 | Supp.&nbsp;Fig.&nbsp;2–5 | Gene regions targeted by the TETRIS-seq SNV/indel panel | [`Supplementary_Fig_2-5.ipynb`](Supplementary_Fig_2-5.ipynb) |
 | Supp.&nbsp;Fig.&nbsp;6 | Custom panel coverage of chromosomal rearrangement breakpoint regions | [`Supplementary_Fig_6.ipynb`](Supplementary_Fig_6.ipynb) |
@@ -86,6 +88,41 @@ controlled access (see [Data availability](#data-availability)).
 | Supp.&nbsp;Fig.&nbsp;31–38 | Longitudinal mCA detection: phased calls at earlier timepoints | [`Supp_Fig_31-38…phased_timepoints.ipynb`](Supplementary_Fig_31-38-mCA_calling_phased_timepoints.ipynb) |
 | Supp.&nbsp;Fig.&nbsp;47 | Quantification of uncertainty for fitness and establishment time estimates | [`Supplementary_Fig_47.ipynb`](Supplementary_Fig_47.ipynb) |
 
+## Variant call file outputs
+
+Variant calls are written at several stages of the pipeline and the analysis. SNVs and indels are
+called separately — the *in silico* noise-correction (error) model applies to SNVs only, while indels
+are called by VarDictJava and filtered during post-processing. Each row below is one file per
+timepoint unless stated.
+
+**SNVs**
+
+| stage | file | what it holds | where |
+|---|---|---|---|
+| caller output, all positions | `<timepoint>_SNV_watson_code_{DCS,SSCS}_variants_MUFs_3_all_positions.vcf` | every position covered by the panel, with read counts; no annotation, no error model | EGA |
+| annotated | `<timepoint>_SNV_watson_code_DCS_variants_MUFs_3_annotated.txt` | the same calls with ANNOVAR annotation (gene, consequence, COSMIC, ExAC) | EGA |
+| after the error model | `<timepoint>_SNV_watson_code_DCS_MUFs_3_beta_binomial_SNV_all_variant_calls_Oct_2023.txt` | adds the position's fitted error rate, the *p*-value and the REAL VARIANT / ERROR call; the SNV input to the post-processing notebook | EGA |
+
+**Indels**
+
+| stage | file | what it holds | where |
+|---|---|---|---|
+| caller output | `<timepoint>_SNV_watson_code_DCS_VarDictJava.vcf` | VarDictJava calls, unannotated | EGA |
+| annotated | `<timepoint>_SNV_watson_code_DCS_VarDictJava_annotated.txt` | the same calls with ANNOVAR annotation; the indel input to the post-processing notebook | EGA |
+
+**After post-processing (SNVs, indels, *FLT3*-ITDs and mCAs together)**
+
+| stage | file | what it holds | where |
+|---|---|---|---|
+| per timepoint | `<timepoint>_..._{non-germline,germline}_variant_calls_2026_post_processed.txt` (SNVs) and `..._{non-germline,germline}_indel_variant_calls_2026_post_processed.txt` (indels) | the calls surviving post-processing, split germline / non-germline | written by `Post_processing_variant_calls.ipynb` |
+| final call tables | `UKCTOCS_non-germline_variants_calls_SNVs_indels_mCAs.csv`, `UKCTOCS_germline_variants_calls_SNV_indel_panel.csv` | all call types across the cohort; unrounded ages | EGA |
+| final call tables, rounded ages | `Data_files/UKCTOCS_non-germline_variants_calls_SNVs_indels_mCAs_rounded_ages.csv`, `Data_files/Somatic_SNV_indel_FLT3_calls.csv` (Supplementary Table 6), `Data_files/Somatic_mCA_calls.csv` (Supplementary Table 7) | the same calls with ages as completed years | **in this repository** |
+| somatic VCFs | per-sample VCF records of the final somatic calls | the published somatic calls in VCF form | Zenodo, DOI [10.5281/zenodo.22262497](https://doi.org/10.5281/zenodo.22262497) |
+
+*FLT3*-ITDs are called separately with Pindel and curated by hand; mCAs come from the CNV panel and
+its own caller. Both join at the final call tables. Everything upstream of those tables is
+individual-level participant data and carries germline variants, which is why it is controlled access.
+
 ## Data availability
 
 `Data_files/` holds everything needed to reproduce the analyses that do not rest on individual-level
@@ -97,9 +134,10 @@ Not in this repository:
 
 | data | where |
 |---|---|
-| <ul><li>raw sequencing reads</li><li>all-positions VCFs for single-strand (SSCS) and duplex (DCS) consensus reads</li><li>pre-error-model annotated call files (DCS)</li><li>germline SNV and indel calls</li><li>the combined somatic SNV, indel and mCA call table (the exact-age version of the rounded table provided here)</li><li>longitudinal mCA calls</li><li>per-sample BAF and LRR files</li><li>participant sample and clinical annotation files with exact ages</li></ul> | European Genome-phenome Archive (controlled access, via a Data Access Committee administered by the corresponding authors) |
-| The final filtered somatic variant calls (hg19):<ul><li>965 SNVs and indels as per-sample VCF records across 385 files</li><li>the <em>FLT3</em>-ITD as the Pindel caller's own output</li></ul>No ages or clinical data; the same calls with annotation and rounded ages are Supplementary Table 6 | Zenodo, DOI 10.5281/zenodo.22262496 |
-| <ul><li>hg19 reference genome</li><li>ANNOVAR <code>humandb/</code></li><li>fgbio</li></ul> | third parties; set the path in the notebook that uses them |
+| <ul><li>raw sequencing reads</li><li>pre-error-model all-positions VCFs for single-strand (SSCS) and duplex (DCS) consensus reads</li><li>pre-error-model annotated call files (DCS)</li><li>germline SNV and indel calls</li><li>the combined somatic SNV, indel and mCA call table (the exact-age version of the rounded table provided here)</li><li>longitudinal mCA calls</li><li>per-sample BAF and LRR files</li><li>participant sample and clinical annotation files with exact ages</li></ul> | European Genome-phenome Archive (controlled access, via a Data Access Committee administered by the corresponding authors) |
+| The final filtered somatic variant calls (hg19):<ul><li>965 SNVs and indels as per-sample VCF records across 385 files</li><li>the <em>FLT3</em>-ITD as the Pindel caller's own output</li></ul>No ages or clinical data; the same calls with annotation and rounded ages are Supplementary Table 6 | Zenodo, DOI 10.5281/zenodo.22262497 |
+| hg19 reference genome (<code>Homo_sapiens_assembly19.fasta</code>, Broad b37/GRCh37), with its index files | Zenodo, DOI <a href="https://doi.org/10.5281/zenodo.22846473">10.5281/zenodo.22846473</a> (4 GB compressed, ~8 GB unpacked; the archive accompanying the <a href="https://github.com/the-blundell-lab/TETRIS-seq">TETRIS-seq</a> pipeline), or the FASTA alone from the <a href="https://storage.googleapis.com/gcp-public-data--broad-references/hg19/v0/Homo_sapiens_assembly19.fasta">Broad's public bucket</a> (~3 GB, needs indexing) |
+| <ul><li>ANNOVAR <code>humandb/</code></li><li>fgbio</li></ul> | third parties; set the path in the notebook that uses them |
 
 Each notebook's own Data availability table says which of these it needs, and several fall back to a
 summary file so the figure can still be drawn without the controlled-access data.
