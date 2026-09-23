@@ -97,7 +97,7 @@ timepoint unless stated.
 
 **SNVs**
 
-| stage | file | what it holds | where |
+| stage | file | what it contains | where |
 |---|---|---|---|
 | caller output, all positions | `<timepoint>_SNV_watson_code_`<br>`{DCS,SSCS}_variants_MUFs_3_`<br>`all_positions.vcf` | every position covered by the panel, with read counts; no annotation, no error model | EGA |
 | annotated | `<timepoint>_SNV_watson_code_`<br>`DCS_variants_MUFs_3_`<br>`annotated.txt` | the same calls with ANNOVAR annotation (gene, consequence, COSMIC, ExAC) | EGA |
@@ -105,18 +105,18 @@ timepoint unless stated.
 
 **Indels**
 
-| stage | file | what it holds | where |
+| stage | file | what it contains | where |
 |---|---|---|---|
 | caller output | `<timepoint>_SNV_watson_code_`<br>`DCS_VarDictJava.vcf` | VarDictJava calls, unannotated | EGA |
 | annotated | `<timepoint>_SNV_watson_code_`<br>`DCS_VarDictJava_`<br>`annotated.txt` | the same calls with ANNOVAR annotation; the indel input to the post-processing notebook | EGA |
 
 **After post-processing (SNVs, indels, *FLT3*-ITDs and mCAs together)**
 
-| stage | file | what it holds | where |
+| stage | file | what it contains | where |
 |---|---|---|---|
-| per timepoint | `<timepoint>_..._{non-germline,germline}_`<br>`variant_calls_2026_post_processed.txt` (SNVs)<br>`<timepoint>_..._{non-germline,germline}_`<br>`indel_variant_calls_2026_post_processed.txt` (indels) | the calls surviving post-processing, split germline / non-germline | written by `Post_processing_variant_calls.ipynb` |
-| final call tables | `UKCTOCS_non-germline_variants_`<br>`calls_SNVs_indels_mCAs.csv`<br>`UKCTOCS_germline_variants_`<br>`calls_SNV_indel_panel.csv` | all call types across the cohort; unrounded ages | EGA |
-| final call tables, rounded ages | `UKCTOCS_non-germline_variants_`<br>`calls_SNVs_indels_mCAs_`<br>`rounded_ages.csv`<br>`Somatic_SNV_indel_FLT3_calls.csv` (Supplementary Table 6)<br>`Somatic_mCA_calls.csv` (Supplementary Table 7) | the same calls with ages as completed years | **in this repository**, under `Data_files/` |
+| per timepoint | `<timepoint>_..._{non-germline,`<br>`germline}_variant_calls_`<br>`2026_post_processed.txt` (SNVs)<br>`..._{non-germline,germline}_`<br>`indel_variant_calls_`<br>`2026_post_processed.txt` (indels) | the calls surviving post-processing, split germline / non-germline | written by the post-processing notebook |
+| final call tables | `UKCTOCS_non-germline_`<br>`variants_calls_SNVs_`<br>`indels_mCAs.csv`<br>`UKCTOCS_germline_variants_`<br>`calls_SNV_indel_panel.csv` | all call types across the cohort; unrounded ages | EGA |
+| final call tables, rounded ages | `UKCTOCS_non-germline_`<br>`variants_calls_SNVs_indels_`<br>`mCAs_rounded_ages.csv`<br>`Somatic_SNV_indel_FLT3_calls.csv` (Supplementary Table 6)<br>`Somatic_mCA_calls.csv` (Supplementary Table 7) | the same calls with ages as completed years | **in this repository**, under `Data_files/` |
 | somatic VCFs | `<timepoint>_somatic.vcf` | the published somatic calls in VCF form, one file per timepoint | Zenodo, DOI [10.5281/zenodo.22262497](https://doi.org/10.5281/zenodo.22262497) |
 
 *FLT3*-ITDs are called separately with Pindel and curated by hand; mCAs come from the CNV panel and
