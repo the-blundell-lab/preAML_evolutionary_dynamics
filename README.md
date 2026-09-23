@@ -99,25 +99,25 @@ timepoint unless stated.
 
 | stage | file | what it holds | where |
 |---|---|---|---|
-| caller output, all positions | `<timepoint>_SNV_watson_code_{DCS,SSCS}_variants_MUFs_3_all_positions.vcf` | every position covered by the panel, with read counts; no annotation, no error model | EGA |
-| annotated | `<timepoint>_SNV_watson_code_DCS_variants_MUFs_3_annotated.txt` | the same calls with ANNOVAR annotation (gene, consequence, COSMIC, ExAC) | EGA |
-| after the error model | `<timepoint>_SNV_watson_code_DCS_MUFs_3_beta_binomial_SNV_all_variant_calls_Oct_2023.txt` | adds the position's fitted error rate, the *p*-value and the REAL VARIANT / ERROR call; the SNV input to the post-processing notebook | EGA |
+| caller output, all positions | <code>&lt;timepoint&gt;_SNV_watson_code_<br>{DCS,SSCS}_variants_MUFs_3_<br>all_positions.vcf</code> | every position covered by the panel, with read counts; no annotation, no error model | EGA |
+| annotated | <code>&lt;timepoint&gt;_SNV_watson_code_<br>DCS_variants_MUFs_3_<br>annotated.txt</code> | the same calls with ANNOVAR annotation (gene, consequence, COSMIC, ExAC) | EGA |
+| after the error model | <code>&lt;timepoint&gt;_SNV_watson_code_<br>DCS_MUFs_3_beta_binomial_SNV_<br>all_variant_calls_Oct_2023.txt</code> | adds the position's fitted error rate, the *p*-value and the REAL VARIANT / ERROR call; the SNV input to the post-processing notebook | EGA |
 
 **Indels**
 
 | stage | file | what it holds | where |
 |---|---|---|---|
-| caller output | `<timepoint>_SNV_watson_code_DCS_VarDictJava.vcf` | VarDictJava calls, unannotated | EGA |
-| annotated | `<timepoint>_SNV_watson_code_DCS_VarDictJava_annotated.txt` | the same calls with ANNOVAR annotation; the indel input to the post-processing notebook | EGA |
+| caller output | <code>&lt;timepoint&gt;_SNV_watson_code_<br>DCS_VarDictJava.vcf</code> | VarDictJava calls, unannotated | EGA |
+| annotated | <code>&lt;timepoint&gt;_SNV_watson_code_<br>DCS_VarDictJava_<br>annotated.txt</code> | the same calls with ANNOVAR annotation; the indel input to the post-processing notebook | EGA |
 
 **After post-processing (SNVs, indels, *FLT3*-ITDs and mCAs together)**
 
 | stage | file | what it holds | where |
 |---|---|---|---|
-| per timepoint | `<timepoint>_..._{non-germline,germline}_variant_calls_2026_post_processed.txt` (SNVs) and `..._{non-germline,germline}_indel_variant_calls_2026_post_processed.txt` (indels) | the calls surviving post-processing, split germline / non-germline | written by `Post_processing_variant_calls.ipynb` |
-| final call tables | `UKCTOCS_non-germline_variants_calls_SNVs_indels_mCAs.csv`, `UKCTOCS_germline_variants_calls_SNV_indel_panel.csv` | all call types across the cohort; unrounded ages | EGA |
-| final call tables, rounded ages | `Data_files/UKCTOCS_non-germline_variants_calls_SNVs_indels_mCAs_rounded_ages.csv`, `Data_files/Somatic_SNV_indel_FLT3_calls.csv` (Supplementary Table 6), `Data_files/Somatic_mCA_calls.csv` (Supplementary Table 7) | the same calls with ages as completed years | **in this repository** |
-| somatic VCFs | per-sample VCF records of the final somatic calls | the published somatic calls in VCF form | Zenodo, DOI [10.5281/zenodo.22262497](https://doi.org/10.5281/zenodo.22262497) |
+| per timepoint | <code>&lt;timepoint&gt;_..._{non-germline,<br>germline}_variant_calls_<br>2026_post_processed.txt</code> (SNVs)<br><code>..._{non-germline,germline}_<br>indel_variant_calls_<br>2026_post_processed.txt</code> (indels) | the calls surviving post-processing, split germline / non-germline | written by `Post_processing_variant_calls.ipynb` |
+| final call tables | <code>UKCTOCS_non-germline_<br>variants_calls_SNVs_indels_<br>mCAs.csv</code><br><code>UKCTOCS_germline_variants_<br>calls_SNV_indel_panel.csv</code> | all call types across the cohort; unrounded ages | EGA |
+| final call tables, rounded ages | <code>UKCTOCS_non-germline_<br>variants_calls_SNVs_indels_<br>mCAs_rounded_ages.csv</code><br><code>Somatic_SNV_indel_FLT3_calls.csv</code><br>(Supplementary Table 6)<br><code>Somatic_mCA_calls.csv</code><br>(Supplementary Table 7) | the same calls with ages as completed years | **in this repository**, under `Data_files/` |
+| somatic VCFs | <code>&lt;timepoint&gt;_somatic.vcf</code> | the published somatic calls in VCF form, one file per timepoint | Zenodo, DOI [10.5281/zenodo.22262497](https://doi.org/10.5281/zenodo.22262497) |
 
 *FLT3*-ITDs are called separately with Pindel and curated by hand; mCAs come from the CNV panel and
 its own caller. Both join at the final call tables. Everything upstream of those tables is
