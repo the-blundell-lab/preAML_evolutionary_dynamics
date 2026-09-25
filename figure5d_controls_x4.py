@@ -6,7 +6,10 @@ aligned to a matched AML diagnosis age sampled from the case distribution and it
 trajectories drawn over the 15 years before that age. Coloured by driver number, 2000-4000x
 sequencing depth, white-outlined lines, no highlighted trajectories. Model = sim_fast.py.
 
-Usage:  python figure5d_controls_x4.py --sims 2400 --workers 4 --n 50 --groups 4
+The matched AML diagnosis ages are collected from this run's own AML cases (self-contained; no
+external data file needed), so --sims must be large enough to produce a good spread of them.
+
+Usage:  python figure5d_controls_x4.py --sims 20000 --workers 4 --n 50 --groups 4
 """
 import os
 os.environ.setdefault('OMP_NUM_THREADS', '1'); os.environ.setdefault('OPENBLAS_NUM_THREADS', '1')
@@ -114,7 +117,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--s', type=float, default=0.16); ap.add_argument('--r', type=float, default=2.5)
     ap.add_argument('--p', type=int, default=3); ap.add_argument('--offset', type=float, default=0.0)
-    ap.add_argument('--sims', type=int, default=2400); ap.add_argument('--workers', type=int, default=4)
+    ap.add_argument('--sims', type=int, default=20000); ap.add_argument('--workers', type=int, default=4)
     ap.add_argument('--n', type=int, default=50, help='controls per plot')
     ap.add_argument('--groups', type=int, default=4, help='number of replicate plots')
     ap.add_argument('--out', type=str, default='Figure5d_controls')
@@ -126,14 +129,13 @@ def main():
     case_dx = np.array([d for cd, _ in parts for d in cd])
     controls = [c for _, cc in parts for c in cc]
 
-    # matched diagnosis ages: prefer the large 200k dx pool if present, else this run's cases
-    if os.path.exists('bc_dx.npy'):
-        pool_dx = np.load('bc_dx.npy')
-    else:
-        pool_dx = case_dx
-    dxs = pool_dx[(pool_dx >= STORE_AGES[0] + 15) & (pool_dx <= STORE_AGES[-1] + 1)]
+    # matched AML diagnosis ages, taken from this run's own AML cases; each control is aligned to
+    # one of these (must leave a full 15-yr window inside the stored age range)
+    dxs = case_dx[(case_dx >= STORE_AGES[0] + 15) & (case_dx <= STORE_AGES[-1] + 1)]
     need = a.groups * a.n
-    print(f"{len(controls)} controls stored ({need} needed), {len(dxs)} matched ages available")
+    if len(dxs) == 0:
+        raise SystemExit("no usable AML diagnosis ages collected - increase --sims")
+    print(f"{len(controls)} controls stored ({need} needed), {len(dxs)} matched diagnosis ages collected")
 
     age_to_i = {ag: i for i, ag in enumerate(STORE_AGES)}
     MUT_LIGHT = {k: lighten(v) for k, v in MUT.items()}
