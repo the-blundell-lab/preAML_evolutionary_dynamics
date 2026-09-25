@@ -1,6 +1,6 @@
-# Evolutionary dynamics in the decades preceding acute myeloid leukaemia
+# Evolutionary dynamics in the years preceding acute myeloid leukaemia
 
-Code accompanying the manuscript **"Evolutionary dynamics in the decades preceding acute myeloid
+Code accompanying the manuscript **"Evolutionary dynamics in the years preceding acute myeloid
 leukaemia"**, in which annual blood samples from 47 women who went on to develop AML and 46 matched
 controls (UKCTOCS) were sequenced with TETRIS-seq and used to reconstruct clonal evolution in the
 decades before diagnosis.
