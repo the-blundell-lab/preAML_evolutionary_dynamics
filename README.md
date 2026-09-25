@@ -146,8 +146,9 @@ summary file so the figure can still be drawn without the controlled-access data
 ## Licence and citation
 
 The code in this repository is released under the **GNU General Public License v3.0**
-(see [LICENSE](LICENSE)), as is the upstream
-[TETRIS-seq](https://github.com/the-blundell-lab/TETRIS-seq) pipeline. The data files under
+(see [LICENSE](LICENSE)). The upstream
+[TETRIS-seq](https://github.com/the-blundell-lab/TETRIS-seq) pipeline is released
+under the BSD 3-Clause License. The data files under
 `Data_files/` are provided for reproducing the analyses presented in the manuscript.
 
 If you use this code, please cite the manuscript.
